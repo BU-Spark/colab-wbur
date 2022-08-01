@@ -6,7 +6,7 @@ For SQL command:\
 Main used:\
 <b>SELECT</b> col, <b>COUNT(col)</b>\
 <b> FROM </b> name_of_table\
-<b>GROUP BY</b> col\
+<b>GROUP BY</b> col
 
 <b> SELECT </b> *\
 <b>FROM name_of_table </b>
