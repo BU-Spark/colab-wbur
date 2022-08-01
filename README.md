@@ -2,7 +2,7 @@
 There are 3 databses:\
 civica_courtdocs\
 wp_courtdocs\
-wp_courtdocs_NORMALIZED\
+wp_courtdocs_NORMALIZED
 
 civica_courtdocs -> cases_masscourts_org is where you find all the court location, title of cases, types, status, status_date, file_date\
 <b>NOTE: court_division and court_location are the same, so you can drop one of the either</b>\
