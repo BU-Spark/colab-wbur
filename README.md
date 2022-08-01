@@ -6,6 +6,7 @@ wp_courtdocs_NORMALIZED
 
 civica_courtdocs -> cases_masscourts_org is where you find all the court location, title of cases, types, status, status_date, file_date\
 <b>NOTE: court_division and court_location are the same, so you can drop one of the either</b>\
+
 cases_masscourts_org <b>merge</b> with cdocs_case_action_index on case_number.\
 cdocs_party_index <b>merge</b> with cdocs_text_search_index on post_id.
 
