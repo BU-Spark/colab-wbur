@@ -7,7 +7,16 @@ wp_courtdocs_NORMALIZED
 civica_courtdocs -> cases_masscourts_org is where you find all the court location, title of cases, types, status, status_date, file_date\
 <b>NOTE: court_division and court_location are the same, so you can drop one of the either</b>\
 
-cases_masscourts_org <b>merge</b> with cdocs_case_action_index on case_number.\
+You'll be using wp_courtdocs the most:
+cdocs_case_action_index\
+cdocs_case_meta_index\
+cdocs_party_assignment_index\
+cdocs_party_index
+
+wp_courtdocs -> cdocs_case_meta_index is where you find all the post_id, case_number, case_type, case_status\
+wp_courtdocs -> cdocs_case_action_index is where you find action of each cases.
+
+cases_masscourts_org <b>merge</b> with cdocs_case_action_index on case_number and <b>map</b> judge_id with _tmp_judges. 
 cdocs_party_index <b>merge</b> with cdocs_text_search_index on post_id.
 
 Some of the codes are written by python and basic SQL. Since theres no jupyter notebooks for SQL, Below are the SQL codes that I used.
