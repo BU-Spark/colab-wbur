@@ -1,6 +1,6 @@
 # For this WBUR project,
 
-Some of the codes are written by python and basic SQL.
+Some of the codes are written by python and basic SQL. Since theres no jupyter notebooks for SQL, Below are the SQL codes that I used.
 
 For SQL command:\
 Main used:\
