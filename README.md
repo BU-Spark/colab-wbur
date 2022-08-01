@@ -1,4 +1,4 @@
-# For this WBUR project, data is pull from the MySQL database:\
+# For this WBUR project, data is pull from the MySQL database:
 There are 3 databses:\
 civica_courtdocs\
 wp_courtdocs\
