@@ -1,6 +1,19 @@
-# TEMPLATE-base-repo
+# For this WBUR project,
 
-# Add Users
-To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.
+Some of the codes are written by python and basic SQL.\
 
-All Pull Requests must follow the Pull Request Template, with a title formatted like such `[Project Name]: <Descriptive Title>`
+For SQL command:\
+Main used:\
+<b>SELECT</b> col, <b>COUNT(col)</b>\
+<b> FROM </b> name_of_table\
+<b>GROUP BY</b> col\
+
+<b> SELECT </b> *\
+<b>FROM name_of_table </b>\
+
+Filtering:
+
+<b> SELECT </b> col\
+<b>WHERE col = (something) </b>\
+<b> FROM </b> name_of_table
+
