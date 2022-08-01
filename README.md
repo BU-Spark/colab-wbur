@@ -1,6 +1,6 @@
 # For this WBUR project,
 
-Some of the codes are written by python and basic SQL.\
+Some of the codes are written by python and basic SQL.
 
 For SQL command:\
 Main used:\
@@ -9,7 +9,7 @@ Main used:\
 <b>GROUP BY</b> col\
 
 <b> SELECT </b> *\
-<b>FROM name_of_table </b>\
+<b>FROM name_of_table </b>
 
 Filtering:
 
