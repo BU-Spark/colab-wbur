@@ -1,6 +1,9 @@
-# TEMPLATE-base-repo
+# Content
 
-# Add Users
-To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.
+This branch contains three notebooks.
 
-All Pull Requests must follow the Pull Request Template, with a title formatted like such `[Project Name]: <Descriptive Title>`
+One notebook is preliminary analysis on Mass Court Data, done at week1.
+
+The second notebook Bank_Plaintiff_Proportion.ipynb investigates proportion of banks as plaintiff from 2005-2022. 
+
+The third notebook Judges_Devision.ipynb classfies judges with different categories. 
