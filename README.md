@@ -1,3 +1,4 @@
+
 # For this WBUR project, data is pull from the MySQL database:
 There are 3 databses:\
 civica_courtdocs\
@@ -36,3 +37,11 @@ Filtering:
 <b>WHERE col = (something) </b>\
 <b> FROM </b> name_of_table
 
+
+# Content
+
+One notebook is preliminary analysis on Mass Court Data, done at week1.
+
+The second notebook Bank_Plaintiff_Proportion.ipynb investigates proportion of banks as plaintiff from 2005-2022. 
+
+The third notebook Judges_Devision.ipynb classfies judges with different categories. 
