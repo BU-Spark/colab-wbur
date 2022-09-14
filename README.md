@@ -1,6 +1,38 @@
-# TEMPLATE-base-repo
+# For this WBUR project, data is pull from the MySQL database:
+There are 3 databses:\
+civica_courtdocs\
+wp_courtdocs\
+wp_courtdocs_NORMALIZED
 
-# Add Users
-To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.
+civica_courtdocs -> cases_masscourts_org is where you find all the court location, title of cases, types, status, status_date, file_date\
+<b>NOTE: court_division and court_location are the same, so you can drop one of the either</b>\
 
-All Pull Requests must follow the Pull Request Template, with a title formatted like such `[Project Name]: <Descriptive Title>`
+You'll be using wp_courtdocs the most:\
+cdocs_case_action_index\
+cdocs_case_meta_index\
+cdocs_party_assignment_index\
+cdocs_party_index
+
+wp_courtdocs -> cdocs_case_meta_index is where you find all the post_id, case_number, case_type, case_status\
+wp_courtdocs -> cdocs_case_action_index is where you find action of each cases.
+
+cases_masscourts_org <b>merge</b> with cdocs_case_action_index on case_number and <b>map</b> judge_id with _tmp_judges. 
+cdocs_party_index <b>merge</b> with cdocs_text_search_index on post_id.
+
+Some of the codes are written by python and basic SQL. Since theres no jupyter notebooks for SQL, Below are the SQL codes that I used.
+
+For SQL command:\
+Main used:\
+<b>SELECT</b> col, <b>COUNT(col)</b>\
+<b> FROM </b> name_of_table\
+<b>GROUP BY</b> col
+
+<b> SELECT </b> *\
+<b>FROM name_of_table </b>
+
+Filtering:
+
+<b> SELECT </b> col\
+<b>WHERE col = (something) </b>\
+<b> FROM </b> name_of_table
+
