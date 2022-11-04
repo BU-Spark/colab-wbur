@@ -1,0 +1,1441 @@
+,post_id,party_name,case_number,case_type,case_status,file_date,status_date
+0,1428942,Bayview Loan Servicing LLC,10 MISC 443195,Servicemembers,Open,20101119,20101119
+1,1431038,Bayview Loan Servicing LLC,10 MISC 443196,Servicemembers,Closed,20101119,20110503
+2,3072087,Bayview Loan Servicing LLC,11 MISC 444823,Servicemembers,Closed,20110124,20110524
+3,3072303,Bayview Loan Servicing LLC,11 MISC 444824,Servicemembers,Closed,20110124,20110524
+4,3914101,Bayview Loan Servicing LLC,1356SU000643,Summary Process,Disposed (Statistical Purposes),20130701,20130710
+5,4048224,Bayview Loan Servicing LLC,14 MISC 481079,Servicemembers,Closed,20140106,20140905
+6,4329435,Bayview Loan Servicing LLC,13 MISC 478636,Servicemembers,Closed,20130719,20130920
+7,4517931,Bayview Loan Servicing LLC,14 MISC 484926,Miscellaneous,Closed,20140718,20150715
+8,4768358,Bayview Loan Servicing LLC,14 MISC 483256,Servicemembers,Closed,20140425,20150731
+9,4917351,Bayview Loan Servicing LLC,14 MISC 483768,Servicemembers,Open,20140516,20140516
+10,8348032,Bayview Loan Servicing LLC,1285CV00003,Contract / Business Cases,Suspended,20120103,20121207
+11,9514319,Bayview Loan Servicing LLC,1456SU000275,Summary Process,Disposed (Statistical Purposes),20140310,20140321
+12,9515215,Bayview Loan Servicing LLC,1456SU000276,Summary Process,Disposed (Statistical Purposes),20140310,20140321
+13,10770083,Bayview Loan Servicing LLC,1456SU001103,Summary Process,Disposed (Statistical Purposes),20141006,20150408
+14,11314588,Bayview Loan Servicing LLC,13 MISC 479548,Servicemembers,Closed,20130916,20131105
+15,11316071,Bayview Loan Servicing LLC,13 MISC 479549,Servicemembers,Open,20130916,20130916
+16,11390316,Bayview Loan Servicing LLC,13 MISC 479846,Servicemembers,Closed,20131001,20131119
+17,11390457,Bayview Loan Servicing LLC,13 MISC 479847,Servicemembers,Open,20131001,20131001
+18,11390806,Bayview Loan Servicing LLC,13 MISC 479848,Servicemembers,Closed,20131001,20140324
+19,11392119,Bayview Loan Servicing LLC,13 MISC 479849,Servicemembers,Closed,20131001,20131119
+20,11925239,Bayview Loan Servicing LLC,13 MISC 480984,Servicemembers,Closed,20131223,20140211
+21,12107519,Bayview Loan Servicing LLC,11 MISC 450859,Servicemembers,Closed,20110718,20111020
+22,12108871,Bayview Loan Servicing LLC,11 MISC 450860,Servicemembers,Closed,20110718,20111020
+23,12579613,Bayview Loan Servicing LLC,11 MISC 456700,Miscellaneous,Closed,20111208,20131003
+24,15320178,Bayview Loan Servicing LLC,13 MISC 477568,Servicemembers,Closed,20130409,20130614
+25,15325096,Bayview Loan Servicing LLC,13 MISC 477569,Servicemembers,Open,20130409,20130409
+26,15328310,Bayview Loan Servicing LLC,13 MISC 477571,Servicemembers,Open,20130409,20130409
+27,15382271,Bayview Loan Servicing LLC,13 MISC 477567,Servicemembers,Closed,20130409,20130614
+28,15983668,Bayview Loan Servicing LLC,13 MISC 478154,Servicemembers,Closed,20130607,20130723
+29,16329839,Bayview Loan Servicing LLC,13 MISC 478316,Servicemembers,Closed,20130624,20130813
+30,16330103,Bayview Loan Servicing LLC,13 MISC 478317,Servicemembers,Closed,20130624,20130815
+31,16384548,Bayview Loan Servicing LLC,13 MISC 478367,Servicemembers,Closed,20130627,20130815
+32,17072609,Bayview Loan Servicing LLC,1455SU000198,Summary Process,Disposed (Statistical Purposes),20140818,20140828
+33,18229702,Bayview Loan Servicing LLC,1085CV00408,Contract / Business Cases,Closed,20100224,20121015
+34,18350825,Bayview Loan Servicing LLC,1185CV01973,Contract / Business Cases,Open,20111005,20150318
+35,18503498,Bayview Loan Servicing LLC,1177CV00360,Contract / Business Cases,Closed,20110228,20121010
+36,19230439,Bayview Loan Servicing LLC,1077CV01499,Equitable Remedies,Closed,20100713,20120830
+37,19682972,Bayview Loan Servicing LLC,1077CV01948,Equitable Remedies,Closed,20100913,20110211
+38,19712837,Bayview Loan Servicing LLC,1285CV00111,Equitable Remedies,Closed,20120118,20140430
+39,23964200,Bayview Loan Servicing LLC,1514SU000210,Summary Process,Disposed (Statistical Purposes),20150506,20150611
+40,25930001,Bayview Loan Servicing LLC,1549SU000227,Summary Process,Disposed (Statistical Purposes),20150511,20150608
+41,40303625,Bayview Loan Servicing LLC,07H83SP07039NB,Housing Court Summary Process,Active,20071031,20071031
+42,44574010,Bayview Loan Servicing LLC,09H83SP01366NB,Housing Court Summary Process,Active,20090429,20090429
+43,44675926,Bayview Loan Servicing LLC,08 MISC 386030,Servicemembers,Closed,20081006,20090331
+44,44678682,Bayview Loan Servicing LLC,08 MISC 386041,Servicemembers,Closed,20081006,20150211
+45,48710362,Bayview Loan Servicing LLC,16 SM 003384,Servicemembers,Open,20160401,20160401
+46,49531406,Bayview Loan Servicing LLC,11 MISC 450071,Servicemembers,Closed,20110705,20110922
+47,49534555,Bayview Loan Servicing LLC,11 MISC 450070,Servicemembers,Closed,20110705,20110930
+48,49534665,Bayview Loan Servicing LLC,11 MISC 450069,Servicemembers,Closed,20110705,20110928
+49,49534821,Bayview Loan Servicing LLC,11 MISC 450068,Servicemembers,Open,20110705,20110705
+0,49538590,Bayview Loan Servicing LLC,11 MISC 450072,Servicemembers,Open,20110705,20110705
+1,49654062,Bayview Loan Servicing LLC,11 MISC 450520,Servicemembers,Closed,20110712,20111005
+2,49657364,Bayview Loan Servicing LLC,11 MISC 450517,Servicemembers,Open,20110712,20110712
+3,49661074,Bayview Loan Servicing LLC,11 MISC 450519,Servicemembers,Open,20110712,20110712
+4,49931703,Bayview Loan Servicing LLC,12 MISC 460682,Servicemembers,Closed,20120308,20120827
+5,49962489,Bayview Loan Servicing LLC,14 MISC 481641,Servicemembers,Closed,20140214,20140410
+6,50219798,Bayview Loan Servicing LLC,11 MISC 447561,Servicemembers,Closed,20110414,20110818
+7,50223092,Bayview Loan Servicing LLC,11 MISC 447562,Servicemembers,Closed,20110414,20110829
+8,50272071,Bayview Loan Servicing LLC,14 MISC 484580,Servicemembers,Closed,20140702,20140819
+9,50463967,Bayview Loan Servicing LLC,12 MISC 461235,Servicemembers,Open,20120320,20120320
+10,50537302,Bayview Loan Servicing LLC,11 MISC 448177,Servicemembers,Open,20110502,20110502
+11,50537652,Bayview Loan Servicing LLC,11 MISC 448178,Servicemembers,Closed,20110502,20110913
+12,50539265,Bayview Loan Servicing LLC,11 MISC 448176,Servicemembers,Closed,20110502,20110913
+13,50540167,Bayview Loan Servicing LLC,11 MISC 448174,Servicemembers,Closed,20110502,20110913
+14,50541163,Bayview Loan Servicing LLC,11 MISC 448175,Servicemembers,Closed,20110502,20120831
+15,50548620,Bayview Loan Servicing LLC,14 MISC 482208,Servicemembers,Closed,20140312,20140410
+16,50548954,Bayview Loan Servicing LLC,14 MISC 482209,Servicemembers,Closed,20140312,20140529
+17,50826215,Bayview Loan Servicing LLC,15 SM 000135,Servicemembers,Closed,20150109,20150520
+18,50832863,Bayview Loan Servicing LLC,11 MISC 448632,Servicemembers,Closed,20110518,20110916
+19,50833403,Bayview Loan Servicing LLC,11 MISC 448633,Servicemembers,Closed,20110518,20110916
+20,50911466,Bayview Loan Servicing LLC,15 SM 000185,Servicemembers,Closed,20150113,20150519
+21,50911985,Bayview Loan Servicing LLC,11 MISC 448836,Servicemembers,Open,20110526,20110526
+22,51453428,Bayview Loan Servicing LLC,14 MISC 487301,Servicemembers,Closed,20141017,20150409
+23,51630739,Bayview Loan Servicing LLC,10 MISC 441274,Servicemembers,Open,20101005,20101005
+24,51663133,Bayview Loan Servicing LLC,14 MISC 487601,Servicemembers,Closed,20141027,20150109
+25,51666118,Bayview Loan Servicing LLC,14 MISC 487599,Servicemembers,Closed,20141027,20150109
+26,51681519,Bayview Loan Servicing LLC,14 MISC 484169,Servicemembers,Closed,20140609,20140729
+27,51940228,Bayview Loan Servicing LLC,10 MISC 441389,Servicemembers,Open,20101007,20101007
+28,52407801,Bayview Loan Servicing LLC,11 MISC 446599,Servicemembers,Closed,20110324,20110808
+29,52447841,Bayview Loan Servicing LLC,14 MISC 481218,Servicemembers,Closed,20140116,20140305
+30,52448810,Bayview Loan Servicing LLC,14 MISC 481219,Servicemembers,Open,20140116,20140116
+31,52456078,Bayview Loan Servicing LLC,13 MISC 477954,Servicemembers,Closed,20130516,20130702
+32,52482488,Bayview Loan Servicing LLC,13 MISC 478057,Servicemembers,Open,20130528,20130528
+33,52482979,Bayview Loan Servicing LLC,13 MISC 478056,Servicemembers,Closed,20130528,20130716
+34,53140685,Bayview Loan Servicing LLC,13 MISC 479981,Servicemembers,Open,20131009,20131009
+35,53140727,Bayview Loan Servicing LLC,13 MISC 479979,Servicemembers,Open,20131009,20131009
+36,53141415,Bayview Loan Servicing LLC,13 MISC 479984,Servicemembers,Closed,20131009,20131127
+37,53141547,Bayview Loan Servicing LLC,13 MISC 479983,Servicemembers,Closed,20131009,20131126
+38,53141638,Bayview Loan Servicing LLC,13 MISC 479978,Servicemembers,Closed,20131009,20131127
+39,53141662,Bayview Loan Servicing LLC,13 MISC 479977,Servicemembers,Closed,20131009,20131127
+40,53141794,Bayview Loan Servicing LLC,13 MISC 479982,Servicemembers,Closed,20131009,20131127
+41,53374686,Bayview Loan Servicing LLC,07 MISC 346044,Servicemembers,Closed,20070424,20070823
+42,53449722,Bayview Loan Servicing LLC,13 MISC 480078,Servicemembers,Closed,20131016,20131205
+43,53458971,Bayview Loan Servicing LLC,13 MISC 480115,Servicemembers,Closed,20131018,20131205
+44,53543146,Bayview Loan Servicing LLC,13 MISC 480357,Servicemembers,Open,20131031,20131031
+45,53543225,Bayview Loan Servicing LLC,13 MISC 480355,Servicemembers,Closed,20131031,20141022
+46,53543236,Bayview Loan Servicing LLC,13 MISC 480359,Servicemembers,Closed,20131031,20150604
+47,53543324,Bayview Loan Servicing LLC,13 MISC 480358,Servicemembers,Open,20131031,20131031
+48,53545036,Bayview Loan Servicing LLC,13 MISC 480356,Servicemembers,Closed,20131031,20131218
+49,53557492,Bayview Loan Servicing LLC,13 MISC 480436,Servicemembers,Closed,20131105,20131224
+0,53770001,Bayview Loan Servicing LLC,13 MISC 480549,Servicemembers,Closed,20131113,20140106
+1,54083281,Bayview Loan Servicing LLC,15 SM 009019,Servicemembers,Open,20151014,20151014
+2,54305067,Bayview Loan Servicing LLC,12 MISC 469568,Servicemembers,Closed,20120820,20130319
+3,54316340,Bayview Loan Servicing LLC,12 MISC 468233,Servicemembers,Open,20120726,20120726
+4,54351496,Bayview Loan Servicing LLC,12 MISC 468238,Servicemembers,Open,20120727,20120727
+5,54411829,Bayview Loan Servicing LLC,12 MISC 468434,Servicemembers,Closed,20120731,20130614
+6,54483192,Bayview Loan Servicing LLC,14 MISC 487994,Servicemembers,Closed,20141107,20150331
+7,54584578,Bayview Loan Servicing LLC,15 SM 007447,Servicemembers,Closed,20150902,20151020
+8,54823723,Bayview Loan Servicing LLC,15 SM 007199,Servicemembers,Closed,20150826,20151020
+9,55031790,Bayview Loan Servicing LLC,15 SM 007446,Servicemembers,Closed,20150902,20151020
+10,55032519,Bayview Loan Servicing LLC,14 MISC 488544,Servicemembers,Closed,20141203,20150414
+11,55034636,Bayview Loan Servicing LLC,14 MISC 488754,Servicemembers,Closed,20141211,20150414
+12,55226691,Bayview Loan Servicing LLC,13 MISC 475804,Servicemembers,Closed,20130118,20130510
+13,55251292,Bayview Loan Servicing LLC,10 MISC 443041,Servicemembers,Closed,20101116,20110823
+14,55324770,Bayview Loan Servicing LLC,13 MISC 476629,Servicemembers,Open,20130214,20130214
+15,55337172,Bayview Loan Servicing LLC,13 MISC 479584,Servicemembers,Closed,20130917,20131105
+16,55340698,Bayview Loan Servicing LLC,15 SM 007325,Servicemembers,Closed,20150831,20151020
+17,55340707,Bayview Loan Servicing LLC,13 MISC 476803,Servicemembers,Closed,20130222,20130611
+18,55354041,Bayview Loan Servicing LLC,13 MISC 476804,Servicemembers,Closed,20130222,20130611
+19,55375899,Bayview Loan Servicing LLC,15 SM 010131,Servicemembers,Closed,20151117,20160119
+20,55386274,Bayview Loan Servicing LLC,13 MISC 479583,Servicemembers,Open,20130917,20130917
+21,55541476,Bayview Loan Servicing LLC,13 MISC 476145,Servicemembers,Closed,20130129,20130521
+22,55627160,Bayview Loan Servicing LLC,13 MISC 476426,Servicemembers,Closed,20130207,20130529
+23,55647991,Bayview Loan Servicing LLC,13 MISC 479701,Servicemembers,Closed,20130924,20131210
+24,55673789,Bayview Loan Servicing LLC,13 MISC 479748,Servicemembers,Closed,20130925,20131113
+25,55681739,Bayview Loan Servicing LLC,13 MISC 479747,Servicemembers,Closed,20130925,20131113
+26,55715531,Bayview Loan Servicing LLC,14 MISC 488844,Servicemembers,Closed,20141216,20150414
+27,55751628,Bayview Loan Servicing LLC,13 MISC 477312,Servicemembers,Closed,20130320,20130618
+28,55764986,Bayview Loan Servicing LLC,16 SM 000035,Servicemembers,Closed,20160104,20160210
+29,55808498,Bayview Loan Servicing LLC,13 MISC 477806,Servicemembers,Closed,20130502,20130624
+30,55808976,Bayview Loan Servicing LLC,13 MISC 477808,Servicemembers,Closed,20130502,20130624
+31,55826310,Bayview Loan Servicing LLC,12 MISC 473832,Servicemembers,Closed,20121114,20130426
+32,55832562,Bayview Loan Servicing LLC,13 MISC 477434,Servicemembers,Closed,20130328,20130618
+33,56017835,Bayview Loan Servicing LLC,13 MISC 477893,Servicemembers,Closed,20130509,20131011
+34,56025098,Bayview Loan Servicing LLC,11 MISC 452426,Servicemembers,Open,20110819,20110819
+35,56120564,Bayview Loan Servicing LLC,16 SM 000171,Servicemembers,Closed,20160106,20160303
+36,56129841,Bayview Loan Servicing LLC,11 MISC 444890,Servicemembers,Closed,20110125,20110524
+37,56137434,Bayview Loan Servicing LLC,11 MISC 444887,Servicemembers,Closed,20110125,20110524
+38,56148114,Bayview Loan Servicing LLC,11 MISC 444888,Servicemembers,Closed,20110125,20110620
+39,56149363,Bayview Loan Servicing LLC,13 MISC 477943,Servicemembers,Closed,20130515,20130702
+40,56149640,Bayview Loan Servicing LLC,11 MISC 452159,Servicemembers,Closed,20110815,20111212
+41,56150336,Bayview Loan Servicing LLC,11 MISC 452160,Servicemembers,Open,20110815,20110815
+42,56164673,Bayview Loan Servicing LLC,11 MISC 452158,Servicemembers,Closed,20110815,20120106
+43,56184925,Bayview Loan Servicing LLC,13 MISC 478777,Servicemembers,Closed,20130726,20131008
+44,56334925,Bayview Loan Servicing LLC,12 MISC 473351,Servicemembers,Closed,20121101,20130509
+45,56572679,Bayview Loan Servicing LLC,11 MISC 453131,Servicemembers,Open,20110907,20110907
+46,56997985,Bayview Loan Servicing LLC,14 MISC 482812,Servicemembers,Open,20140409,20140409
+47,57004651,Bayview Loan Servicing LLC,11 MISC 453945,Servicemembers,Closed,20110927,20120110
+48,57102440,Bayview Loan Servicing LLC,11 MISC 445839,Servicemembers,Open,20110301,20110301
+49,57135511,Bayview Loan Servicing LLC,11 MISC 445840,Servicemembers,Open,20110301,20110301
+0,57262896,Bayview Loan Servicing LLC,11 MISC 445192,Servicemembers,Closed,20110204,20110601
+1,57390158,Bayview Loan Servicing LLC,15 SM 001519,Servicemembers,Closed,20150303,20150716
+2,57662837,Bayview Loan Servicing LLC,15 SM 001599,Servicemembers,Closed,20150305,20150716
+3,57680037,Bayview Loan Servicing LLC,15 SM 001601,Servicemembers,Closed,20150305,20150716
+4,57693003,Bayview Loan Servicing LLC,15 SM 001600,Servicemembers,Closed,20150305,20150716
+5,57724330,Bayview Loan Servicing LLC,15 SM 000326,Servicemembers,Open,20150120,20150120
+6,57793759,Bayview Loan Servicing LLC,12H79SP004895,Housing Court Summary Process,Active,20121126,20121126
+7,57827914,Bayview Loan Servicing LLC,15 SM 003654,Servicemembers,Closed,20150504,20150826
+8,57837348,Bayview Loan Servicing LLC,14 MISC 483482,Servicemembers,Closed,20140505,20140708
+9,57870618,Bayview Loan Servicing LLC,15 SM 000703,Servicemembers,Closed,20150204,20150622
+10,57874915,Bayview Loan Servicing LLC,14 MISC 483794,Servicemembers,Closed,20140519,20140715
+11,57906958,Bayview Loan Servicing LLC,14 MISC 483750,Servicemembers,Open,20140515,20140515
+12,57940546,Bayview Loan Servicing LLC,14 MISC 483240,Servicemembers,Closed,20140424,20140612
+13,57955800,Bayview Loan Servicing LLC,14 MISC 483241,Servicemembers,Closed,20140424,20140702
+14,58067761,Bayview Loan Servicing LLC,14 MISC 486233,Servicemembers,Closed,20140909,20150721
+15,58074735,Bayview Loan Servicing LLC,14 MISC 486232,Servicemembers,Open,20140909,20140909
+16,58080973,Bayview Loan Servicing LLC,14 MISC 486234,Servicemembers,Open,20140909,20140909
+17,58111628,Bayview Loan Servicing LLC,16 SM 000328,Servicemembers,Closed,20160112,20160408
+18,58122364,Bayview Loan Servicing LLC,13 MISC 479247,Servicemembers,Open,20130827,20130827
+19,58129490,Bayview Loan Servicing LLC,13 MISC 479248,Servicemembers,Closed,20130827,20131016
+20,58244878,Bayview Loan Servicing LLC,15 SM 006895,Servicemembers,Closed,20150818,20151020
+21,58270488,Bayview Loan Servicing LLC,14 MISC 486295,Servicemembers,Closed,20140911,20141114
+22,58284903,Bayview Loan Servicing LLC,15 SM 001773,Servicemembers,Closed,20150312,20150716
+23,58328826,Bayview Loan Servicing LLC,14 MISC 483913,Servicemembers,Closed,20140523,20141008
+24,58354971,Bayview Loan Servicing LLC,10 MISC 442781,Servicemembers,Open,20101110,20101110
+25,58564569,Bayview Loan Servicing LLC,12 MISC 467180,Servicemembers,Closed,20120629,20130308
+26,58565004,Bayview Loan Servicing LLC,12 MISC 467184,Servicemembers,Closed,20120629,20130426
+27,58565282,Bayview Loan Servicing LLC,12 MISC 467182,Servicemembers,Closed,20120629,20130221
+28,58565777,Bayview Loan Servicing LLC,12 MISC 467178,Servicemembers,Closed,20120629,20130221
+29,58566819,Bayview Loan Servicing LLC,12 MISC 467202,Servicemembers,Closed,20120629,20130221
+30,58567287,Bayview Loan Servicing LLC,12 MISC 467206,Servicemembers,Closed,20120629,20130221
+31,58567695,Bayview Loan Servicing LLC,12 MISC 467208,Servicemembers,Open,20120629,20120629
+32,58567742,Bayview Loan Servicing LLC,12 MISC 467195,Servicemembers,Open,20120629,20120629
+33,58568593,Bayview Loan Servicing LLC,12 MISC 467207,Servicemembers,Open,20120629,20120629
+34,58568917,Bayview Loan Servicing LLC,12 MISC 467200,Servicemembers,Closed,20120629,20130417
+35,58591818,Bayview Loan Servicing LLC,15 SM 002271,Servicemembers,Closed,20150325,20150807
+36,59122741,Bayview Loan Servicing LLC,13 MISC 478682,Servicemembers,Closed,20130722,20130923
+37,59177387,Bayview Loan Servicing LLC,11 MISC 444757,Servicemembers,Closed,20110120,20110524
+38,59192133,Bayview Loan Servicing LLC,11 MISC 444788,Servicemembers,Closed,20110121,20110524
+39,59220899,Bayview Loan Servicing LLC,15 SM 002985,Servicemembers,Closed,20150413,20150813
+40,59225604,Bayview Loan Servicing LLC,11 MISC 444889,Servicemembers,Open,20110125,20110125
+41,59228673,Bayview Loan Servicing LLC,16 SM 003794,Servicemembers,Closed,20160412,20160919
+42,59238910,Bayview Loan Servicing LLC,15 SM 003033,Servicemembers,Closed,20150414,20150813
+43,59252591,Bayview Loan Servicing LLC,11 MISC 445374,Servicemembers,Closed,20110211,20110719
+44,59253797,Bayview Loan Servicing LLC,11 MISC 445373,Servicemembers,Closed,20110211,20110719
+45,59257782,Bayview Loan Servicing LLC,11 MISC 445375,Servicemembers,Closed,20110211,20110913
+46,59322549,Bayview Loan Servicing LLC,16 SM 002716,Servicemembers,Closed,20160315,20160726
+47,59360366,Bayview Loan Servicing LLC,16 SM 002034,Servicemembers,Closed,20160225,20160616
+48,59367014,Bayview Loan Servicing LLC,15 SM 003307,Servicemembers,Closed,20150423,20150820
+49,59374187,Bayview Loan Servicing LLC,11 MISC 444354,Servicemembers,Open,20110105,20110105
+0,59454879,Bayview Loan Servicing LLC,11 MISC 444587,Servicemembers,Closed,20110113,20120120
+1,59517691,Bayview Loan Servicing LLC,16 SM 003658,Servicemembers,Closed,20160408,20160829
+2,59553781,Bayview Loan Servicing LLC,12 MISC 475025,Servicemembers,Closed,20121220,20130430
+3,59592353,Bayview Loan Servicing LLC,15 SM 004155,Servicemembers,Open,20150521,20150521
+4,59654626,Bayview Loan Servicing LLC,14 MISC 485608,Servicemembers,Closed,20140814,20141003
+5,59739185,Bayview Loan Servicing LLC,15 SM 001333,Servicemembers,Closed,20150224,20150714
+6,59777605,Bayview Loan Servicing LLC,15 SM 002100,Servicemembers,Closed,20150320,20150716
+7,59780196,Bayview Loan Servicing LLC,15 SM 002099,Servicemembers,Closed,20150320,20160201
+8,59780596,Bayview Loan Servicing LLC,15 SM 002098,Servicemembers,Closed,20150320,20150807
+9,59938162,Bayview Loan Servicing LLC,12 MISC 466537,Servicemembers,Closed,20120619,20130107
+10,59941047,Bayview Loan Servicing LLC,12 MISC 466531,Servicemembers,Closed,20120619,20130104
+11,59942030,Bayview Loan Servicing LLC,12 MISC 466533,Servicemembers,Closed,20120619,20130104
+12,60200979,Bayview Loan Servicing LLC,12 MISC 470287,Servicemembers,Closed,20120831,20130319
+13,60210367,Bayview Loan Servicing LLC,12 MISC 470294,Servicemembers,Closed,20120831,20131011
+14,60216559,Bayview Loan Servicing LLC,12 MISC 470293,Servicemembers,Closed,20120831,20131031
+15,60222574,Bayview Loan Servicing LLC,16 SM 001851,Servicemembers,Open,20160222,20160222
+16,60235266,Bayview Loan Servicing LLC,12 MISC 470290,Servicemembers,Closed,20120831,20130321
+17,60405312,Bayview Loan Servicing LLC,16 SM 001537,Servicemembers,Closed,20160217,20161102
+18,60414254,Bayview Loan Servicing LLC,09 MISC 419106,Servicemembers,Closed,20091223,20100413
+19,60559395,Bayview Loan Servicing LLC,11 MISC 447806,Servicemembers,Closed,20110419,20161118
+20,60629131,Bayview Loan Servicing LLC,16 SM 002966,Servicemembers,Closed,20160322,20160722
+21,60642263,Bayview Loan Servicing LLC,16 SM 002967,Servicemembers,Closed,20160322,20160824
+22,60652141,Bayview Loan Servicing LLC,13H79SP004344,Housing Court Summary Process,Active,20131021,20131021
+23,60655944,Bayview Loan Servicing LLC,13H79SP004346,Housing Court Summary Process,Closed,20131021,20131212
+24,60984749,Bayview Loan Servicing LLC,11 MISC 447808,Servicemembers,Closed,20110419,20161118
+25,61000607,Bayview Loan Servicing LLC,06 MISC 321945,Servicemembers,Closed,20060418,20060629
+26,61127868,Bayview Loan Servicing LLC,14 MISC 481326,Servicemembers,Closed,20140124,20140311
+27,61212809,Bayview Loan Servicing LLC,11 MISC 449675,Servicemembers,Closed,20110624,20161118
+28,61520988,Bayview Loan Servicing LLC,16 SM 010828,Servicemembers,Open,20161109,20161109
+29,61702936,Bayview Loan Servicing LLC,13H83SP02701PL,Housing Court Summary Process,Active,20130701,20130701
+30,61924440,Bayview Loan Servicing LLC,12 MISC 464178,Servicemembers,Closed,20120507,20121114
+31,62473387,Bayview Loan Servicing LLC,12 MISC 468053,Servicemembers,Closed,20120720,20130116
+32,62478240,Bayview Loan Servicing LLC,12 MISC 468051,Servicemembers,Closed,20120720,20161118
+33,62480383,Bayview Loan Servicing LLC,12 MISC 468054,Servicemembers,Closed,20120720,20130116
+34,62480612,Bayview Loan Servicing LLC,12 MISC 468055,Servicemembers,Closed,20120720,20130118
+35,62481721,Bayview Loan Servicing LLC,12 MISC 468052,Servicemembers,Closed,20120720,20130221
+36,62481808,Bayview Loan Servicing LLC,12 MISC 468037,Servicemembers,Closed,20120720,20130221
+37,62481841,Bayview Loan Servicing LLC,12 MISC 468043,Servicemembers,Closed,20120720,20130221
+38,62481876,Bayview Loan Servicing LLC,12 MISC 468002,Servicemembers,Closed,20120720,20130221
+39,62517675,Bayview Loan Servicing LLC,12 MISC 474408,Servicemembers,Closed,20121204,20140106
+40,62582267,Bayview Loan Servicing LLC,12 MISC 474876,Servicemembers,Closed,20121217,20130412
+41,62584580,Bayview Loan Servicing LLC,12 MISC 474877,Servicemembers,Closed,20121217,20130426
+42,62596521,Bayview Loan Servicing LLC,11 MISC 444328,Servicemembers,Closed,20110104,20121017
+43,62606662,Bayview Loan Servicing LLC,16 SM 004352,Servicemembers,Closed,20160427,20161020
+44,62616428,Bayview Loan Servicing LLC,16 SM 001872,Servicemembers,Closed,20160223,20160330
+45,62816445,Bayview Loan Servicing LLC,15 SM 003763,Servicemembers,Closed,20150506,20150820
+46,62944274,Bayview Loan Servicing LLC,11 MISC 449291,Servicemembers,Open,20110615,20110615
+47,62951617,Bayview Loan Servicing LLC,11 MISC 449290,Servicemembers,Closed,20110615,20110927
+48,62994202,Bayview Loan Servicing LLC,11 MISC 449372,Servicemembers,Closed,20110617,20110926
+49,63066734,Bayview Loan Servicing LLC,1379CV00614,Contract / Business Cases,Closed,20130903,20141218
+0,63103482,Bayview Loan Servicing LLC,16 SM 002490,Servicemembers,Closed,20160308,20160726
+1,63284538,Bayview Loan Servicing LLC,14 MISC 488202,Servicemembers,Open,20141118,20141118
+2,63310837,Bayview Loan Servicing LLC,15 SM 006638,Servicemembers,Closed,20150811,20151016
+3,63338768,Bayview Loan Servicing LLC,15 SM 006765,Servicemembers,Open,20150813,20150813
+4,63384960,Bayview Loan Servicing LLC,11 MISC 457152,Servicemembers,Closed,20111221,20120515
+5,63386198,Bayview Loan Servicing LLC,11 MISC 457149,Servicemembers,Closed,20111221,20120503
+6,63386902,Bayview Loan Servicing LLC,11 MISC 457151,Servicemembers,Closed,20111221,20120328
+7,63388327,Bayview Loan Servicing LLC,11 MISC 457150,Servicemembers,Open,20111221,20111221
+8,63389400,Bayview Loan Servicing LLC,11 MISC 457159,Servicemembers,Open,20111221,20111221
+9,64884377,Bayview Loan Servicing LLC,16 SM 010635,Servicemembers,Open,20161103,20161103
+10,65048825,Bayview Loan Servicing LLC,1184CV01112,Contract / Business Cases,Closed,20110323,20160121
+11,65170208,Bayview Loan Servicing LLC,0679CV01078,Equitable Remedies,Open,20061120,20080529
+12,65458323,Bayview Loan Servicing LLC,16 SM 009271,Servicemembers,Open,20160923,20160923
+13,65576846,Bayview Loan Servicing LLC,16 SM 010177,Servicemembers,Open,20161020,20161020
+14,65652442,Bayview Loan Servicing LLC,16 SM 009531,Servicemembers,Open,20160930,20160930
+15,65825789,Bayview Loan Servicing LLC,16 SM 008170,Servicemembers,Open,20160816,20160816
+16,66292583,Bayview Loan Servicing LLC,16 SM 008303,Servicemembers,Open,20160819,20160819
+17,66294262,Bayview Loan Servicing LLC,16 SM 007958,Servicemembers,Open,20160810,20160810
+18,66380422,Bayview Loan Servicing LLC,16 SM 007932,Servicemembers,Open,20160809,20160809
+19,66391232,Bayview Loan Servicing LLC,16 SM 007033,Servicemembers,Open,20160713,20160713
+20,66474615,Bayview Loan Servicing LLC,1584CV01650,Contract / Business Cases,Open,20150603,20150603
+21,66706397,Bayview Loan Servicing LLC,16 SM 006272,Servicemembers,Open,20160620,20160620
+22,66719211,Bayview Loan Servicing LLC,16 SM 006271,Servicemembers,Open,20160620,20160620
+23,67093493,Bayview Loan Servicing LLC,0773CV01397,Equitable Remedies,Open,20070924,20080827
+24,67216362,Bayview Loan Servicing LLC,1613CV000927,Civil,Disposed (Statistical Purposes),20161028,20161108
+25,67932660,Bayview Loan Servicing LLC,0979CV00039,Equitable Remedies,Closed,20090114,20090506
+26,68264799,Bayview Loan Servicing LLC,0985CV02064,Contract / Business Cases,Closed,20090903,20100211
+27,68267970,Bayview Loan Servicing LLC,0879CV00797,Contract / Business Cases,Open,20080818,20090227
+28,68489785,Bayview Loan Servicing LLC,0784CV02704,Equitable Remedies,Closed,20070625,20080219
+29,68569229,Bayview Loan Servicing LLC,0985CV01232,Contract / Business Cases,Closed,20090602,20101004
+30,69152099,Bayview Loan Servicing LLC,0779CV01190,Real Property,Closed,20071210,20080325
+31,69178614,Bayview Loan Servicing LLC,0985CV00112,Contract / Business Cases,Closed,20090120,20100922
+32,69276820,Bayview Loan Servicing LLC,0985CV00392,Real Property,Closed,20090218,20100225
+33,69494268,Bayview Loan Servicing LLC,0879CV00224,Contract / Business Cases,Closed,20080304,20110324
+34,69829819,Bayview Loan Servicing LLC,0684CV00482,Contract / Business Cases,Closed,20060203,20060913
+35,69838285,Bayview Loan Servicing LLC,0882CV01570,Contract / Business Cases,Closed,20080820,20100503
+36,70177296,Bayview Loan Servicing LLC,0584CV04811,Contract / Business Cases,Closed,20051110,20060911
+37,70637780,Bayview Loan Servicing LLC,14 MISC 489015,Servicemembers,Closed,20141223,20150512
+38,71069657,Bayview Loan Servicing LLC,16 SM 006186,Servicemembers,Open,20160616,20160616
+39,71348849,Bayview Loan Servicing LLC,16 SM 005029,Servicemembers,Closed,20160513,20161101
+40,71356200,Bayview Loan Servicing LLC,16 SM 005030,Servicemembers,Open,20160513,20160513
+41,71641905,Bayview Loan Servicing LLC,1279CV00952,Equitable Remedies,Closed,20121129,20130403
+42,71860546,Bayview Loan Servicing LLC,1279CV00803,Contract / Business Cases,Closed,20121001,20140304
+43,72403540,Bayview Loan Servicing LLC,0984CV03803,Contract / Business Cases,Closed,20090908,20130524
+44,75845712,Bayview Loan Servicing LLC,10 MISC 439661,Servicemembers,Closed,20100914,20161118
+45,75860573,Bayview Loan Servicing LLC,10 MISC 439659,Servicemembers,Closed,20100914,20110404
+46,75998003,Bayview Loan Servicing LLC,1079CV00130,Real Property,Closed,20100208,20100414
+47,76275207,Bayview Loan Servicing LLC,16 SM 007322,Servicemembers,Open,20160721,20160721
+48,76276100,Bayview Loan Servicing LLC,16 SM 007320,Servicemembers,Open,20160721,20160721
+49,76879314,Bayview Loan Servicing LLC,10 MISC 440984,Servicemembers,Closed,20100930,20161118
+0,76889285,Bayview Loan Servicing LLC,10 MISC 440986,Servicemembers,Closed,20100930,20161118
+1,76890191,Bayview Loan Servicing LLC,10 MISC 440983,Servicemembers,Closed,20100930,20110404
+2,77021560,Bayview Loan Servicing LLC,10 MISC 442121,Servicemembers,Closed,20101027,20131031
+3,77187688,Bayview Loan Servicing LLC,16 SM 007452,Servicemembers,Open,20160726,20160726
+4,78278503,Bayview Loan Servicing LLC,16 SM 007321,Servicemembers,Open,20160721,20160721
+5,78286395,Bayview Loan Servicing LLC,08 MISC 374126,Servicemembers,Closed,20080228,20150211
+6,78296829,Bayview Loan Servicing LLC,16 SM 007323,Servicemembers,Open,20160721,20160721
+7,78353407,Bayview Loan Servicing LLC,10 MISC 440434,Servicemembers,Closed,20100923,20161118
+8,79870551,Bayview Loan Servicing LLC,1613SU000421,Summary Process,Open,20161216,20161216
+9,81816016,Bayview Loan Servicing LLC,17 SM 009007,Servicemembers,Closed,20171115,20180221
+10,81862042,Bayview Loan Servicing LLC,17 SM 009387,Servicemembers,Closed,20171204,20180320
+11,81927346,Bayview Loan Servicing LLC,17 SM 009596,Servicemembers,Closed,20171212,20180601
+12,82029913,Bayview Loan Servicing LLC,17 SM 008690,Servicemembers,Closed,20171031,20180320
+13,82073821,Bayview Loan Servicing LLC,17 SM 009748,Servicemembers,Closed,20171219,20180329
+14,82130755,Bayview Loan Servicing LLC,17 SM 003039,Servicemembers,Closed,20170404,20170630
+15,82547721,Bayview Loan Servicing LLC,17 SM 004269,Servicemembers,Closed,20170509,20171030
+16,82664560,Bayview Loan Servicing LLC,17 SM 003838,Servicemembers,Closed,20170427,20171020
+17,82668849,Bayview Loan Servicing LLC,18 SM 000705,Servicemembers,Closed,20180202,20180503
+18,82680771,Bayview Loan Servicing LLC,17 SM 004032,Servicemembers,Closed,20170503,20171101
+19,82987994,Bayview Loan Servicing LLC,16 SM 011559,Servicemembers,Closed,20161205,20170613
+20,83047026,Bayview Loan Servicing LLC,18 SM 000358,Servicemembers,Closed,20180119,20180509
+21,83108938,Bayview Loan Servicing LLC,16 SM 011776,Servicemembers,Closed,20161212,20170707
+22,83134073,Bayview Loan Servicing LLC,18 SM 000443,Servicemembers,Closed,20180123,20190405
+23,83183733,Bayview Loan Servicing LLC,17 SM 001147,Servicemembers,Closed,20170208,20170907
+24,83507383,Bayview Loan Servicing LLC,17 SM 005486,Servicemembers,Closed,20170620,20180119
+25,83529125,Bayview Loan Servicing LLC,17 SM 005541,Servicemembers,Closed,20170621,20180525
+26,83619829,Bayview Loan Servicing LLC,17 SM 005678,Servicemembers,Closed,20170626,20180108
+27,83673506,Bayview Loan Servicing LLC,17 SM 005109,Servicemembers,Closed,20170606,20171227
+28,83725308,Bayview Loan Servicing LLC,17 SM 005144,Servicemembers,Closed,20170607,20171228
+29,83750927,Bayview Loan Servicing LLC,17 SM 005146,Servicemembers,Closed,20170607,20180108
+30,83758085,Bayview Loan Servicing LLC,17 SM 005145,Servicemembers,Closed,20170607,20171227
+31,83848512,Bayview Loan Servicing LLC,17 SM 006274,Servicemembers,Closed,20170721,20180102
+32,83863110,Bayview Loan Servicing LLC,17 SM 005795,Servicemembers,Closed,20170703,20180108
+33,83865997,Bayview Loan Servicing LLC,17 SM 005794,Servicemembers,Closed,20170703,20180102
+34,83880529,Bayview Loan Servicing LLC,17 SM 005796,Servicemembers,Closed,20170703,20180108
+35,83892614,Bayview Loan Servicing LLC,19 SM 004087,Servicemembers,Closed,20190909,20191119
+36,83931017,Bayview Loan Servicing LLC,20 SM 000135,Servicemembers,Closed,20200110,20201021
+37,83977568,Bayview Loan Servicing LLC,17 SM 005326,Servicemembers,Open,20170614,20170614
+38,83982963,Bayview Loan Servicing LLC,17 SM 005328,Servicemembers,Closed,20170614,20180103
+39,84071368,Bayview Loan Servicing LLC,19 SM 005016,Servicemembers,Closed,20191022,20191217
+40,84075427,Bayview Loan Servicing LLC,1973CV00447,Contract / Business Cases,Open,20190516,20190516
+41,84075607,Bayview Loan Servicing LLC,19 SM 004989,Servicemembers,Closed,20191021,20191217
+42,84091851,Bayview Loan Servicing LLC,19 SM 005055,Servicemembers,Closed,20191023,20200109
+43,84093007,Bayview Loan Servicing LLC,17 SM 005327,Servicemembers,Open,20170614,20170614
+44,84095855,Bayview Loan Servicing LLC,17 SM 005882,Servicemembers,Closed,20170707,20180102
+45,84117936,Bayview Loan Servicing LLC,19 SM 005124,Servicemembers,Closed,20191028,20200115
+46,84128818,Bayview Loan Servicing LLC,17 SM 005883,Servicemembers,Open,20170707,20170707
+47,84403015,Bayview Loan Servicing LLC,17 SM 006513,Servicemembers,Closed,20170801,20180116
+48,84406006,Bayview Loan Servicing LLC,17 SM 006508,Servicemembers,Closed,20170801,20180529
+49,84833995,Bayview Loan Servicing LLC,1782CV00029,Real Property,Open,20170110,20170110
+0,85050393,Bayview Loan Servicing LLC,1782CV00196,Real Property,Open,20170213,20170213
+1,86718992,Bayview Loan Servicing LLC,19 SM 000012,Servicemembers,Open,20190102,20190102
+2,87095015,Bayview Loan Servicing LLC,19 SM 000551,Servicemembers,Closed,20190128,20190521
+3,87142698,Bayview Loan Servicing LLC,18 SM 002216,Servicemembers,Closed,20180404,20180611
+4,87220852,Bayview Loan Servicing LLC,18 SM 002653,Servicemembers,Open,20180420,20180420
+5,87224855,Bayview Loan Servicing LLC,18 SM 002608,Servicemembers,Closed,20180419,20180614
+6,87672057,Bayview Loan Servicing LLC,18 SM 001473,Servicemembers,Closed,20180306,20180525
+7,87769995,Bayview Loan Servicing LLC,1884CV02537,Equitable Remedies,Open,20180814,20190910
+8,87916453,Bayview Loan Servicing LLC,18 SM 000896,Servicemembers,Closed,20180209,20180522
+9,87960712,Bayview Loan Servicing LLC,18 SM 000964,Servicemembers,Closed,20180213,20180618
+10,87963160,Bayview Loan Servicing LLC,18 SM 000963,Servicemembers,Closed,20180213,20180516
+11,88860700,Bayview Loan Servicing LLC,17 SM 006273,Servicemembers,Closed,20170721,20180109
+12,88996066,Bayview Loan Servicing LLC,17 SM 006568,Servicemembers,Open,20170803,20170803
+13,1274165,"Bayview Loan Servicing, LLC",1350SU000835,Summary Process,Pending,20131223,20131223
+14,1433224,"Bayview Loan Servicing, LLC",10 MISC 443197,Servicemembers,Closed,20101119,20110503
+15,2357028,"Bayview Loan Servicing, LLC",11H85SP001783,Housing Court Summary Process,Active,20110524,20110614
+16,2695411,"Bayview Loan Servicing, LLC",1211SU000079,Summary Process,Disposed (Statistical Purposes),20120305,20120316
+17,3244361,"Bayview Loan Servicing, LLC",1015SU000051,Summary Process,Disposed (Statistical Purposes),20100518,20100604
+18,4015597,"Bayview Loan Servicing, LLC",11 MISC 448505,Servicemembers,Closed,20110513,20111028
+19,4496363,"Bayview Loan Servicing, LLC",14 MISC 484842,Servicemembers,Closed,20140715,20140923
+20,5072904,"Bayview Loan Servicing, LLC",14 MISC 487810,Servicemembers,Closed,20141103,20150406
+21,5133399,"Bayview Loan Servicing, LLC",14 MISC 488161,Miscellaneous,Closed,20141117,20150602
+22,5188939,"Bayview Loan Servicing, LLC",14 MISC 488380,Servicemembers,Closed,20141124,20150601
+23,7774339,"Bayview Loan Servicing, LLC",1043SU000028,Summary Process,Disposed (Statistical Purposes),20100706,20100723
+24,9024640,"Bayview Loan Servicing, LLC",11H79SP003355,Housing Court Summary Process,Closed,20110812,20110829
+25,9026236,"Bayview Loan Servicing, LLC",11H79SP003360,Housing Court Summary Process,Closed,20110812,20110825
+26,9139705,"Bayview Loan Servicing, LLC",1115SU000168,Summary Process,Disposed (Statistical Purposes),20110919,20110930
+27,10562407,"Bayview Loan Servicing, LLC",1115SU000052,Summary Process,Disposed (Statistical Purposes),20110509,20110523
+28,12031837,"Bayview Loan Servicing, LLC",13 MISC 481045,Servicemembers,Closed,20131231,20140306
+29,14144089,"Bayview Loan Servicing, LLC",13 MISC 475365,Miscellaneous,Closed,20130108,20130321
+30,14258121,"Bayview Loan Servicing, LLC",10 MISC 421750,Miscellaneous,Closed,20100203,20110408
+31,14326058,"Bayview Loan Servicing, LLC",12H79SP001090,Housing Court Summary Process,Active,20120319,20120319
+32,15270410,"Bayview Loan Servicing, LLC",12H85SP001207,Housing Court Summary Process,Closed,20120328,20120418
+33,15349805,"Bayview Loan Servicing, LLC",1032SP000187,Supplementary Process,Disposed (Statistical Purposes),20100311,20100602
+34,15462169,"Bayview Loan Servicing, LLC",1018SU000103,Summary Process,Disposed (Statistical Purposes),20100726,20100818
+35,15601063,"Bayview Loan Servicing, LLC",1033SU001004,Summary Process,Disposed (Statistical Purposes),20100614,20100701
+36,15718171,"Bayview Loan Servicing, LLC",12 MISC 458019,Servicemembers,Open,20120113,20120113
+37,15719753,"Bayview Loan Servicing, LLC",12 MISC 458020,Servicemembers,Closed,20120113,20120607
+38,15720785,"Bayview Loan Servicing, LLC",12 MISC 458021,Servicemembers,Closed,20120113,20120329
+39,16144555,"Bayview Loan Servicing, LLC",10H85SP004320,Housing Court Summary Process,Closed,20101105,20101124
+40,17578373,"Bayview Loan Servicing, LLC",1189SU000160,Summary Process,Disposed (Statistical Purposes),20111017,20111202
+41,18584710,"Bayview Loan Servicing, LLC",1207CV000085,Civil,Disposed (Statistical Purposes),20120210,20131022
+42,18920305,"Bayview Loan Servicing, LLC",1372CV00175,Real Property,Closed,20130412,20130705
+43,19595319,"Bayview Loan Servicing, LLC",1281CV04656,Contract / Business Cases,Closed,20121129,20151014
+44,22462725,"Bayview Loan Servicing, LLC",1548SP000111,Supplementary Process,Pending,20150810,20150810
+45,24347378,"Bayview Loan Servicing, LLC",1520SU000043,Summary Process,Disposed (Statistical Purposes),20150521,20150608
+46,24831451,"Bayview Loan Servicing, LLC",0964SU000003,Summary Process,Disposed (Statistical Purposes),20090910,20090923
+47,25236470,"Bayview Loan Servicing, LLC",1538SU000191,Summary Process,Closed (Transferred),20151023,20151104
+48,26445014,"Bayview Loan Servicing, LLC",1563SP000034,Supplementary Process,Disposed (Statistical Purposes),20150810,20151207
+49,26918683,"Bayview Loan Servicing, LLC",0832SU000012,Summary Process,Disposed (Statistical Purposes),20080204,20080214
+0,29296924,"Bayview Loan Servicing, LLC",0918SU000023,Summary Process,Disposed (Statistical Purposes),20090121,20090227
+1,29297033,"Bayview Loan Servicing, LLC",0918SU000024,Summary Process,Disposed (Statistical Purposes),20090121,20090316
+2,31603886,"Bayview Loan Servicing, LLC",1523SU000328,Summary Process,Disposed (Statistical Purposes),20151109,20151117
+3,31932447,"Bayview Loan Servicing, LLC",0889SU000904,Summary Process,Disposed (Statistical Purposes),20081027,20081120
+4,35122053,"Bayview Loan Servicing, LLC",15H79SP004625,Housing Court Summary Process,Closed,20151117,20151117
+5,35620566,"Bayview Loan Servicing, LLC",15H85SP004823,Housing Court Summary Process,Active,20151119,20151119
+6,35727837,"Bayview Loan Servicing, LLC",15H85SP004987,Housing Court Summary Process,Active,20151203,20151203
+7,35764235,"Bayview Loan Servicing, LLC",15H85SP004989,Housing Court Summary Process,Active,20151203,20151203
+8,35767270,"Bayview Loan Servicing, LLC",15H85SP004988,Housing Court Summary Process,Active,20151203,20151203
+9,36004279,"Bayview Loan Servicing, LLC",15 SM 010354,Servicemembers,Open,20151123,20151123
+10,37975876,"Bayview Loan Servicing, LLC",0944SU000045,Summary Process,Disposed (Statistical Purposes),20090908,20090924
+11,38636400,"Bayview Loan Servicing, LLC",09 MISC 416117,Miscellaneous,Closed,20091113,20100302
+12,38680692,"Bayview Loan Servicing, LLC",09 MISC 415848,Servicemembers,Closed,20091106,20100511
+13,38683973,"Bayview Loan Servicing, LLC",09 MISC 415847,Servicemembers,Closed,20091106,20100511
+14,38685513,"Bayview Loan Servicing, LLC",09 MISC 415887,Servicemembers,Closed,20091106,20100316
+15,39807978,"Bayview Loan Servicing, LLC",1557SU000082,Summary Process,Disposed (Statistical Purposes),20150504,20150518
+16,40355567,"Bayview Loan Servicing, LLC",0860SU000034,Summary Process,Disposed (Statistical Purposes),20080512,20080710
+17,40531694,"Bayview Loan Servicing, LLC",0860SU000048,Summary Process,Disposed (Statistical Purposes),20080630,20080710
+18,41719321,"Bayview Loan Servicing, LLC",15 SM 003435,Servicemembers,Closed,20150427,20150904
+19,41826579,"Bayview Loan Servicing, LLC",15 SM 006137,Servicemembers,Closed,20150727,20151016
+20,43275773,"Bayview Loan Servicing, LLC",06 MISC 336578,Servicemembers,Closed,20061215,20080424
+21,43320830,"Bayview Loan Servicing, LLC",06 MISC 336576,Servicemembers,Closed,20061215,20070827
+22,43765494,"Bayview Loan Servicing, LLC",09 MISC 390915,Servicemembers,Closed,20090102,20150211
+23,44169592,"Bayview Loan Servicing, LLC",08H85SP001515,Housing Court Summary Process,Active,20080430,20080430
+24,44361686,"Bayview Loan Servicing, LLC",08 MISC 381051,Servicemembers,Closed,20080507,20081104
+25,44545165,"Bayview Loan Servicing, LLC",08 MISC 385031,Miscellaneous,Closed,20080926,20090501
+26,44675087,"Bayview Loan Servicing, LLC",08 MISC 386029,Servicemembers,Closed,20081006,20150211
+27,44805713,"Bayview Loan Servicing, LLC",08 MISC 381440,Servicemembers,Closed,20080606,20081211
+28,44808127,"Bayview Loan Servicing, LLC",08 MISC 381441,Servicemembers,Closed,20080606,20150211
+29,47329322,"Bayview Loan Servicing, LLC",0932SP000950,Supplementary Process,Disposed (Statistical Purposes),20091023,20091123
+30,48136993,"Bayview Loan Servicing, LLC",15 SM 011088,Servicemembers,Open,20151214,20151214
+31,48139320,"Bayview Loan Servicing, LLC",15 SM 001280,Servicemembers,Closed,20150223,20150716
+32,48258346,"Bayview Loan Servicing, LLC",1531SU000005,Summary Process,Disposed (Statistical Purposes),20150302,20150408
+33,48899590,"Bayview Loan Servicing, LLC",15 SM 009150,Servicemembers,Closed,20151019,20160111
+34,48936088,"Bayview Loan Servicing, LLC",06 MISC 319607,Servicemembers,Closed,20060224,20060526
+35,49511352,"Bayview Loan Servicing, LLC",13 MISC 480650,Servicemembers,Closed,20131121,20140210
+36,49628352,"Bayview Loan Servicing, LLC",09 MISC 415414,Servicemembers,Closed,20091030,20150211
+37,49798902,"Bayview Loan Servicing, LLC",13 MISC 480718,Servicemembers,Closed,20131127,20150105
+38,49899869,"Bayview Loan Servicing, LLC",13 MISC 480860,Servicemembers,Open,20131211,20131211
+39,49950052,"Bayview Loan Servicing, LLC",14 MISC 481642,Servicemembers,Closed,20140214,20140410
+40,49982079,"Bayview Loan Servicing, LLC",09 MISC 416974,Servicemembers,Closed,20091123,20150211
+41,50256016,"Bayview Loan Servicing, LLC",14 MISC 484557,Servicemembers,Closed,20140701,20141008
+42,50258794,"Bayview Loan Servicing, LLC",09 MISC 417703,Servicemembers,Closed,20091203,20150211
+43,50413039,"Bayview Loan Servicing, LLC",12 MISC 461115,Servicemembers,Closed,20120316,20120622
+44,50439831,"Bayview Loan Servicing, LLC",12 MISC 461146,Servicemembers,Closed,20120319,20120622
+45,50440204,"Bayview Loan Servicing, LLC",12 MISC 461147,Servicemembers,Closed,20120319,20120622
+46,50823444,"Bayview Loan Servicing, LLC",15 SM 000125,Servicemembers,Closed,20150109,20150522
+47,50823666,"Bayview Loan Servicing, LLC",11 MISC 448578,Servicemembers,Closed,20110517,20110922
+48,50833063,"Bayview Loan Servicing, LLC",06 MISC 335635,Servicemembers,Closed,20061205,20150211
+49,50887394,"Bayview Loan Servicing, LLC",07 MISC 356144,Servicemembers,Closed,20070824,20071218
+0,50903647,"Bayview Loan Servicing, LLC",06 MISC 335713,Servicemembers,Closed,20061205,20070606
+1,50905503,"Bayview Loan Servicing, LLC",12 MISC 463458,Servicemembers,Closed,20120424,20130827
+2,50916885,"Bayview Loan Servicing, LLC",15 SM 000228,Servicemembers,Closed,20150114,20150527
+3,50932182,"Bayview Loan Servicing, LLC",14 MISC 486949,Servicemembers,Closed,20141006,20150113
+4,50934130,"Bayview Loan Servicing, LLC",10 MISC 427341,Servicemembers,Closed,20100413,20100915
+5,51037268,"Bayview Loan Servicing, LLC",05 MISC 316666,Servicemembers,Closed,20051213,20081210
+6,51074073,"Bayview Loan Servicing, LLC",06 MISC 335799,Servicemembers,Closed,20061206,20070606
+7,51174712,"Bayview Loan Servicing, LLC",15 SM 005434,Servicemembers,Closed,20150703,20150908
+8,51284262,"Bayview Loan Servicing, LLC",15 SM 005457,Servicemembers,Closed,20150707,20160122
+9,51287823,"Bayview Loan Servicing, LLC",10 MISC 440593,Servicemembers,Open,20100924,20100924
+10,51552273,"Bayview Loan Servicing, LLC",14 MISC 487406,Servicemembers,Closed,20141021,20150312
+11,51553153,"Bayview Loan Servicing, LLC",14 MISC 487405,Servicemembers,Closed,20141021,20150312
+12,51557120,"Bayview Loan Servicing, LLC",15 SM 008706,Servicemembers,Closed,20151007,20160607
+13,51562700,"Bayview Loan Servicing, LLC",15 SM 008707,Servicemembers,Open,20151007,20151007
+14,51593376,"Bayview Loan Servicing, LLC",15 SM 008816,Servicemembers,Closed,20151008,20160210
+15,51632137,"Bayview Loan Servicing, LLC",10 MISC 441307,Servicemembers,Closed,20101005,20120214
+16,51674417,"Bayview Loan Servicing, LLC",15 SM 005681,Servicemembers,Closed,20150714,20151022
+17,51754996,"Bayview Loan Servicing, LLC",14 MISC 487773,Servicemembers,Closed,20141031,20150406
+18,51898888,"Bayview Loan Servicing, LLC",08 MISC 386345,Servicemembers,Closed,20081010,20150211
+19,51977022,"Bayview Loan Servicing, LLC",09 MISC 412824,Servicemembers,Closed,20090928,20100316
+20,52242868,"Bayview Loan Servicing, LLC",15H77SP004714,Housing Court Summary Process,Closed,20151109,20151109
+21,52302399,"Bayview Loan Servicing, LLC",16 SM 003050,Servicemembers,Open,20160324,20160324
+22,52319168,"Bayview Loan Servicing, LLC",16 SM 003115,Servicemembers,Open,20160325,20160325
+23,52360177,"Bayview Loan Servicing, LLC",16 SM 003203,Servicemembers,Closed,20160328,20160920
+24,52372521,"Bayview Loan Servicing, LLC",10 MISC 433199,Servicemembers,Open,20100630,20100630
+25,52379491,"Bayview Loan Servicing, LLC",16 SM 003320,Servicemembers,Closed,20160331,20161004
+26,52532153,"Bayview Loan Servicing, LLC",15 SM 010418,Servicemembers,Closed,20151124,20160502
+27,52547149,"Bayview Loan Servicing, LLC",15 SM 010462,Servicemembers,Closed,20151125,20160520
+28,52888619,"Bayview Loan Servicing, LLC",0818SU000141,Summary Process,Disposed (Statistical Purposes),20080321,20080404
+29,52888653,"Bayview Loan Servicing, LLC",0818SU000145,Summary Process,Disposed (Statistical Purposes),20080321,20080404
+30,52888688,"Bayview Loan Servicing, LLC",0818SU000143,Summary Process,Disposed (Statistical Purposes),20080321,20080408
+31,52888764,"Bayview Loan Servicing, LLC",0818SU000140,Summary Process,Disposed (Statistical Purposes),20080321,20080404
+32,52888781,"Bayview Loan Servicing, LLC",0818SU000142,Summary Process,Disposed (Statistical Purposes),20080321,20080404
+33,52889065,"Bayview Loan Servicing, LLC",0818SU000146,Summary Process,Disposed (Statistical Purposes),20080321,20080407
+34,52889275,"Bayview Loan Servicing, LLC",0818SU000144,Summary Process,Disposed (Statistical Purposes),20080321,20080404
+35,53025404,"Bayview Loan Servicing, LLC",15 SM 010586,Servicemembers,Closed,20151202,20160210
+36,53026080,"Bayview Loan Servicing, LLC",15 SM 010585,Servicemembers,Closed,20151202,20160210
+37,53040112,"Bayview Loan Servicing, LLC",15 SM 010701,Servicemembers,Open,20151203,20151203
+38,53050960,"Bayview Loan Servicing, LLC",15 SM 010797,Servicemembers,Closed,20151207,20160316
+39,53052816,"Bayview Loan Servicing, LLC",15 SM 010860,Servicemembers,Closed,20151208,20160518
+40,53058195,"Bayview Loan Servicing, LLC",15 SM 010942,Servicemembers,Closed,20151209,20160225
+41,53066370,"Bayview Loan Servicing, LLC",15 SM 011051,Servicemembers,Closed,20151211,20160316
+42,53067736,"Bayview Loan Servicing, LLC",15 SM 011021,Servicemembers,Closed,20151211,20160510
+43,53136889,"Bayview Loan Servicing, LLC",15 SM 011232,Servicemembers,Open,20151217,20151217
+44,53236088,"Bayview Loan Servicing, LLC",0811SU000326,Summary Process,Disposed (Statistical Purposes),20080123,20080312
+45,53260427,"Bayview Loan Servicing, LLC",15 SM 011598,Servicemembers,Closed,20151224,20160712
+46,53397193,"Bayview Loan Servicing, LLC",07 MISC 346136,Servicemembers,Closed,20070426,20070703
+47,53436257,"Bayview Loan Servicing, LLC",07 MISC 346515,Servicemembers,Closed,20070501,20150211
+48,53441981,"Bayview Loan Servicing, LLC",07 MISC 346608,Servicemembers,Closed,20070502,20150211
+49,53449332,"Bayview Loan Servicing, LLC",07 MISC 346607,Servicemembers,Closed,20070502,20150211
+0,53621145,"Bayview Loan Servicing, LLC",07 MISC 359714,Servicemembers,Closed,20071002,20150211
+1,53769554,"Bayview Loan Servicing, LLC",11H85SP005091,Housing Court Summary Process,Closed,20111221,20130513
+2,54022475,"Bayview Loan Servicing, LLC",05 MISC 309807,Servicemembers,Closed,20050526,20050824
+3,54173172,"Bayview Loan Servicing, LLC",14 MISC 487856,Servicemembers,Open,20141104,20141104
+4,54336707,"Bayview Loan Servicing, LLC",10 MISC 441717,Servicemembers,Open,20101015,20101015
+5,54340611,"Bayview Loan Servicing, LLC",08 MISC 388880,Servicemembers,Closed,20081119,20090527
+6,54344903,"Bayview Loan Servicing, LLC",08 MISC 388881,Servicemembers,Closed,20081119,20150211
+7,54352196,"Bayview Loan Servicing, LLC",15 SM 006317,Servicemembers,Closed,20150731,20151109
+8,54395051,"Bayview Loan Servicing, LLC",14 MISC 487996,Servicemembers,Closed,20141110,20150406
+9,54418939,"Bayview Loan Servicing, LLC",15 SM 006933,Servicemembers,Closed,20150819,20151210
+10,54465594,"Bayview Loan Servicing, LLC",15 SM 006245,Servicemembers,Closed,20150729,20151029
+11,54562845,"Bayview Loan Servicing, LLC",15 SM 007031,Servicemembers,Closed,20150821,20160127
+12,54565628,"Bayview Loan Servicing, LLC",15 SM 007018,Servicemembers,Closed,20150821,20151201
+13,54592173,"Bayview Loan Servicing, LLC",12H79SP000891,Housing Court Summary Process,Active,20120229,20120229
+14,54592930,"Bayview Loan Servicing, LLC",12H79SP000890,Housing Court Summary Process,Active,20120229,20120229
+15,54593251,"Bayview Loan Servicing, LLC",12H79SP000892,Housing Court Summary Process,Active,20120229,20120229
+16,54593406,"Bayview Loan Servicing, LLC",12H79SP000893,Housing Court Summary Process,Active,20120229,20120229
+17,54694246,"Bayview Loan Servicing, LLC",14 MISC 488412,Servicemembers,Open,20141125,20141125
+18,54739711,"Bayview Loan Servicing, LLC",10 MISC 442414,Servicemembers,Closed,20101103,20110823
+19,54752108,"Bayview Loan Servicing, LLC",07 MISC 337810,Servicemembers,Closed,20070104,20070612
+20,54767822,"Bayview Loan Servicing, LLC",14 MISC 488421,Servicemembers,Open,20141126,20141126
+21,54897720,"Bayview Loan Servicing, LLC",15 SM 007226,Servicemembers,Closed,20150827,20160126
+22,54913123,"Bayview Loan Servicing, LLC",07 MISC 337839,Servicemembers,Closed,20070105,20150211
+23,55150877,"Bayview Loan Servicing, LLC",15 SM 009872,Servicemembers,Closed,20151109,20160127
+24,55153482,"Bayview Loan Servicing, LLC",15 SM 009871,Servicemembers,Closed,20151109,20160127
+25,55188481,"Bayview Loan Servicing, LLC",15 SM 006657,Servicemembers,Closed,20150811,20151029
+26,55191973,"Bayview Loan Servicing, LLC",07 MISC 337625,Servicemembers,Closed,20070102,20150211
+27,55193967,"Bayview Loan Servicing, LLC",15 SM 006654,Servicemembers,Closed,20150811,20160518
+28,55231020,"Bayview Loan Servicing, LLC",14 MISC 488177,Servicemembers,Closed,20141118,20150414
+29,55429821,"Bayview Loan Servicing, LLC",15 SM 010238,Servicemembers,Closed,20151119,20160502
+30,55452955,"Bayview Loan Servicing, LLC",15 SM 009651,Servicemembers,Closed,20151102,20160303
+31,55555082,"Bayview Loan Servicing, LLC",09 MISC 391639,Servicemembers,Closed,20090114,20150211
+32,55570509,"Bayview Loan Servicing, LLC",15 SM 009811,Servicemembers,Closed,20151105,20160127
+33,55582603,"Bayview Loan Servicing, LLC",15 SM 009812,Servicemembers,Closed,20151105,20160127
+34,55816568,"Bayview Loan Servicing, LLC",13 MISC 477805,Servicemembers,Closed,20130502,20130621
+35,55882377,"Bayview Loan Servicing, LLC",16 SM 000472,Servicemembers,Closed,20160114,20160513
+36,56112668,"Bayview Loan Servicing, LLC",16 SM 002156,Servicemembers,Closed,20160229,20161004
+37,56195185,"Bayview Loan Servicing, LLC",10 MISC 419654,Servicemembers,Closed,20100104,20100525
+38,56196937,"Bayview Loan Servicing, LLC",07 MISC 342397,Servicemembers,Closed,20070305,20070813
+39,56203789,"Bayview Loan Servicing, LLC",07 MISC 339828,Servicemembers,Closed,20070131,20150211
+40,56242628,"Bayview Loan Servicing, LLC",05 MISC 306960,Servicemembers,Closed,20050225,20050816
+41,56243600,"Bayview Loan Servicing, LLC",05 MISC 306963,Servicemembers,Closed,20050225,20051220
+42,56250219,"Bayview Loan Servicing, LLC",10 MISC 419722,Servicemembers,Open,20100105,20100105
+43,56256710,"Bayview Loan Servicing, LLC",16 SM 000929,Servicemembers,Closed,20160201,20160902
+44,56267566,"Bayview Loan Servicing, LLC",07 MISC 349047,Servicemembers,Closed,20070606,20070914
+45,56278956,"Bayview Loan Servicing, LLC",10 MISC 419721,Servicemembers,Open,20100105,20100105
+46,56294353,"Bayview Loan Servicing, LLC",10 MISC 419723,Servicemembers,Closed,20100105,20100810
+47,56298212,"Bayview Loan Servicing, LLC",10 MISC 419726,Servicemembers,Closed,20100105,20110111
+48,56313215,"Bayview Loan Servicing, LLC",10 MISC 419725,Servicemembers,Closed,20100105,20100428
+49,56316915,"Bayview Loan Servicing, LLC",10 MISC 419724,Servicemembers,Open,20100105,20100105
+0,56457382,"Bayview Loan Servicing, LLC",08 MISC 381974,Servicemembers,Closed,20080714,20090527
+1,56498650,"Bayview Loan Servicing, LLC",10H79SP002594,Housing Court Summary Process,Active,20100712,20100712
+2,56545297,"Bayview Loan Servicing, LLC",11 MISC 453067,Servicemembers,Closed,20110906,20120206
+3,56651837,"Bayview Loan Servicing, LLC",10 MISC 421227,Servicemembers,Closed,20100127,20100511
+4,56659496,"Bayview Loan Servicing, LLC",10 MISC 421230,Servicemembers,Closed,20100127,20100608
+5,56664400,"Bayview Loan Servicing, LLC",10 MISC 421232,Servicemembers,Closed,20100127,20100511
+6,56677035,"Bayview Loan Servicing, LLC",10 MISC 421228,Servicemembers,Closed,20100127,20100511
+7,56677341,"Bayview Loan Servicing, LLC",08 MISC 382797,Servicemembers,Closed,20080819,20150211
+8,56819214,"Bayview Loan Servicing, LLC",08 MISC 390827,Servicemembers,Closed,20081230,20150211
+9,56913596,"Bayview Loan Servicing, LLC",08 MISC 382828,Servicemembers,Closed,20080820,20090303
+10,56924935,"Bayview Loan Servicing, LLC",11 MISC 455872,Servicemembers,Open,20111115,20111115
+11,56929084,"Bayview Loan Servicing, LLC",10 MISC 421226,Servicemembers,Closed,20100127,20100511
+12,57015606,"Bayview Loan Servicing, LLC",11 MISC 456041,Servicemembers,Closed,20111118,20120222
+13,57023318,"Bayview Loan Servicing, LLC",10 MISC 419747,Servicemembers,Open,20100106,20100106
+14,57044038,"Bayview Loan Servicing, LLC",15 SM 003805,Servicemembers,Closed,20150508,20150909
+15,57111981,"Bayview Loan Servicing, LLC",07 MISC 344393,Servicemembers,Closed,20070330,20071231
+16,57113794,"Bayview Loan Servicing, LLC",07 MISC 344377,Servicemembers,Closed,20070330,20150211
+17,57130861,"Bayview Loan Servicing, LLC",16 SM 002845,Servicemembers,Closed,20160318,20160916
+18,57133698,"Bayview Loan Servicing, LLC",08 MISC 382093,Servicemembers,Closed,20080717,20150211
+19,57145853,"Bayview Loan Servicing, LLC",08 MISC 382092,Servicemembers,Closed,20080717,20150211
+20,57202193,"Bayview Loan Servicing, LLC",15 SM 000554,Servicemembers,Closed,20150130,20150624
+21,57224040,"Bayview Loan Servicing, LLC",15 SM 002839,Servicemembers,Closed,20150408,20150814
+22,57254683,"Bayview Loan Servicing, LLC",15 SM 002838,Servicemembers,Closed,20150408,20150814
+23,57296006,"Bayview Loan Servicing, LLC",08 SBQ 08339 08 - 001,Subsequent,Closed,20080825,20090424
+24,57319044,"Bayview Loan Servicing, LLC",09 MISC 396446,Servicemembers,Closed,20090316,20150211
+25,57561271,"Bayview Loan Servicing, LLC",15 SM 003458,Servicemembers,Closed,20150428,20160603
+26,57562923,"Bayview Loan Servicing, LLC",15 SM 003465,Servicemembers,Closed,20150428,20151229
+27,57588385,"Bayview Loan Servicing, LLC",14 MISC 483408,Servicemembers,Closed,20140501,20140729
+28,57714459,"Bayview Loan Servicing, LLC",15 SM 000317,Servicemembers,Open,20150120,20150120
+29,57732674,"Bayview Loan Servicing, LLC",08 MISC 384209,Servicemembers,Closed,20080915,20150211
+30,57738950,"Bayview Loan Servicing, LLC",08 MISC 384210,Servicemembers,Closed,20080915,20090113
+31,57781786,"Bayview Loan Servicing, LLC",11 MISC 448940,Servicemembers,Closed,20110601,20110921
+32,57784495,"Bayview Loan Servicing, LLC",12H79SP004893,Housing Court Summary Process,Active,20121126,20121126
+33,57805155,"Bayview Loan Servicing, LLC",12H79SP004894,Housing Court Summary Process,Active,20121126,20121126
+34,57826406,"Bayview Loan Servicing, LLC",15 SM 006817,Servicemembers,Closed,20150814,20151113
+35,57839417,"Bayview Loan Servicing, LLC",15 SM 006800,Servicemembers,Open,20150814,20150814
+36,57844464,"Bayview Loan Servicing, LLC",15 SM 006816,Servicemembers,Open,20150814,20150814
+37,57860234,"Bayview Loan Servicing, LLC",10 MISC 424872,Servicemembers,Closed,20100316,20101020
+38,57867999,"Bayview Loan Servicing, LLC",10 MISC 424874,Servicemembers,Closed,20100316,20100714
+39,57880503,"Bayview Loan Servicing, LLC",10 MISC 424876,Servicemembers,Open,20100316,20100316
+40,57886197,"Bayview Loan Servicing, LLC",09 MISC 396938,Servicemembers,Closed,20090320,20150211
+41,57908083,"Bayview Loan Servicing, LLC",14 MISC 488209,Servicemembers,Closed,20141119,20150819
+42,58109328,"Bayview Loan Servicing, LLC",08 MISC 381328,Servicemembers,Closed,20080529,20150211
+43,58115490,"Bayview Loan Servicing, LLC",08 MISC 381329,Servicemembers,Closed,20080529,20081112
+44,58123741,"Bayview Loan Servicing, LLC",08 MISC 381331,Servicemembers,Closed,20080529,20081112
+45,58130352,"Bayview Loan Servicing, LLC",08 MISC 381330,Servicemembers,Closed,20080529,20081112
+46,58235584,"Bayview Loan Servicing, LLC",10 MISC 442780,Servicemembers,Closed,20101110,20110426
+47,58242321,"Bayview Loan Servicing, LLC",05 MISC 315786,Servicemembers,Closed,20051116,20081210
+48,58257983,"Bayview Loan Servicing, LLC",15 SM 004742,Servicemembers,Closed,20150609,20160120
+49,58263647,"Bayview Loan Servicing, LLC",15 SM 004733,Servicemembers,Closed,20150609,20151230
+0,58324890,"Bayview Loan Servicing, LLC",14 MISC 485918,Servicemembers,Closed,20140827,20160707
+1,58391485,"Bayview Loan Servicing, LLC",15 SM 004380,Servicemembers,Closed,20150529,20160223
+2,58417680,"Bayview Loan Servicing, LLC",15 SM 002557,Servicemembers,Closed,20150331,20160107
+3,58430105,"Bayview Loan Servicing, LLC",15 SM 008282,Servicemembers,Closed,20150924,20151202
+4,58456596,"Bayview Loan Servicing, LLC",15 SM 002636,Servicemembers,Closed,20150401,20150924
+5,58465418,"Bayview Loan Servicing, LLC",15 SM 008302,Servicemembers,Closed,20150925,20160106
+6,58476684,"Bayview Loan Servicing, LLC",15 SM 002595,Servicemembers,Closed,20150401,20150812
+7,58590830,"Bayview Loan Servicing, LLC",14 MISC 486394,Servicemembers,Open,20140915,20140915
+8,58634546,"Bayview Loan Servicing, LLC",08 MISC 389290,Servicemembers,Closed,20081201,20090603
+9,58766778,"Bayview Loan Servicing, LLC",07 MISC 341318,Servicemembers,Closed,20070216,20150211
+10,58786264,"Bayview Loan Servicing, LLC",12 MISC 464016,Servicemembers,Closed,20120503,20130528
+11,58844077,"Bayview Loan Servicing, LLC",14 MISC 489051,Servicemembers,Closed,20141224,20150518
+12,58918503,"Bayview Loan Servicing, LLC",05 MISC 312644,Servicemembers,Closed,20050819,20051116
+13,58983552,"Bayview Loan Servicing, LLC",05 MISC 312952,Servicemembers,Closed,20050831,20060405
+14,59017511,"Bayview Loan Servicing, LLC",10 MISC 443596,Servicemembers,Closed,20101207,20131108
+15,59022833,"Bayview Loan Servicing, LLC",10 MISC 443592,Servicemembers,Closed,20101207,20110520
+16,59023990,"Bayview Loan Servicing, LLC",10 MISC 443597,Servicemembers,Open,20101207,20101207
+17,59065447,"Bayview Loan Servicing, LLC",16 SM 000260,Servicemembers,Closed,20160108,20160509
+18,59101213,"Bayview Loan Servicing, LLC",10 MISC 443668,Servicemembers,Closed,20101208,20110510
+19,59168411,"Bayview Loan Servicing, LLC",15 SM 008206,Servicemembers,Closed,20150923,20151230
+20,59179101,"Bayview Loan Servicing, LLC",11 MISC 444739,Servicemembers,Open,20110120,20110120
+21,59205137,"Bayview Loan Servicing, LLC",11 MISC 445261,Servicemembers,Closed,20110209,20110617
+22,59250005,"Bayview Loan Servicing, LLC",10 MISC 420721,Servicemembers,Open,20100120,20100120
+23,59268870,"Bayview Loan Servicing, LLC",10 MISC 420722,Servicemembers,Closed,20100120,20100504
+24,59307264,"Bayview Loan Servicing, LLC",15 SM 003127,Servicemembers,Closed,20150416,20150831
+25,59309800,"Bayview Loan Servicing, LLC",15 SM 003161,Servicemembers,Closed,20150417,20150831
+26,59332449,"Bayview Loan Servicing, LLC",16 SM 001938,Servicemembers,Closed,20160224,20160915
+27,59369964,"Bayview Loan Servicing, LLC",16 SM 002700,Servicemembers,Open,20160315,20160315
+28,59390804,"Bayview Loan Servicing, LLC",16 SM 002837,Servicemembers,Closed,20160317,20160901
+29,59409412,"Bayview Loan Servicing, LLC",11 MISC 445466,Servicemembers,Open,20110217,20110217
+30,59418323,"Bayview Loan Servicing, LLC",08 MISC 382753,Servicemembers,Closed,20080818,20150211
+31,59434774,"Bayview Loan Servicing, LLC",15 SM 003379,Servicemembers,Closed,20150424,20150901
+32,59437014,"Bayview Loan Servicing, LLC",16 SM 003865,Servicemembers,Closed,20160414,20161028
+33,59438685,"Bayview Loan Servicing, LLC",08 MISC 382169,Servicemembers,Closed,20080722,20150211
+34,59490949,"Bayview Loan Servicing, LLC",08 MISC 382216,Servicemembers,Closed,20080724,20081125
+35,59493703,"Bayview Loan Servicing, LLC",08 MISC 382217,Servicemembers,Closed,20080724,20090310
+36,59533903,"Bayview Loan Servicing, LLC",08 MISC 382309,Servicemembers,Closed,20080729,20081125
+37,59552056,"Bayview Loan Servicing, LLC",15 SM 004071,Servicemembers,Closed,20150519,20160629
+38,59554002,"Bayview Loan Servicing, LLC",11 MISC 444619,Servicemembers,Closed,20110118,20110603
+39,59587655,"Bayview Loan Servicing, LLC",15 SM 004153,Servicemembers,Closed,20150521,20160203
+40,59673938,"Bayview Loan Servicing, LLC",06 MISC 327895,Servicemembers,Closed,20060814,20090917
+41,59675029,"Bayview Loan Servicing, LLC",15 SM 001432,Servicemembers,Closed,20150227,20150715
+42,59693448,"Bayview Loan Servicing, LLC",12 MISC 458550,Servicemembers,Closed,20120125,20120522
+43,59770814,"Bayview Loan Servicing, LLC",14 MISC 486118,Servicemembers,Closed,20140904,20141119
+44,59773441,"Bayview Loan Servicing, LLC",15 SM 004615,Servicemembers,Closed,20150604,20151029
+45,59774908,"Bayview Loan Servicing, LLC",14 MISC 486111,Servicemembers,Closed,20140904,20141120
+46,59870602,"Bayview Loan Servicing, LLC",05 MISC 313258,Servicemembers,Closed,20050909,20060118
+47,60128936,"Bayview Loan Servicing, LLC",07 MISC 362190,Servicemembers,Closed,20071025,20080318
+48,60176430,"Bayview Loan Servicing, LLC",09 MISC 405848,Servicemembers,Closed,20090709,20091208
+49,60197310,"Bayview Loan Servicing, LLC",07 MISC 361690,Servicemembers,Closed,20071022,20080318
+0,60198898,"Bayview Loan Servicing, LLC",08 MISC 377050,Servicemembers,Closed,20080326,20150211
+1,60208982,"Bayview Loan Servicing, LLC",08 MISC 377022,Servicemembers,Closed,20080326,20150211
+2,60210103,"Bayview Loan Servicing, LLC",08 MISC 377032,Servicemembers,Closed,20080326,20150211
+3,60222864,"Bayview Loan Servicing, LLC",09 MISC 418097,Servicemembers,Closed,20091209,20150211
+4,60224366,"Bayview Loan Servicing, LLC",06 MISC 319382,Servicemembers,Closed,20060221,20090326
+5,60230518,"Bayview Loan Servicing, LLC",08 MISC 377067,Servicemembers,Closed,20080327,20080904
+6,60240171,"Bayview Loan Servicing, LLC",07 MISC 361790,Servicemembers,Closed,20071022,20080318
+7,60247539,"Bayview Loan Servicing, LLC",08 MISC 377110,Servicemembers,Closed,20080327,20090427
+8,60256436,"Bayview Loan Servicing, LLC",08 MISC 377179,Servicemembers,Closed,20080327,20080916
+9,60283125,"Bayview Loan Servicing, LLC",09 MISC 418984,Servicemembers,Closed,20091222,20100413
+10,60316995,"Bayview Loan Servicing, LLC",09 MISC 405897,Servicemembers,Closed,20090710,20091202
+11,60318099,"Bayview Loan Servicing, LLC",09 MISC 405899,Servicemembers,Closed,20090710,20091202
+12,60323268,"Bayview Loan Servicing, LLC",09 MISC 405900,Servicemembers,Closed,20090710,20150211
+13,60327498,"Bayview Loan Servicing, LLC",09 MISC 392977,Servicemembers,Closed,20090202,20150211
+14,60350942,"Bayview Loan Servicing, LLC",09 MISC 392282,Servicemembers,Closed,20090122,20090714
+15,60353357,"Bayview Loan Servicing, LLC",06 MISC 318684,Servicemembers,Closed,20060206,20060502
+16,60353749,"Bayview Loan Servicing, LLC",06 MISC 318714,Servicemembers,Closed,20060206,20060502
+17,60371483,"Bayview Loan Servicing, LLC",09 MISC 392264,Servicemembers,Closed,20090122,20090707
+18,60371709,"Bayview Loan Servicing, LLC",08 MISC 378411,Servicemembers,Closed,20080410,20080930
+19,60379157,"Bayview Loan Servicing, LLC",09 MISC 418403,Servicemembers,Closed,20091214,20150211
+20,60381425,"Bayview Loan Servicing, LLC",08 MISC 378408,Servicemembers,Closed,20080410,20150211
+21,60384890,"Bayview Loan Servicing, LLC",08 MISC 378414,Servicemembers,Closed,20080410,20080930
+22,60395443,"Bayview Loan Servicing, LLC",08 MISC 378409,Servicemembers,Closed,20080410,20150211
+23,60403139,"Bayview Loan Servicing, LLC",06 MISC 319641,Servicemembers,Closed,20060227,20090326
+24,60404194,"Bayview Loan Servicing, LLC",06 MISC 319643,Servicemembers,Closed,20060227,20060516
+25,60416194,"Bayview Loan Servicing, LLC",11 MISC 445525,Servicemembers,Closed,20110222,20161118
+26,60419951,"Bayview Loan Servicing, LLC",06 MISC 319639,Servicemembers,Closed,20060227,20090326
+27,60420384,"Bayview Loan Servicing, LLC",10 MISC 432150,Servicemembers,Closed,20100615,20110223
+28,60422679,"Bayview Loan Servicing, LLC",10 MISC 419822,Servicemembers,Closed,20100107,20100428
+29,60423574,"Bayview Loan Servicing, LLC",08 MISC 378478,Servicemembers,Closed,20080410,20080930
+30,60436602,"Bayview Loan Servicing, LLC",09 MISC 418587,Servicemembers,Closed,20091216,20100406
+31,60447356,"Bayview Loan Servicing, LLC",08 MISC 377334,Servicemembers,Closed,20080328,20080910
+32,60468102,"Bayview Loan Servicing, LLC",10 MISC 419821,Servicemembers,Closed,20100107,20100428
+33,60472719,"Bayview Loan Servicing, LLC",10 MISC 432187,Servicemembers,Closed,20100616,20101022
+34,60486834,"Bayview Loan Servicing, LLC",16 SM 001589,Servicemembers,Closed,20160218,20160609
+35,60561685,"Bayview Loan Servicing, LLC",10 MISC 432697,Servicemembers,Closed,20100622,20110502
+36,60569441,"Bayview Loan Servicing, LLC",09 MISC 418813,Servicemembers,Closed,20091218,20100511
+37,60583035,"Bayview Loan Servicing, LLC",07 MISC 347486,Servicemembers,Closed,20070515,20080325
+38,60588546,"Bayview Loan Servicing, LLC",09 MISC 407484,Servicemembers,Closed,20090728,20100106
+39,60589369,"Bayview Loan Servicing, LLC",06 MISC 336029,Servicemembers,Closed,20061208,20070327
+40,60593691,"Bayview Loan Servicing, LLC",10 MISC 432694,Servicemembers,Closed,20100622,20101029
+41,60627787,"Bayview Loan Servicing, LLC",08 MISC 379949,Servicemembers,Closed,20080424,20150211
+42,60650884,"Bayview Loan Servicing, LLC",13H79SP004345,Housing Court Summary Process,Closed,20131021,20131021
+43,60674353,"Bayview Loan Servicing, LLC",09 MISC 406742,Servicemembers,Closed,20090720,20091215
+44,60691739,"Bayview Loan Servicing, LLC",09 MISC 406775,Servicemembers,Closed,20090720,20100817
+45,60695301,"Bayview Loan Servicing, LLC",09 MISC 407600,Servicemembers,Closed,20090729,20150211
+46,60709095,"Bayview Loan Servicing, LLC",09 MISC 407608,Servicemembers,Closed,20090729,20150211
+47,60725962,"Bayview Loan Servicing, LLC",09 MISC 407194,Servicemembers,Closed,20090724,20150211
+48,60730453,"Bayview Loan Servicing, LLC",09 MISC 407196,Servicemembers,Closed,20090724,20150211
+49,60754216,"Bayview Loan Servicing, LLC",10 MISC 421959,Servicemembers,Closed,20100204,20100518
+0,60775458,"Bayview Loan Servicing, LLC",06 MISC 320416,Servicemembers,Closed,20060314,20060817
+1,60783910,"Bayview Loan Servicing, LLC",07 MISC 363239,Servicemembers,Closed,20071107,20150211
+2,60790764,"Bayview Loan Servicing, LLC",07 MISC 363264,Servicemembers,Closed,20071107,20080528
+3,60809424,"Bayview Loan Servicing, LLC",10 MISC 432476,Servicemembers,Closed,20100618,20101020
+4,60814412,"Bayview Loan Servicing, LLC",09 MISC 393487,Servicemembers,Closed,20090206,20090818
+5,60827725,"Bayview Loan Servicing, LLC",07 MISC 363343,Servicemembers,Closed,20071108,20080325
+6,60837963,"Bayview Loan Servicing, LLC",09 MISC 407606,Servicemembers,Closed,20090729,20091230
+7,60840385,"Bayview Loan Servicing, LLC",09 MISC 393916,Servicemembers,Closed,20090212,20090811
+8,60865216,"Bayview Loan Servicing, LLC",07 MISC 350232,Servicemembers,Closed,20070619,20070921
+9,60882491,"Bayview Loan Servicing, LLC",07 MISC 363379,Servicemembers,Closed,20071108,20080325
+10,60903213,"Bayview Loan Servicing, LLC",07 MISC 363411,Servicemembers,Closed,20071108,20080325
+11,60934382,"Bayview Loan Servicing, LLC",07 MISC 365340,Servicemembers,Closed,20071129,20150211
+12,60936982,"Bayview Loan Servicing, LLC",09 MISC 395557,Servicemembers,Closed,20090305,20090916
+13,60943640,"Bayview Loan Servicing, LLC",06 MISC 322654,Servicemembers,Closed,20060501,20090625
+14,60952657,"Bayview Loan Servicing, LLC",07 MISC 365361,Servicemembers,Closed,20071129,20080415
+15,60956973,"Bayview Loan Servicing, LLC",07 MISC 365350,Servicemembers,Closed,20071129,20080916
+16,60959380,"Bayview Loan Servicing, LLC",09 MISC 395587,Servicemembers,Closed,20090305,20090916
+17,60968308,"Bayview Loan Servicing, LLC",09 MISC 408434,Servicemembers,Closed,20090805,20100302
+18,60971041,"Bayview Loan Servicing, LLC",09 MISC 395558,Servicemembers,Closed,20090305,20090916
+19,60974444,"Bayview Loan Servicing, LLC",10 MISC 420307,Servicemembers,Closed,20100113,20100428
+20,60984690,"Bayview Loan Servicing, LLC",09 MISC 394094,Servicemembers,Closed,20090213,20150211
+21,61033454,"Bayview Loan Servicing, LLC",08 MISC 383414,Servicemembers,Closed,20080903,20150211
+22,61033771,"Bayview Loan Servicing, LLC",16 SM 009955,Servicemembers,Open,20161014,20161014
+23,61103654,"Bayview Loan Servicing, LLC",09 MISC 408509,Servicemembers,Closed,20090806,20100120
+24,61106118,"Bayview Loan Servicing, LLC",10H79SP003705,Housing Court Summary Process,Closed,20100913,20101021
+25,61151810,"Bayview Loan Servicing, LLC",09 MISC 408579,Servicemembers,Closed,20090806,20150211
+26,61179127,"Bayview Loan Servicing, LLC",11 MISC 449536,Servicemembers,Closed,20110623,20111017
+27,61179379,"Bayview Loan Servicing, LLC",11 MISC 449526,Servicemembers,Closed,20110623,20110921
+28,61189537,"Bayview Loan Servicing, LLC",06 MISC 335428,Servicemembers,Closed,20061201,20071114
+29,61192401,"Bayview Loan Servicing, LLC",09 MISC 396723,Servicemembers,Closed,20090318,20150211
+30,61194938,"Bayview Loan Servicing, LLC",08 MISC 383719,Servicemembers,Closed,20080908,20081231
+31,61198483,"Bayview Loan Servicing, LLC",07 MISC 351205,Servicemembers,Closed,20070703,20071022
+32,61200326,"Bayview Loan Servicing, LLC",07 MISC 351202,Servicemembers,Closed,20070703,20070928
+33,61208145,"Bayview Loan Servicing, LLC",07 MISC 351234,Servicemembers,Closed,20070703,20070921
+34,61216800,"Bayview Loan Servicing, LLC",11 MISC 449589,Servicemembers,Closed,20110624,20110921
+35,61221672,"Bayview Loan Servicing, LLC",09 MISC 409060,Servicemembers,Closed,20090813,20100120
+36,61244033,"Bayview Loan Servicing, LLC",10 MISC 423561,Servicemembers,Closed,20100225,20161118
+37,61251413,"Bayview Loan Servicing, LLC",10 MISC 423546,Servicemembers,Closed,20100225,20161118
+38,61257438,"Bayview Loan Servicing, LLC",12 MISC 469021,Servicemembers,Closed,20120810,20161118
+39,61257694,"Bayview Loan Servicing, LLC",09 MISC 404724,Servicemembers,Closed,20090626,20150211
+40,61260759,"Bayview Loan Servicing, LLC",09 MISC 404726,Servicemembers,Closed,20090626,20091124
+41,61269198,"Bayview Loan Servicing, LLC",09 MISC 404784,Servicemembers,Closed,20090626,20150211
+42,61273004,"Bayview Loan Servicing, LLC",09 MISC 404728,Servicemembers,Closed,20090626,20091124
+43,61274850,"Bayview Loan Servicing, LLC",09 MISC 404727,Servicemembers,Closed,20090626,20150211
+44,61278432,"Bayview Loan Servicing, LLC",11H79SP001573,Housing Court Summary Process,Active,20110425,20110425
+45,61282455,"Bayview Loan Servicing, LLC",10 MISC 434482,Servicemembers,Closed,20100716,20161118
+46,61282635,"Bayview Loan Servicing, LLC",11H79SP001571,Housing Court Summary Process,Active,20110425,20110425
+47,61282668,"Bayview Loan Servicing, LLC",09 MISC 408696,Servicemembers,Closed,20090807,20150211
+48,61283255,"Bayview Loan Servicing, LLC",07 MISC 351240,Servicemembers,Closed,20070703,20071004
+49,61284429,"Bayview Loan Servicing, LLC",09 MISC 404801,Servicemembers,Closed,20090626,20091124
+0,61292604,"Bayview Loan Servicing, LLC",07 MISC 351206,Servicemembers,Closed,20070703,20081125
+1,61293021,"Bayview Loan Servicing, LLC",11H79SP001572,Housing Court Summary Process,Closed,20110425,20110706
+2,61296385,"Bayview Loan Servicing, LLC",07 MISC 351201,Servicemembers,Closed,20070703,20071204
+3,61298071,"Bayview Loan Servicing, LLC",10 MISC 434483,Servicemembers,Closed,20100716,20161118
+4,61298514,"Bayview Loan Servicing, LLC",07 MISC 351200,Servicemembers,Closed,20070703,20150211
+5,61299116,"Bayview Loan Servicing, LLC",09 MISC 408100,Servicemembers,Closed,20090803,20100302
+6,61299702,"Bayview Loan Servicing, LLC",09 MISC 396785,Servicemembers,Closed,20090319,20150211
+7,61321206,"Bayview Loan Servicing, LLC",09 MISC 417200,Servicemembers,Closed,20091125,20150211
+8,61336999,"Bayview Loan Servicing, LLC",10 MISC 434360,Servicemembers,Closed,20100716,20101117
+9,61366494,"Bayview Loan Servicing, LLC",15 SM 001959,Servicemembers,Closed,20150318,20150609
+10,61384766,"Bayview Loan Servicing, LLC",12 MISC 459744,Servicemembers,Closed,20120221,20120410
+11,61399327,"Bayview Loan Servicing, LLC",10 MISC 423558,Servicemembers,Closed,20100225,20100615
+12,61402060,"Bayview Loan Servicing, LLC",10 MISC 423557,Servicemembers,Closed,20100225,20161118
+13,61442113,"Bayview Loan Servicing, LLC",10 MISC 424755,Servicemembers,Closed,20100315,20100707
+14,61450684,"Bayview Loan Servicing, LLC",10 MISC 424753,Servicemembers,Closed,20100315,20100713
+15,61450807,"Bayview Loan Servicing, LLC",11H79SP000378,Housing Court Summary Process,Active,20110131,20110131
+16,61462527,"Bayview Loan Servicing, LLC",10 MISC 423555,Servicemembers,Closed,20100225,20101005
+17,61473351,"Bayview Loan Servicing, LLC",06 MISC 321582,Servicemembers,Closed,20060407,20060613
+18,61481201,"Bayview Loan Servicing, LLC",07 MISC 366276,Servicemembers,Closed,20071207,20150211
+19,61555218,"Bayview Loan Servicing, LLC",10 MISC 424754,Servicemembers,Closed,20100315,20161118
+20,61563364,"Bayview Loan Servicing, LLC",07 MISC 367324,Servicemembers,Closed,20071219,20150211
+21,61570137,"Bayview Loan Servicing, LLC",07 MISC 353030,Servicemembers,Closed,20070724,20150211
+22,61621474,"Bayview Loan Servicing, LLC",14 MISC 484996,Servicemembers,Closed,20140723,20161118
+23,61624700,"Bayview Loan Servicing, LLC",07 MISC 352698,Servicemembers,Closed,20070719,20080109
+24,61655778,"Bayview Loan Servicing, LLC",07 MISC 367323,Servicemembers,Closed,20071219,20080506
+25,61669154,"Bayview Loan Servicing, LLC",06 MISC 326077,Servicemembers,Closed,20060711,20090917
+26,61682231,"Bayview Loan Servicing, LLC",09 MISC 410073,Servicemembers,Closed,20090826,20100127
+27,61740263,"Bayview Loan Servicing, LLC",07 MISC 366953,Servicemembers,Closed,20071217,20080430
+28,61740678,"Bayview Loan Servicing, LLC",09 MISC 409385,Servicemembers,Closed,20090817,20150211
+29,61745953,"Bayview Loan Servicing, LLC",08 MISC 384494,Servicemembers,Closed,20080918,20090611
+30,61753342,"Bayview Loan Servicing, LLC",09 MISC 395971,Servicemembers,Closed,20090310,20150211
+31,61756610,"Bayview Loan Servicing, LLC",09 MISC 395970,Servicemembers,Closed,20090310,20090916
+32,61756989,"Bayview Loan Servicing, LLC",09 MISC 409262,Servicemembers,Closed,20090817,20150211
+33,61808256,"Bayview Loan Servicing, LLC",09 MISC 396511,Servicemembers,Closed,20090317,20090922
+34,61814248,"Bayview Loan Servicing, LLC",09 MISC 409393,Servicemembers,Closed,20090817,20100224
+35,61831335,"Bayview Loan Servicing, LLC",11H79SP000993,Housing Court Summary Process,Active,20110314,20110314
+36,61834874,"Bayview Loan Servicing, LLC",15 SM 005855,Servicemembers,Closed,20150717,20151015
+37,61858333,"Bayview Loan Servicing, LLC",07 MISC 355865,Servicemembers,Closed,20070822,20071218
+38,61860131,"Bayview Loan Servicing, LLC",10 MISC 426099,Servicemembers,Closed,20100330,20100817
+39,61861677,"Bayview Loan Servicing, LLC",15 SM 003541,Servicemembers,Closed,20150430,20160122
+40,61866370,"Bayview Loan Servicing, LLC",09 MISC 411251,Servicemembers,Closed,20090909,20150211
+41,61867704,"Bayview Loan Servicing, LLC",10 MISC 425919,Servicemembers,Closed,20100326,20100810
+42,61875846,"Bayview Loan Servicing, LLC",06 MISC 337114,Servicemembers,Closed,20061222,20080820
+43,61883428,"Bayview Loan Servicing, LLC",07 MISC 353167,Servicemembers,Closed,20070726,20080317
+44,61892470,"Bayview Loan Servicing, LLC",09 MISC 400009,Servicemembers,Closed,20090505,20150211
+45,61893661,"Bayview Loan Servicing, LLC",10 MISC 425979,Servicemembers,Closed,20100326,20161118
+46,61898668,"Bayview Loan Servicing, LLC",09 SBQ 16764 03 - 001,Subsequent,Closed,20090331,20090331
+47,61943650,"Bayview Loan Servicing, LLC",05 MISC 313446,Servicemembers,Closed,20050914,20081210
+48,61948538,"Bayview Loan Servicing, LLC",12H79SP000524,Housing Court Summary Process,Active,20120206,20120206
+49,61991892,"Bayview Loan Servicing, LLC",10 MISC 424212,Servicemembers,Closed,20100308,20100615
+0,61995909,"Bayview Loan Servicing, LLC",06 MISC 327351,Servicemembers,Closed,20060803,20061024
+1,62017850,"Bayview Loan Servicing, LLC",10 MISC 436746,Servicemembers,Closed,20100812,20161118
+2,62041326,"Bayview Loan Servicing, LLC",08 MISC 388387,Servicemembers,Closed,20081110,20090707
+3,62063501,"Bayview Loan Servicing, LLC",11H79SP004977,Housing Court Summary Process,Closed,20111121,20120127
+4,62092610,"Bayview Loan Servicing, LLC",10 MISC 426222,Servicemembers,Closed,20100331,20100817
+5,62115483,"Bayview Loan Servicing, LLC",09 MISC 397792,Servicemembers,Closed,20090402,20091005
+6,62121479,"Bayview Loan Servicing, LLC",08 MISC 369769,Servicemembers,Closed,20080115,20080610
+7,62136133,"Bayview Loan Servicing, LLC",09 MISC 400837,Servicemembers,Closed,20090514,20091021
+8,62142912,"Bayview Loan Servicing, LLC",08 MISC 387941,Servicemembers,Closed,20081103,20150211
+9,62166958,"Bayview Loan Servicing, LLC",09 MISC 412341,Servicemembers,Closed,20090922,20100316
+10,62170350,"Bayview Loan Servicing, LLC",09 MISC 411109,Servicemembers,Closed,20090908,20100330
+11,62171559,"Bayview Loan Servicing, LLC",08 MISC 386110,Servicemembers,Closed,20081007,20090407
+12,62180378,"Bayview Loan Servicing, LLC",10 MISC 427240,Servicemembers,Closed,20100412,20100915
+13,62181984,"Bayview Loan Servicing, LLC",09 MISC 412339,Servicemembers,Closed,20090922,20100209
+14,62190004,"Bayview Loan Servicing, LLC",08 MISC 388591,Servicemembers,Closed,20081113,20090616
+15,62209984,"Bayview Loan Servicing, LLC",15 SM 009234,Servicemembers,Closed,20151021,20160107
+16,62211887,"Bayview Loan Servicing, LLC",10 MISC 427237,Servicemembers,Closed,20100412,20110412
+17,62212954,"Bayview Loan Servicing, LLC",07 MISC 356821,Servicemembers,Closed,20070831,20080103
+18,62231030,"Bayview Loan Servicing, LLC",08 MISC 388594,Servicemembers,Closed,20081113,20150211
+19,62235717,"Bayview Loan Servicing, LLC",08 MISC 388593,Servicemembers,Closed,20081113,20090519
+20,62257883,"Bayview Loan Servicing, LLC",10 MISC 437315,Servicemembers,Closed,20100817,20110412
+21,62267713,"Bayview Loan Servicing, LLC",08 MISC 387035,Servicemembers,Closed,20081022,20090527
+22,62268325,"Bayview Loan Servicing, LLC",07 MISC 356563,Servicemembers,Closed,20070830,20080430
+23,62278733,"Bayview Loan Servicing, LLC",08 MISC 387036,Servicemembers,Closed,20081022,20150211
+24,62280043,"Bayview Loan Servicing, LLC",08 MISC 388036,Servicemembers,Closed,20081104,20090623
+25,62280100,"Bayview Loan Servicing, LLC",09 MISC 399355,Servicemembers,Closed,20090424,20091014
+26,62280805,"Bayview Loan Servicing, LLC",08 MISC 387040,Servicemembers,Closed,20081022,20150211
+27,62344117,"Bayview Loan Servicing, LLC",09 MISC 399354,Servicemembers,Closed,20090424,20150211
+28,62362224,"Bayview Loan Servicing, LLC",08 MISC 387430,Servicemembers,Closed,20081027,20150211
+29,62365102,"Bayview Loan Servicing, LLC",08 MISC 387434,Servicemembers,Closed,20081027,20150211
+30,62397207,"Bayview Loan Servicing, LLC",08 MISC 369971,Servicemembers,Closed,20080117,20150211
+31,62398353,"Bayview Loan Servicing, LLC",09 MISC 399353,Servicemembers,Closed,20090424,20150211
+32,62408670,"Bayview Loan Servicing, LLC",16 SM 000386,Servicemembers,Closed,20160113,20160513
+33,62412622,"Bayview Loan Servicing, LLC",07 MISC 341406,Servicemembers,Closed,20070220,20070920
+34,62435666,"Bayview Loan Servicing, LLC",08 MISC 371617,Servicemembers,Closed,20080201,20150211
+35,62437592,"Bayview Loan Servicing, LLC",10 MISC 427235,Servicemembers,Closed,20100412,20101115
+36,62466833,"Bayview Loan Servicing, LLC",08 MISC 387491,Servicemembers,Closed,20081028,20090505
+37,62469009,"Bayview Loan Servicing, LLC",08 MISC 387490,Servicemembers,Closed,20081028,20090505
+38,62473478,"Bayview Loan Servicing, LLC",08 MISC 387488,Servicemembers,Closed,20081028,20090505
+39,62476615,"Bayview Loan Servicing, LLC",08 MISC 372443,Servicemembers,Closed,20080208,20150211
+40,62476720,"Bayview Loan Servicing, LLC",08 MISC 389356,Servicemembers,Closed,20081202,20090707
+41,62488927,"Bayview Loan Servicing, LLC",10 MISC 428036,Servicemembers,Closed,20100421,20100921
+42,62509280,"Bayview Loan Servicing, LLC",10 MISC 428096,Servicemembers,Closed,20100422,20161118
+43,62510589,"Bayview Loan Servicing, LLC",10 MISC 428161,Servicemembers,Closed,20100422,20101221
+44,62510604,"Bayview Loan Servicing, LLC",10 MISC 428144,Servicemembers,Closed,20100422,20101221
+45,62510619,"Bayview Loan Servicing, LLC",10 SBQ 08441 04 - 001,Servicemembers,Closed,20100422,20101221
+46,62510634,"Bayview Loan Servicing, LLC",10 MISC 428158,Servicemembers,Closed,20100422,20101221
+47,62510649,"Bayview Loan Servicing, LLC",10 MISC 428149,Servicemembers,Closed,20100422,20101221
+48,62596086,"Bayview Loan Servicing, LLC",16 SM 004308,Servicemembers,Open,20160427,20160427
+49,62614574,"Bayview Loan Servicing, LLC",16 SM 001854,Servicemembers,Closed,20160223,20160923
+0,62615749,"Bayview Loan Servicing, LLC",16 SM 001885,Servicemembers,Closed,20160223,20160714
+1,62698235,"Bayview Loan Servicing, LLC",10 MISC 423758,Servicemembers,Closed,20100301,20100615
+2,62739513,"Bayview Loan Servicing, LLC",10 MISC 423915,Servicemembers,Closed,20100303,20100818
+3,62821508,"Bayview Loan Servicing, LLC",06 MISC 325442,Servicemembers,Closed,20060622,20090625
+4,62836305,"Bayview Loan Servicing, LLC",06 MISC 325377,Servicemembers,Closed,20060622,20070517
+5,62923309,"Bayview Loan Servicing, LLC",14 MISC 485338,Servicemembers,Closed,20140804,20141016
+6,62995189,"Bayview Loan Servicing, LLC",14 MISC 485439,Servicemembers,Closed,20140807,20141014
+7,63032254,"Bayview Loan Servicing, LLC",09 MISC 396120,Servicemembers,Closed,20090311,20090922
+8,63057998,"Bayview Loan Servicing, LLC",16 SM 009556,Servicemembers,Open,20160930,20160930
+9,63102983,"Bayview Loan Servicing, LLC",16 SM 002504,Servicemembers,Open,20160308,20160308
+10,63188945,"Bayview Loan Servicing, LLC",15 SM 009461,Servicemembers,Closed,20151027,20160108
+11,63308477,"Bayview Loan Servicing, LLC",15 SM 006671,Servicemembers,Closed,20150811,20151022
+12,63807926,"Bayview Loan Servicing, LLC",15 SM 008953,Servicemembers,Closed,20151013,20160105
+13,65008947,"Bayview Loan Servicing, LLC",16 SM 010568,Servicemembers,Open,20161101,20161101
+14,65156925,"Bayview Loan Servicing, LLC",16 SM 009872,Servicemembers,Open,20161013,20161013
+15,65197737,"Bayview Loan Servicing, LLC",16H85SP004017,Housing Court Summary Process,Active,20161007,20161007
+16,65307366,"Bayview Loan Servicing, LLC",16 SM 009764,Servicemembers,Open,20161011,20161011
+17,65345521,"Bayview Loan Servicing, LLC",16 SM 010258,Servicemembers,Open,20161024,20161024
+18,65352279,"Bayview Loan Servicing, LLC",16 SM 008938,Servicemembers,Open,20160914,20160914
+19,65565476,"Bayview Loan Servicing, LLC",16 MISC 000527,Miscellaneous,Open,20160909,20160909
+20,65594406,"Bayview Loan Servicing, LLC",16 SM 009172,Servicemembers,Open,20160921,20160921
+21,65604937,"Bayview Loan Servicing, LLC",16 SM 008772,Servicemembers,Open,20160908,20160908
+22,65613691,"Bayview Loan Servicing, LLC",0883CV01603,Real Property,Closed,20081209,20090202
+23,65623603,"Bayview Loan Servicing, LLC",16 SBQ 38317 10 - 001,Subsequent,Open,20161003,20161003
+24,65695226,"Bayview Loan Servicing, LLC",16 SM 008188,Servicemembers,Closed,20160817,20160902
+25,65801813,"Bayview Loan Servicing, LLC",16 SM 009061,Servicemembers,Open,20160919,20160919
+26,66149381,"Bayview Loan Servicing, LLC",16 SM 007784,Servicemembers,Closed,20160804,20160912
+27,66240844,"Bayview Loan Servicing, LLC",16 SM 006464,Servicemembers,Open,20160627,20160627
+28,66299612,"Bayview Loan Servicing, LLC",16 SM 007978,Servicemembers,Open,20160810,20160810
+29,66359221,"Bayview Loan Servicing, LLC",16 SM 007921,Servicemembers,Open,20160809,20160809
+30,66574628,"Bayview Loan Servicing, LLC",16 SM 007826,Servicemembers,Open,20160805,20160805
+31,66770624,"Bayview Loan Servicing, LLC",0873CV00064,Real Property,Closed,20080111,20080304
+32,67159789,"Bayview Loan Servicing, LLC",0884CV01182,Contract / Business Cases,Closed,20080313,20081209
+33,67159789,"Bayview Loan Servicing, LLC",0884CV01182,Contract / Business Cases,Closed,20080313,20081209
+34,67762625,"Bayview Loan Servicing, LLC",0773CV00828,Real Property,Closed,20070611,20070918
+35,70381435,"Bayview Loan Servicing, LLC",1680CV00163,Equitable Remedies,Open,20161011,20161011
+36,70548026,"Bayview Loan Servicing, LLC",07 MISC 339101,Servicemembers,Closed,20070122,20070611
+37,70702280,"Bayview Loan Servicing, LLC",08 MISC 382124,Servicemembers,Closed,20080718,20081125
+38,70958740,"Bayview Loan Servicing, LLC",16 SM 005415,Servicemembers,Open,20160525,20160525
+39,70961610,"Bayview Loan Servicing, LLC",1573CV01147,Equitable Remedies,Closed,20151207,20151207
+40,70974743,"Bayview Loan Servicing, LLC",16 SM 005330,Servicemembers,Open,20160523,20160523
+41,71209129,"Bayview Loan Servicing, LLC",16 SM 005105,Servicemembers,Open,20160517,20160517
+42,71253435,"Bayview Loan Servicing, LLC",16 SM 005050,Servicemembers,Open,20160516,20160516
+43,71301425,"Bayview Loan Servicing, LLC",16 SM 004829,Servicemembers,Closed,20160510,20161109
+44,71312439,"Bayview Loan Servicing, LLC",16 SM 005010,Servicemembers,Open,20160513,20160513
+45,71317946,"Bayview Loan Servicing, LLC",16 SM 004851,Servicemembers,Open,20160510,20160510
+46,71334000,"Bayview Loan Servicing, LLC",16 SM 004999,Servicemembers,Open,20160513,20160513
+47,71442250,"Bayview Loan Servicing, LLC",16 SM 005868,Servicemembers,Open,20160607,20160607
+48,71452886,"Bayview Loan Servicing, LLC",16 SM 005844,Servicemembers,Open,20160607,20160607
+49,71522277,"Bayview Loan Servicing, LLC",16 SM 005794,Servicemembers,Open,20160606,20160606
+0,71862744,"Bayview Loan Servicing, LLC",16 SM 005612,Servicemembers,Open,20160601,20160601
+1,73308220,"Bayview Loan Servicing, LLC",0581CV01357,Equitable Remedies,Closed,20050421,20061214
+2,74697033,"Bayview Loan Servicing, LLC",0873CV01716,Contract / Business Cases,Closed,20081226,20091118
+3,75214184,"Bayview Loan Servicing, LLC",0873CV01107,Contract / Business Cases,Closed,20080822,20081217
+4,75355937,"Bayview Loan Servicing, LLC",0873CV01099,Contract / Business Cases,Closed,20080820,20090204
+5,75434878,"Bayview Loan Servicing, LLC",1615SU000183,Summary Process,Pending,20161024,20161024
+6,75453154,"Bayview Loan Servicing, LLC",1615SU000182,Summary Process,Disposed (Statistical Purposes),20161024,20161104
+7,75458335,"Bayview Loan Servicing, LLC",1615SU000181,Summary Process,Disposed (Statistical Purposes),20161024,20161104
+8,75615830,"Bayview Loan Servicing, LLC",1183CV01532,Contract / Business Cases,Open,20111230,20130314
+9,75913152,"Bayview Loan Servicing, LLC",09 MISC 391428,Servicemembers,Closed,20090112,20090707
+10,76057741,"Bayview Loan Servicing, LLC",07 MISC 338863,Servicemembers,Closed,20070118,20150211
+11,76060620,"Bayview Loan Servicing, LLC",06 MISC 328138,Servicemembers,Closed,20060817,20070321
+12,76065398,"Bayview Loan Servicing, LLC",05 MISC 313999,Servicemembers,Closed,20050929,20051227
+13,76082308,"Bayview Loan Servicing, LLC",07 MISC 338862,Servicemembers,Closed,20070118,20070606
+14,76133136,"Bayview Loan Servicing, LLC",07 MISC 355889,Servicemembers,Closed,20070822,20150211
+15,76162697,"Bayview Loan Servicing, LLC",07 MISC 354118,Servicemembers,Closed,20070806,20071114
+16,76171757,"Bayview Loan Servicing, LLC",08 MISC 368478,Servicemembers,Closed,20080104,20080528
+17,76181396,"Bayview Loan Servicing, LLC",08 MISC 368568,Servicemembers,Closed,20080104,20150211
+18,76252257,"Bayview Loan Servicing, LLC",15 SM 005116,Servicemembers,Closed,20150622,20150930
+19,76253561,"Bayview Loan Servicing, LLC",15 SM 005109,Servicemembers,Closed,20150622,20160504
+20,76348495,"Bayview Loan Servicing, LLC",16 SM 006850,Servicemembers,Open,20160707,20160707
+21,76353045,"Bayview Loan Servicing, LLC",16 SM 006849,Servicemembers,Open,20160707,20160707
+22,76480588,"Bayview Loan Servicing, LLC",1482CV00446,Equitable Remedies,Closed,20140328,20151006
+23,76512527,"Bayview Loan Servicing, LLC",16 SM 006920,Servicemembers,Open,20160708,20160708
+24,76826587,"Bayview Loan Servicing, LLC",07 MISC 342049,Servicemembers,Closed,20070228,20071024
+25,76843824,"Bayview Loan Servicing, LLC",07 MISC 357386,Servicemembers,Closed,20070907,20150211
+26,76850425,"Bayview Loan Servicing, LLC",08 MISC 374937,Servicemembers,Closed,20080306,20080930
+27,76853371,"Bayview Loan Servicing, LLC",09 MISC 414532,Servicemembers,Closed,20091020,20100305
+28,76878658,"Bayview Loan Servicing, LLC",10 MISC 430153,Servicemembers,Closed,20100519,20110223
+29,76893621,"Bayview Loan Servicing, LLC",08 MISC 390347,Servicemembers,Closed,20081218,20150211
+30,76898042,"Bayview Loan Servicing, LLC",07 MISC 357329,Servicemembers,Closed,20070907,20080115
+31,76902637,"Bayview Loan Servicing, LLC",08 MISC 375397,Servicemembers,Closed,20080310,20080819
+32,76904973,"Bayview Loan Servicing, LLC",08 MISC 372800,Servicemembers,Closed,20080213,20080910
+33,76913958,"Bayview Loan Servicing, LLC",08 MISC 372883,Servicemembers,Closed,20080214,20150211
+34,76919489,"Bayview Loan Servicing, LLC",08 MISC 372933,Servicemembers,Closed,20080214,20150211
+35,76927242,"Bayview Loan Servicing, LLC",07 MISC 360614,Servicemembers,Closed,20071010,20080304
+36,76929277,"Bayview Loan Servicing, LLC",08 MISC 372889,Servicemembers,Closed,20080214,20090107
+37,76929382,"Bayview Loan Servicing, LLC",08 MISC 372888,Servicemembers,Closed,20080214,20080529
+38,76930629,"Bayview Loan Servicing, LLC",08 MISC 372937,Servicemembers,Closed,20080214,20090603
+39,76931795,"Bayview Loan Servicing, LLC",08 MISC 375824,Servicemembers,Closed,20080314,20150211
+40,76935724,"Bayview Loan Servicing, LLC",08 MISC 375822,Servicemembers,Closed,20080314,20150211
+41,76937420,"Bayview Loan Servicing, LLC",08 MISC 375818,Servicemembers,Closed,20080314,20150211
+42,76938550,"Bayview Loan Servicing, LLC",07 MISC 343913,Servicemembers,Closed,20070323,20150211
+43,76939586,"Bayview Loan Servicing, LLC",08 MISC 376113,Servicemembers,Closed,20080317,20150211
+44,76941681,"Bayview Loan Servicing, LLC",12 MISC 468994,Servicemembers,Closed,20120809,20150414
+45,76942072,"Bayview Loan Servicing, LLC",08 MISC 375996,Servicemembers,Closed,20080317,20080826
+46,76946006,"Bayview Loan Servicing, LLC",09 MISC 403156,Servicemembers,Closed,20090611,20100504
+47,76952454,"Bayview Loan Servicing, LLC",08 MISC 376197,Servicemembers,Closed,20080318,20110921
+48,76952535,"Bayview Loan Servicing, LLC",09 MISC 413381,Servicemembers,Closed,20091005,20150211
+49,76952581,"Bayview Loan Servicing, LLC",09 MISC 413382,Servicemembers,Closed,20091005,20100217
+0,76973992,"Bayview Loan Servicing, LLC",09 MISC 413445,Servicemembers,Closed,20091006,20100217
+1,76976644,"Bayview Loan Servicing, LLC",09 MISC 403369,Servicemembers,Closed,20090612,20091221
+2,76980545,"Bayview Loan Servicing, LLC",08 MISC 373084,Servicemembers,Closed,20080215,20150211
+3,76984190,"Bayview Loan Servicing, LLC",08 MISC 373082,Servicemembers,Closed,20080215,20080729
+4,77032116,"Bayview Loan Servicing, LLC",10 MISC 430670,Servicemembers,Closed,20100526,20101216
+5,77032387,"Bayview Loan Servicing, LLC",07 MISC 361339,Servicemembers,Closed,20071017,20080311
+6,77032687,"Bayview Loan Servicing, LLC",07 MISC 361335,Servicemembers,Closed,20071017,20080311
+7,77051059,"Bayview Loan Servicing, LLC",09 MISC 416108,Servicemembers,Closed,20091110,20100316
+8,77054190,"Bayview Loan Servicing, LLC",09 MISC 403690,Servicemembers,Closed,20090617,20100120
+9,77057903,"Bayview Loan Servicing, LLC",09 MISC 416156,Servicemembers,Closed,20091112,20100128
+10,77057919,"Bayview Loan Servicing, LLC",09 MISC 416136,Servicemembers,Closed,20091112,20120126
+11,77059402,"Bayview Loan Servicing, LLC",09 MISC 403696,Servicemembers,Closed,20090617,20091201
+12,77060180,"Bayview Loan Servicing, LLC",09 MISC 416187,Servicemembers,Closed,20091112,20100316
+13,77060460,"Bayview Loan Servicing, LLC",09 MISC 403688,Servicemembers,Closed,20090617,20150211
+14,77062658,"Bayview Loan Servicing, LLC",09 MISC 416157,Servicemembers,Closed,20091112,20100316
+15,77063768,"Bayview Loan Servicing, LLC",07 MISC 346065,Servicemembers,Closed,20070425,20070829
+16,77063844,"Bayview Loan Servicing, LLC",07 MISC 346064,Servicemembers,Closed,20070425,20150211
+17,77086793,"Bayview Loan Servicing, LLC",09 MISC 414168,Servicemembers,Closed,20091014,20100224
+18,77272783,"Bayview Loan Servicing, LLC",1733SU000144,Summary Process,Disposed (Statistical Purposes),20170227,20170403
+19,77801649,"Bayview Loan Servicing, LLC",1858SU000035,Summary Process,Disposed (Statistical Purposes),20180719,20180824
+20,78110449,"Bayview Loan Servicing, LLC",08 MISC 386255,Servicemembers,Closed,20081009,20150211
+21,78116997,"Bayview Loan Servicing, LLC",10 MISC 425247,Servicemembers,Closed,20100319,20161118
+22,78117725,"Bayview Loan Servicing, LLC",10 MISC 425246,Servicemembers,Closed,20100319,20100727
+23,78119040,"Bayview Loan Servicing, LLC",10 MISC 425244,Servicemembers,Closed,20100319,20100727
+24,78121510,"Bayview Loan Servicing, LLC",07 MISC 353678,Servicemembers,Closed,20070801,20071030
+25,78129079,"Bayview Loan Servicing, LLC",10 MISC 425245,Servicemembers,Closed,20100319,20100727
+26,78140646,"Bayview Loan Servicing, LLC",08 MISC 370182,Servicemembers,Closed,20080118,20150211
+27,78151311,"Bayview Loan Servicing, LLC",07 MISC 342000,Servicemembers,Closed,20070227,20150211
+28,78162719,"Bayview Loan Servicing, LLC",09 MISC 402287,Servicemembers,Closed,20090602,20091124
+29,78184038,"Bayview Loan Servicing, LLC",08 MISC 374000,Servicemembers,Closed,20080227,20090603
+30,78184878,"Bayview Loan Servicing, LLC",08 MISC 373998,Servicemembers,Closed,20080227,20150211
+31,78188486,"Bayview Loan Servicing, LLC",08 MISC 373944,Servicemembers,Closed,20080227,20080805
+32,78188696,"Bayview Loan Servicing, LLC",08 MISC 373997,Servicemembers,Closed,20080227,20150211
+33,78193236,"Bayview Loan Servicing, LLC",07 MISC 358608,Servicemembers,Closed,20070920,20080130
+34,78214087,"Bayview Loan Servicing, LLC",07 MISC 358658,Servicemembers,Closed,20070921,20150211
+35,78217264,"Bayview Loan Servicing, LLC",07 MISC 358675,Servicemembers,Closed,20070921,20080205
+36,78245554,"Bayview Loan Servicing, LLC",07 MISC 358662,Servicemembers,Closed,20070921,20080205
+37,78284327,"Bayview Loan Servicing, LLC",08 MISC 374011,Servicemembers,Closed,20080227,20080805
+38,78313120,"Bayview Loan Servicing, LLC",07 MISC 359194,Servicemembers,Closed,20070926,20150211
+39,78331016,"Bayview Loan Servicing, LLC",10 MISC 440738,Servicemembers,Closed,20100927,20110408
+40,78332197,"Bayview Loan Servicing, LLC",07 MISC 343438,Servicemembers,Closed,20070319,20070522
+41,78339285,"Bayview Loan Servicing, LLC",10 MISC 429835,Servicemembers,Closed,20100517,20101005
+42,78343031,"Bayview Loan Servicing, LLC",08 MISC 374462,Servicemembers,Closed,20080303,20080812
+43,78344618,"Bayview Loan Servicing, LLC",10 MISC 440476,Servicemembers,Closed,20100923,20161118
+44,78372758,"Bayview Loan Servicing, LLC",10 MISC 440735,Servicemembers,Closed,20100927,20161118
+45,78399277,"Bayview Loan Servicing, LLC",09 MISC 404179,Servicemembers,Closed,20090622,20150211
+46,78405042,"Bayview Loan Servicing, LLC",09 MISC 416700,Servicemembers,Closed,20091118,20150211
+47,78409595,"Bayview Loan Servicing, LLC",09 MISC 404172,Servicemembers,Closed,20090622,20091124
+48,78410572,"Bayview Loan Servicing, LLC",09 MISC 416704,Servicemembers,Closed,20091118,20100323
+49,78416065,"Bayview Loan Servicing, LLC",09 MISC 416698,Servicemembers,Closed,20091118,20100323
+0,78417979,"Bayview Loan Servicing, LLC",09 MISC 416702,Servicemembers,Closed,20091118,20100323
+1,78426365,"Bayview Loan Servicing, LLC",09 MISC 416703,Servicemembers,Closed,20091118,20100323
+2,78435220,"Bayview Loan Servicing, LLC",09 MISC 404394,Servicemembers,Closed,20090624,20091130
+3,78911341,"Bayview Loan Servicing, LLC",1732SU000086,Summary Process,Disposed (Statistical Purposes),20170602,20170626
+4,78914617,"Bayview Loan Servicing, LLC",1732SU000087,Summary Process,Disposed (Statistical Purposes),20170602,20170626
+5,79027739,"Bayview Loan Servicing, LLC",1715SU000057,Summary Process,Disposed (Statistical Purposes),20170313,20170324
+6,79036115,"Bayview Loan Servicing, LLC",1715SU000056,Summary Process,Disposed (Statistical Purposes),20170313,20170324
+7,79077438,"Bayview Loan Servicing, LLC",1732SU000088,Summary Process,Disposed (Statistical Purposes),20170609,20170626
+8,79570089,"Bayview Loan Servicing, LLC",1713SU000114,Summary Process,Disposed (Statistical Purposes),20170424,20170505
+9,81371049,"Bayview Loan Servicing, LLC",17 SM 006831,Servicemembers,Closed,20170817,20180213
+10,81406435,"Bayview Loan Servicing, LLC",17 SM 006830,Servicemembers,Closed,20170817,20180122
+11,81521454,"Bayview Loan Servicing, LLC",17 SM 006946,Servicemembers,Closed,20170821,20180214
+12,81533337,"Bayview Loan Servicing, LLC",17 SM 009086,Servicemembers,Closed,20171120,20180405
+13,81733711,"Bayview Loan Servicing, LLC",17 SM 007930,Servicemembers,Closed,20170928,20180316
+14,81752066,"Bayview Loan Servicing, LLC",17 SM 008996,Servicemembers,Closed,20171114,20190130
+15,81754212,"Bayview Loan Servicing, LLC",17 SM 008292,Servicemembers,Closed,20171013,20180612
+16,81866527,"Bayview Loan Servicing, LLC",17 SM 009519,Servicemembers,Closed,20171208,20180411
+17,81894707,"Bayview Loan Servicing, LLC",17 SM 007445,Servicemembers,Closed,20170911,20180207
+18,81895536,"Bayview Loan Servicing, LLC",17 SM 002822,Servicemembers,Closed,20170330,20171012
+19,81910358,"Bayview Loan Servicing, LLC",17 SM 009569,Servicemembers,Closed,20171211,20180523
+20,82057441,"Bayview Loan Servicing, LLC",17 SM 009639,Servicemembers,Closed,20171213,20180425
+21,82211357,"Bayview Loan Servicing, LLC",17 SM 003801,Servicemembers,Closed,20170426,20171025
+22,82218485,"Bayview Loan Servicing, LLC",17 SM 008937,Servicemembers,Closed,20171110,20180322
+23,82260760,"Bayview Loan Servicing, LLC",17 SM 002260,Servicemembers,Closed,20170317,20170929
+24,82395703,"Bayview Loan Servicing, LLC",18 SM 000558,Servicemembers,Closed,20180129,20180522
+25,82415727,"Bayview Loan Servicing, LLC",18 SM 000594,Servicemembers,Closed,20180129,20180612
+26,82535021,"Bayview Loan Servicing, LLC",18 SM 000669,Servicemembers,Closed,20180201,20180831
+27,82543871,"Bayview Loan Servicing, LLC",18 SM 000682,Servicemembers,Closed,20180201,20180412
+28,82650375,"Bayview Loan Servicing, LLC",17 SM 008379,Servicemembers,Closed,20171018,20180413
+29,82655830,"Bayview Loan Servicing, LLC",17 SM 003649,Servicemembers,Closed,20170421,20171121
+30,82656348,"Bayview Loan Servicing, LLC",17 SM 009930,Servicemembers,Closed,20171226,20180420
+31,82663323,"Bayview Loan Servicing, LLC",17 SM 003836,Servicemembers,Closed,20170427,20171020
+32,82665498,"Bayview Loan Servicing, LLC",17 SM 004103,Servicemembers,Closed,20170504,20180403
+33,82669490,"Bayview Loan Servicing, LLC",17 SM 008342,Servicemembers,Closed,20171017,20180824
+34,82711420,"Bayview Loan Servicing, LLC",17 SM 004372,Servicemembers,Open,20170512,20170512
+35,82726303,"Bayview Loan Servicing, LLC",18 SM 000773,Servicemembers,Closed,20180205,20180522
+36,82753786,"Bayview Loan Servicing, LLC",17 SM 009939,Servicemembers,Closed,20171226,20180521
+37,82768571,"Bayview Loan Servicing, LLC",17 SM 009937,Servicemembers,Closed,20171226,20180423
+38,82969696,"Bayview Loan Servicing, LLC",1772CV00553,Equitable Remedies,Open,20171116,20171116
+39,83030025,"Bayview Loan Servicing, LLC",16 SM 011696,Servicemembers,Closed,20161208,20170626
+40,83048310,"Bayview Loan Servicing, LLC",16 SM 011711,Servicemembers,Closed,20161209,20190731
+41,83129489,"Bayview Loan Servicing, LLC",19 SM 002767,Servicemembers,Closed,20190605,20190725
+42,83142186,"Bayview Loan Servicing, LLC",18 SM 000427,Servicemembers,Closed,20180123,20180503
+43,83173231,"Bayview Loan Servicing, LLC",17 SM 001062,Servicemembers,Closed,20170206,20171228
+44,83212181,"Bayview Loan Servicing, LLC",17 SM 001301,Servicemembers,Closed,20170215,20171113
+45,83212259,"Bayview Loan Servicing, LLC",17 SM 001290,Servicemembers,Closed,20170215,20181030
+46,83484480,"Bayview Loan Servicing, LLC",1979CV00852,Equitable Remedies,Open,20191104,20191104
+47,83548855,"Bayview Loan Servicing, LLC",17 SM 005517,Servicemembers,Closed,20170621,20180307
+48,83592759,"Bayview Loan Servicing, LLC",17 SM 005601,Servicemembers,Closed,20170623,20180501
+49,83663856,"Bayview Loan Servicing, LLC",17 SM 005089,Servicemembers,Closed,20170606,20180214
+0,83747689,"Bayview Loan Servicing, LLC",17 SM 005133,Servicemembers,Closed,20170607,20180402
+1,83762082,"Bayview Loan Servicing, LLC",17 SM 000769,Servicemembers,Closed,20170127,20170908
+2,83773761,"Bayview Loan Servicing, LLC",17 SM 000774,Servicemembers,Closed,20170127,20180412
+3,83785727,"Bayview Loan Servicing, LLC",19 SM 002538,Servicemembers,Closed,20190520,20190711
+4,83830391,"Bayview Loan Servicing, LLC",17 SM 000951,Servicemembers,Closed,20170201,20170906
+5,83886927,"Bayview Loan Servicing, LLC",2081CV02115,Real Property,Open,20200831,20200831
+6,83897345,"Bayview Loan Servicing, LLC",19 SM 004096,Servicemembers,Closed,20190910,20191029
+7,83909595,"Bayview Loan Servicing, LLC",19 SM 004131,Servicemembers,Closed,20190911,20191119
+8,83914096,"Bayview Loan Servicing, LLC",19 SM 004100,Servicemembers,Closed,20190911,20191223
+9,83924538,"Bayview Loan Servicing, LLC",19 SM 004164,Servicemembers,Closed,20190913,20200908
+10,83924636,"Bayview Loan Servicing, LLC",20 SM 000117,Servicemembers,Closed,20200109,20200303
+11,83933021,"Bayview Loan Servicing, LLC",19 SM 004381,Servicemembers,Closed,20190920,20191210
+12,83949921,"Bayview Loan Servicing, LLC",19 SM 004387,Servicemembers,Closed,20190923,20200107
+13,83957457,"Bayview Loan Servicing, LLC",19 SM 004220,Servicemembers,Closed,20190917,20190925
+14,83985398,"Bayview Loan Servicing, LLC",19 SM 004457,Servicemembers,Closed,20190926,20191113
+15,83994721,"Bayview Loan Servicing, LLC",19 SM 004502,Servicemembers,Closed,20190927,20191119
+16,84004406,"Bayview Loan Servicing, LLC",19 SM 004678,Servicemembers,Closed,20191007,20191010
+17,84008693,"Bayview Loan Servicing, LLC",19 SM 004699,Servicemembers,Closed,20191008,20191101
+18,84018234,"Bayview Loan Servicing, LLC",19 SM 004846,Servicemembers,Closed,20191015,20191203
+19,84027907,"Bayview Loan Servicing, LLC",19 SM 004845,Servicemembers,Closed,20191015,20191203
+20,84068633,"Bayview Loan Servicing, LLC",19 SM 004990,Servicemembers,Closed,20191021,20191217
+21,84080770,"Bayview Loan Servicing, LLC",19 SM 005007,Servicemembers,Closed,20191022,20200828
+22,84129445,"Bayview Loan Servicing, LLC",19 SM 005210,Servicemembers,Closed,20191030,20200115
+23,84131932,"Bayview Loan Servicing, LLC",19 SM 005442,Servicemembers,Closed,20191111,20200103
+24,84132827,"Bayview Loan Servicing, LLC",19 SM 005445,Servicemembers,Closed,20191111,20200103
+25,84183954,"Bayview Loan Servicing, LLC",17 SM 005398,Servicemembers,Closed,20170615,20180207
+26,84359416,"Bayview Loan Servicing, LLC",17 SM 006068,Servicemembers,Closed,20170714,20180112
+27,84360500,"Bayview Loan Servicing, LLC",17 SM 006029,Servicemembers,Closed,20170713,20180205
+28,84375762,"Bayview Loan Servicing, LLC",17 SM 006006,Servicemembers,Closed,20170713,20180502
+29,84442273,"Bayview Loan Servicing, LLC",16 SM 011396,Servicemembers,Closed,20161130,20170619
+30,85488302,"Bayview Loan Servicing, LLC",1781CV01623,Equitable Remedies,Open,20170530,20170530
+31,85589033,"Bayview Loan Servicing, LLC",1985CV01096,Contract / Business Cases,Open,20190731,20190731
+32,86670938,"Bayview Loan Servicing, LLC",18 SM 007805,Servicemembers,Closed,20181213,20181231
+33,86711423,"Bayview Loan Servicing, LLC",18 SM 007657,Servicemembers,Closed,20181207,20190315
+34,86731869,"Bayview Loan Servicing, LLC",18 SM 007813,Servicemembers,Closed,20181213,20190514
+35,86880132,"Bayview Loan Servicing, LLC",18 SM 007984,Servicemembers,Open,20181221,20181221
+36,86906153,"Bayview Loan Servicing, LLC",18 SM 007525,Servicemembers,Closed,20181203,20190320
+37,86913566,"Bayview Loan Servicing, LLC",18 SM 007532,Servicemembers,Open,20181203,20181203
+38,86970796,"Bayview Loan Servicing, LLC",19 SM 000277,Servicemembers,Closed,20190116,20190507
+39,87003085,"Bayview Loan Servicing, LLC",19 SM 000299,Servicemembers,Open,20190117,20190117
+40,87063148,"Bayview Loan Servicing, LLC",18 SM 003319,Servicemembers,Closed,20180516,20180828
+41,87095723,"Bayview Loan Servicing, LLC",19 SM 000560,Servicemembers,Closed,20190128,20190523
+42,87130373,"Bayview Loan Servicing, LLC",19 SM 000699,Servicemembers,Closed,20190201,20190521
+43,87138247,"Bayview Loan Servicing, LLC",19 SM 000680,Servicemembers,Closed,20190131,20190501
+44,87141644,"Bayview Loan Servicing, LLC",18 SM 002234,Servicemembers,Closed,20180404,20180510
+45,87161412,"Bayview Loan Servicing, LLC",19 SM 000709,Servicemembers,Closed,20190204,20190409
+46,87162134,"Bayview Loan Servicing, LLC",18 SM 002702,Servicemembers,Closed,20180424,20180503
+47,87164574,"Bayview Loan Servicing, LLC",19 SM 000728,Servicemembers,Closed,20190204,20190605
+48,87164821,"Bayview Loan Servicing, LLC",18 SM 002716,Servicemembers,Closed,20180424,20180821
+49,87164946,"Bayview Loan Servicing, LLC",18 SM 002769,Servicemembers,Closed,20180425,20180713
+0,87166438,"Bayview Loan Servicing, LLC",18 SM 002760,Servicemembers,Closed,20180425,20180718
+1,87174854,"Bayview Loan Servicing, LLC",18 SM 002431,Servicemembers,Closed,20180412,20181217
+2,87193495,"Bayview Loan Servicing, LLC",18 SM 002526,Servicemembers,Closed,20180417,20181116
+3,87193816,"Bayview Loan Servicing, LLC",18 SM 003243,Servicemembers,Closed,20180514,20180828
+4,87261913,"Bayview Loan Servicing, LLC",19 SM 002381,Servicemembers,Closed,20190509,20190625
+5,87635678,"Bayview Loan Servicing, LLC",18 SM 004942,Servicemembers,Closed,20180726,20181217
+6,87651628,"Bayview Loan Servicing, LLC",18 SM 005005,Servicemembers,Closed,20180727,20190221
+7,87670649,"Bayview Loan Servicing, LLC",18 SM 001484,Servicemembers,Closed,20180306,20180424
+8,87674282,"Bayview Loan Servicing, LLC",18 SM 001454,Servicemembers,Closed,20180306,20180613
+9,87677377,"Bayview Loan Servicing, LLC",18 SM 005102,Servicemembers,Closed,20180802,20181023
+10,87690727,"Bayview Loan Servicing, LLC",18 SM 001573,Servicemembers,Closed,20180309,20180626
+11,87726538,"Bayview Loan Servicing, LLC",18 SM 005262,Servicemembers,Closed,20180810,20181120
+12,87746057,"Bayview Loan Servicing, LLC",18 SM 001746,Servicemembers,Closed,20180319,20180620
+13,87748740,"Bayview Loan Servicing, LLC",18 SM 001748,Servicemembers,Closed,20180319,20180620
+14,87750607,"Bayview Loan Servicing, LLC",18 SM 001814,Servicemembers,Closed,20180320,20180620
+15,87754750,"Bayview Loan Servicing, LLC",18 SM 001865,Servicemembers,Closed,20180321,20180702
+16,87896581,"Bayview Loan Servicing, LLC",17 SM 008817,Servicemembers,Closed,20171107,20180322
+17,87916942,"Bayview Loan Servicing, LLC",18 SM 000887,Servicemembers,Closed,20180209,20180522
+18,87966334,"Bayview Loan Servicing, LLC",18 SM 000979,Servicemembers,Closed,20180213,20180924
+19,88453307,"Bayview Loan Servicing, LLC",17 SM 007667,Servicemembers,Closed,20170919,20180628
+20,88528996,"Bayview Loan Servicing, LLC",1981CV01922,Real Property,Open,20190705,20190705
+21,88780495,"Bayview Loan Servicing, LLC",17 SM 006209,Servicemembers,Closed,20170720,20180201
+22,88829670,"Bayview Loan Servicing, LLC",1832SU000111,Summary Process,Disposed (Statistical Purposes),20180615,20180629
+23,2015593,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",10 MISC 444191,Servicemembers,Closed,20101231,20111103
+24,2017115,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",10 MISC 444192,Servicemembers,Closed,20101231,20110524
+25,4941476,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",14 MISC 486585,Servicemembers,Closed,20140922,20150105
+26,12625072,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",11 MISC 455553,Servicemembers,Closed,20111104,20120229
+27,36023176,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",15 SM 010367,Servicemembers,Closed,20151123,20160209
+28,48137218,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",15 SM 011101,Servicemembers,Closed,20151214,20160216
+29,51559554,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",15 SM 008708,Servicemembers,Closed,20151007,20160511
+30,52293357,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 003006,Servicemembers,Closed,20160323,20160920
+31,52320810,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 003104,Servicemembers,Closed,20160325,20160919
+32,53024994,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",15 SM 010657,Servicemembers,Closed,20151202,20160210
+33,53025846,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",15 SM 010592,Servicemembers,Closed,20151202,20160920
+34,53057639,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",15 SM 010936,Servicemembers,Closed,20151209,20160504
+35,54378567,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",15 SM 006182,Servicemembers,Open,20150728,20150728
+36,55553936,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 000866,Servicemembers,Open,20160128,20160128
+37,55753094,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 000920,Servicemembers,Closed,20160129,20160524
+38,56229777,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 000966,Servicemembers,Closed,20160201,20160608
+39,56266390,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 003504,Servicemembers,Open,20160405,20160405
+40,57142201,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 001153,Servicemembers,Open,20160205,20160205
+41,59278940,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 002390,Servicemembers,Closed,20160304,20160818
+42,59489175,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 003706,Servicemembers,Closed,20160408,20161012
+43,60434390,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 001516,Servicemembers,Closed,20160217,20160610
+44,61185569,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",11 MISC 449535,Servicemembers,Closed,20110623,20111004
+45,61185569,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",11 MISC 449535,Servicemembers,Closed,20110623,20111004
+46,61275358,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",10 MISC 434990,Servicemembers,Closed,20100723,20101117
+47,61358458,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 001242,Servicemembers,Closed,20160209,20160608
+48,61361069,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 001241,Servicemembers,Open,20160209,20160209
+49,61412767,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",10 MISC 435076,Servicemembers,Closed,20100726,20101117
+0,61568719,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",10 MISC 435198,Servicemembers,Closed,20100727,20101109
+1,62763102,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",11 MISC 449052,Servicemembers,Closed,20110607,20120207
+2,63103319,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 002465,Servicemembers,Open,20160308,20160308
+3,63104984,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 002578,Servicemembers,Closed,20160310,20160830
+4,63405833,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 000802,Servicemembers,Closed,20160126,20160607
+5,65146438,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 010402,Servicemembers,Open,20161027,20161027
+6,65180250,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 009887,Servicemembers,Open,20161013,20161013
+7,66180978,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 008020,Servicemembers,Open,20160811,20160811
+8,66609324,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 007550,Servicemembers,Open,20160728,20160728
+9,66620372,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 006338,Servicemembers,Open,20160621,20160621
+10,66673295,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 007223,Servicemembers,Open,20160719,20160719
+11,70995018,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 005287,Servicemembers,Open,20160520,20160520
+12,71069573,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 005241,Servicemembers,Open,20160519,20160519
+13,71313644,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 005011,Servicemembers,Open,20160513,20160513
+14,71890303,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",16 SM 005634,Servicemembers,Open,20160601,20160601
+15,83062666,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",18 SM 000411,Servicemembers,Closed,20180122,20180516
+16,83186268,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",17 SM 001167,Servicemembers,Closed,20170208,20170921
+17,87677402,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company",18 MISC 000139,Miscellaneous,Closed,20180306,20180703
+18,60750676,Bayview Loan Servicing,10H85SP003096,Housing Court Summary Process,Closed,20100816,20100901
+19,61887865,"Bayview Loan Servicing, Inc.",12H79SP000526,Housing Court Summary Process,Closed,20120206,20130129
+20,62425201,"Bayview Loan Servicing, Inc.",09 MISC 412929,Servicemembers,Closed,20090929,20100421
+21,16341699,"Bayview Loan Servicing, LLC (Subst.Pltf)",13 MISC 478355,Servicemembers,Closed,20130626,20140121
+22,55329104,"Bayview Loan Servicing, LLC (Subst.Pltf)",13 MISC 479562,Servicemembers,Closed,20130917,20140318
+23,57262731,"Bayview Loan Servicing, LLC (Subst.Pltf)",15 SM 002869,Servicemembers,Open,20150408,20150408
+24,57551047,"Bayview Loan Servicing, LLC (Subst.Pltf)",15 SM 003463,Servicemembers,Closed,20150428,20160607
+25,58356729,"Bayview Loan Servicing, LLC (Subst.Pltf)",15 SM 004774,Servicemembers,Closed,20150610,20151229
+26,59363410,"Bayview Loan Servicing, LLC (Subst.Pltf)",15 SM 003328,Servicemembers,Closed,20150423,20160104
+27,59566731,"Bayview Loan Servicing, LLC (Subst.Pltf)",15 SM 004109,Servicemembers,Open,20150520,20150520
+28,60197113,"Bayview Loan Servicing, LLC (Subst.Pltf)",10 MISC 443759,Servicemembers,Closed,20101213,20120104
+29,60344625,"Bayview Loan Servicing, LLC (Subst.Pltf)",12 MISC 471650,Servicemembers,Closed,20120926,20130923
+30,61297556,"Bayview Loan Servicing, LLC (Subst.Pltf)",15 SM 001938,Servicemembers,Closed,20150318,20151216
+31,61368799,"Bayview Loan Servicing, LLC (Subst.Pltf)",15 SM 001946,Servicemembers,Closed,20150318,20160104
+32,61559651,"Bayview Loan Servicing, LLC (Subst.Pltf)",15 SM 003487,Servicemembers,Closed,20150429,20160104
+33,62530161,"Bayview Loan Servicing, LLC (Subst.Pltf)",12 MISC 474486,Servicemembers,Closed,20121206,20150414
+34,76249864,"Bayview Loan Servicing, LLC (Subst.Pltf)",15 SM 005073,Servicemembers,Closed,20150619,20160201
+35,83184499,"Bayview Loan Servicing, LLC (Subst.Pltf)",19 SM 002832,Servicemembers,Closed,20190611,20191115
+36,57570797,"Bayview Loan Servicing,LLC",15 SM 003867,Servicemembers,Open,20150512,20150512
+37,60660053,"Bayview Loan Servicing,LLC",13H79SP004343,Housing Court Summary Process,Closed,20131021,20131107
+38,61798032,"Bayview Loan Servicing,LLC",14 MISC 486159,Servicemembers,Closed,20140905,20161118
+39,87050868,"Bayview Loan Servicing,LLC",19 SM 000379,Servicemembers,Closed,20190122,20201203
+40,22910419,Bayview Loan Servicing Inc,0748SU000029,Summary Process,Disposed (Statistical Purposes),20070614,20070628
+41,22945364,Bayview Loan Servicing Inc,0748SU000030,Summary Process,Disposed (Statistical Purposes),20070614,20070927
+42,22940753,"Bayview Loan Servicing, Inc",0748SU000028,Summary Process,Disposed (Statistical Purposes),20070614,20070629
+43,33396858,"Bayview Loan Servicing L L C, A Delaware Limited",0726SU000142,Summary Process,Disposed (Statistical Purposes),20071001,20071012
+44,41302625,"Bayview Loan Servicing, LLC,",09 MISC 405479,Miscellaneous,Closed,20090710,20090826
+45,53331137,"Bayview Loan Servicing, LLC,",07 MISC 345708,Servicemembers,Closed,20070419,20150211
+46,60455305,"Bayview Loan Servicing, LLC,",07 MISC 347976,Servicemembers,Closed,20070522,20070807
+47,60513353,"Bayview Loan Servicing, LLC,",11 MISC 447713,Servicemembers,Closed,20110419,20111028
+48,61203385,"Bayview Loan Servicing, LLC,",10 MISC 434988,Servicemembers,Closed,20100723,20161118
+49,61286389,"Bayview Loan Servicing, LLC,",07 MISC 365704,Servicemembers,Closed,20071205,20150211
+0,76156018,"Bayview Loan Servicing, LLC,",06 MISC 328409,Servicemembers,Closed,20060821,20090917
+1,76182296,"Bayview Loan Servicing, LLC,",06 MISC 328416,Servicemembers,Closed,20060822,20070226
+2,83919618,"Bayview Loan Servicing, LLC,",20 SM 000118,Servicemembers,Closed,20200109,20200303
+3,44557766,"Bayview Loan Servicing LLC, a Delaware LLC",05 MISC 314115,Servicemembers,Closed,20051003,20060124
+4,53201102,"Bayview Loan Servicing LLC, a Delaware LLC",07 MISC 344722,Servicemembers,Closed,20070405,20150211
+5,45356688,"Bayview Loan Servicing, LLC, Etc",05 MISC 307287,Servicemembers,Closed,20050307,20071231
+6,49818730,"Bayview Loan Servicing, LLC a Delaware Limited etc",06 MISC 323223,Servicemembers,Closed,20060512,20090625
+7,50154100,"Bayview Loan Servicing, LLC a Delaware Limited etc",06 MISC 323631,Servicemembers,Closed,20060519,20090625
+8,51405534,"Bayview Loan Servicing, LLC a Delaware Limited etc",05 MISC 317127,Servicemembers,Closed,20051223,20081210
+9,55834503,"Bayview Loan Servicing, LLC a Delaware Limited etc",05 MISC 306107,Servicemembers,Closed,20050201,20071231
+10,55835301,"Bayview Loan Servicing, LLC a Delaware Limited etc",05 MISC 306088,Servicemembers,Closed,20050201,20071231
+11,56976379,"Bayview Loan Servicing, LLC a Delaware Limited etc",06 MISC 324815,Servicemembers,Closed,20060612,20090625
+12,57426477,"Bayview Loan Servicing, LLC a Delaware Limited etc",06 MISC 325124,Servicemembers,Closed,20060616,20060908
+13,59221144,"Bayview Loan Servicing, LLC a Delaware Limited etc",06 MISC 322057,Servicemembers,Closed,20060419,20090625
+14,59890360,"Bayview Loan Servicing, LLC a Delaware Limited etc",06 MISC 319984,Servicemembers,Closed,20060306,20090326
+15,60223719,"Bayview Loan Servicing, LLC a Delaware Limited etc",06 MISC 319627,Servicemembers,Closed,20060221,20060627
+16,60390724,"Bayview Loan Servicing, LLC a Delaware Limited etc",07 MISC 348301,Servicemembers,Closed,20070524,20070828
+17,60476371,"Bayview Loan Servicing, LLC a Delaware Limited etc",06 MISC 318995,Servicemembers,Closed,20060213,20060503
+18,61286700,"Bayview Loan Servicing, LLC a Delaware Limited etc",07 MISC 351204,Servicemembers,Closed,20070703,20071005
+19,61424655,"Bayview Loan Servicing, LLC a Delaware Limited etc",06 MISC 321583,Servicemembers,Closed,20060407,20060613
+20,61607389,"Bayview Loan Servicing, LLC a Delaware Limited etc",06 MISC 327061,Servicemembers,Closed,20060728,20061018
+21,76260084,"Bayview Loan Servicing, LLC a Delaware Limited etc",05 MISC 312823,Servicemembers,Closed,20050826,20051122
+22,49852497,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 330558,Servicemembers,Closed,20060926,20061227
+23,50693611,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 335012,Servicemembers,Closed,20061127,20070621
+24,56883618,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 325834,Servicemembers,Closed,20060705,20060928
+25,57590655,"Bayview Loan Servicing, LLC, a Delaware etc.",05 MISC 315357,Servicemembers,Closed,20051104,20060925
+26,57823007,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 327158,Servicemembers,Closed,20060731,20061026
+27,57873744,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 327155,Servicemembers,Closed,20060731,20090917
+28,59979417,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 320302,Servicemembers,Closed,20060313,20090326
+29,59979487,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 320301,Servicemembers,Closed,20060313,20060531
+30,60613780,"Bayview Loan Servicing, LLC, a Delaware etc.",07 MISC 348540,Servicemembers,Closed,20070530,20071129
+31,60754061,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 320498,Servicemembers,Closed,20060314,20061205
+32,61010553,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 324354,Servicemembers,Closed,20060418,20060801
+33,61203749,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 324661,Servicemembers,Closed,20060608,20090625
+34,61212594,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 335534,Servicemembers,Closed,20061201,20070515
+35,61692177,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 329637,Servicemembers,Closed,20060913,20061205
+36,62112665,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 317944,Servicemembers,Closed,20060117,20060517
+37,62305676,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 330637,Servicemembers,Closed,20060927,20070313
+38,62315247,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 331421,Servicemembers,Closed,20061006,20070110
+39,63011905,"Bayview Loan Servicing, LLC, a Delaware etc.",06 MISC 317530,Servicemembers,Closed,20060106,20090326
+40,49945522,"Bayview Loan Servicing, Llc, A Delaware etc",05 MISC 305165,Servicemembers,Closed,20050106,20050315
+41,49945782,"Bayview Loan Servicing, Llc, A Delaware etc",05 MISC 305153,Servicemembers,Closed,20050106,20050106
+42,49948436,"Bayview Loan Servicing, Llc, A Delaware etc",05 MISC 305164,Servicemembers,Closed,20050106,20050315
+43,49948648,"Bayview Loan Servicing, Llc, A Delaware etc",05 MISC 305193,Servicemembers,Closed,20050106,20050315
+44,59659283,"Bayview Loan Servicing, Llc, A Delaware etc",06 MISC 317623,Servicemembers,Closed,20060110,20090326
+45,59663075,"Bayview Loan Servicing, Llc, A Delaware etc",06 MISC 327897,Servicemembers,Closed,20060814,20090917
+46,59676730,"Bayview Loan Servicing, Llc, A Delaware etc",06 MISC 327896,Servicemembers,Closed,20060814,20090917
+47,60383746,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 347971,Servicemembers,Closed,20070522,20150211
+48,60384282,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 348294,Servicemembers,Closed,20070524,20070807
+49,60984800,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 349412,Servicemembers,Closed,20070611,20070920
+0,61030089,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 349417,Servicemembers,Closed,20070611,20070828
+1,61353136,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 349717,Servicemembers,Closed,20070613,20080715
+2,61353680,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 349716,Servicemembers,Closed,20070613,20090107
+3,61359082,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 349715,Servicemembers,Closed,20070613,20070924
+4,61702844,"Bayview Loan Servicing, Llc, A Delaware etc",06 MISC 326968,Servicemembers,Closed,20060726,20061018
+5,61913218,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 355378,Servicemembers,Closed,20070816,20071211
+6,61947425,"Bayview Loan Servicing, Llc, A Delaware etc",06 MISC 317853,Servicemembers,Closed,20060113,20060419
+7,62131052,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 341068,Servicemembers,Closed,20070214,20070425
+8,62410081,"Bayview Loan Servicing, Llc, A Delaware etc",08 MISC 372415,Servicemembers,Closed,20080208,20150211
+9,62477368,"Bayview Loan Servicing, Llc, A Delaware etc",09 MISC 399497,Servicemembers,Closed,20090428,20150211
+10,76887164,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 342327,Servicemembers,Closed,20070302,20070501
+11,78332539,"Bayview Loan Servicing, Llc, A Delaware etc",07 MISC 359007,Servicemembers,Closed,20070925,20150211
+12,50030388,"Bayview Loan Servicing, Llc A Delaware etc",05 MISC 305292,Servicemembers,Closed,20050110,20050907
+13,61097016,"Bayview Loan Servicing, Llc A Delaware etc",06 MISC 335327,Servicemembers,Closed,20061129,20150211
+14,61453579,"Bayview Loan Servicing, Llc A Delaware etc",06 MISC 336948,Servicemembers,Closed,20061220,20070501
+15,76082913,"Bayview Loan Servicing, Llc A Delaware etc",05 MISC 314004,Servicemembers,Closed,20050929,20081210
+16,50426309,"Bayview Loan Servicing, LLC,a Delaware etc",06 MISC 332537,Servicemembers,Closed,20061024,20150211
+17,52398789,"Bayview Loan Servicing, LLC,a Delaware etc",06 MISC 322761,Servicemembers,Closed,20060503,20060815
+18,50525310,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 333278,Servicemembers,Closed,20061102,20070411
+19,51164043,"Bayview Loan Servicing, LLC, a Delaware LLC",05 MISC 313632,Servicemembers,Closed,20050919,20081210
+20,52297142,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 328669,Servicemembers,Closed,20060825,20061121
+21,53188452,"Bayview Loan Servicing, LLC, a Delaware LLC",07 MISC 344579,Servicemembers,Closed,20070404,20150211
+22,53194658,"Bayview Loan Servicing, LLC, a Delaware LLC",07 MISC 344576,Servicemembers,Closed,20070404,20070612
+23,54212673,"Bayview Loan Servicing, LLC, a Delaware LLC",05 MISC 310252,Servicemembers,Closed,20050610,20071231
+24,55928615,"Bayview Loan Servicing, LLC, a Delaware LLC",07 MISC 344154,Servicemembers,Closed,20070327,20150211
+25,60279916,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 333725,Servicemembers,Closed,20061109,20150211
+26,60355439,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 333724,Servicemembers,Closed,20061109,20070411
+27,61145329,"Bayview Loan Servicing, LLC, a Delaware LLC",05 MISC 309901,Servicemembers,Closed,20050531,20071231
+28,61319565,"Bayview Loan Servicing, LLC, a Delaware LLC",09 MISC 394435,Servicemembers,Closed,20090219,20090901
+29,61325457,"Bayview Loan Servicing, LLC, a Delaware LLC",09 MISC 394424,Servicemembers,Closed,20090219,20150211
+30,61357091,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 332764,Servicemembers,Closed,20061026,20150211
+31,61597904,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 326896,Servicemembers,Closed,20060725,20061010
+32,61834957,"Bayview Loan Servicing, LLC, a Delaware LLC",10 MISC 426688,Servicemembers,Closed,20100406,20100824
+33,62233805,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 329448,Servicemembers,Closed,20060911,20090917
+34,62245341,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 329507,Servicemembers,Closed,20060911,20090917
+35,62409036,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 331423,Servicemembers,Closed,20061006,20061129
+36,62487191,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 330152,Servicemembers,Closed,20060920,20061219
+37,75995577,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 327981,Servicemembers,Closed,20060815,20061120
+38,76069573,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 328123,Servicemembers,Closed,20060817,20061107
+39,76119510,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 328213,Servicemembers,Closed,20060817,20061219
+40,76160554,"Bayview Loan Servicing, LLC, a Delaware LLC",05 MISC 314514,Servicemembers,Closed,20051014,20081210
+41,76161608,"Bayview Loan Servicing, LLC, a Delaware LLC",05 MISC 314521,Servicemembers,Closed,20051014,20081210
+42,77004114,"Bayview Loan Servicing, LLC, a Delaware LLC",07 MISC 344577,Servicemembers,Closed,20070404,20070612
+43,78139052,"Bayview Loan Servicing, LLC, a Delaware LLC",06 MISC 327993,Servicemembers,Closed,20060815,20071107
+44,50572113,"Bayview Loan Servicing, LLC etc.",06 MISC 334311,Servicemembers,Closed,20061115,20150211
+45,56243980,"Bayview Loan Servicing, LLC etc.",05 MISC 306959,Servicemembers,Closed,20050225,20071231
+46,51023527,"Bayview Loan Servicing, LLC as servicer for etc",05 MISC 313327,Servicemembers,Closed,20050912,20060125
+47,77020924,"Bayview Loan Servicing, LLC as servicer for etc",07 MISC 361316,Servicemembers,Closed,20071017,20080311
+48,51941902,"Bayview Loan Servicings, LLC",10 MISC 441342,Servicemembers,Open,20101007,20101007
+49,52343021,"Bayview Loan Servicing, LLC, a Delawared etc.",06 MISC 328850,Servicemembers,Closed,20060829,20061121
+0,52385202,"Bayview Loan Servicing, LLC aDelaware Limited etc",06 MISC 322729,Servicemembers,Closed,20060502,20060627
+1,52445432,"Bayview Loan Servicing, LLC, a Delaware, etc.",06 MISC 329094,Servicemembers,Closed,20060901,20061129
+2,57792751,"Bayview Loan Servicing, LLC, a Delaware, etc.",05 MISC 314614,Servicemembers,Closed,20051017,20081210
+3,61356562,"Bayview Loan Servicing, LLC, a Delaware, etc.",06 MISC 332776,Servicemembers,Closed,20061026,20150211
+4,53263779,"Bayview Loan Servicing, LLC, as Deleware Limited",07 MISC 345089,Servicemembers,Closed,20070410,20070821
+5,53315359,"Bayview Loan Servicing, LLC, a Delawate Limited Liability Company",15 SM 011719,Servicemembers,Closed,20151230,20160512
+6,53319370,"Bayview Loan Servicing, LLC, a Deleware Limited Liability Company",15 SM 011752,Servicemembers,Open,20151231,20151231
+7,55569335,"Bayview Loan Servicing, LLC, a Deleware Limited Liability Company",16 SM 000855,Servicemembers,Closed,20160128,20160601
+8,56506149,"Bayview Loan Servicing, LLC, a Deleware Limited Liability Company",11 MISC 454406,Servicemembers,Open,20111007,20111007
+9,58195001,"Bayview Loan Servicing, LLC, a Deleware Limited Liability Company",16 SM 000353,Servicemembers,Closed,20160112,20160517
+10,59225679,"Bayview Loan Servicing, LLC, a Deleware Limited Liability Company",16 SM 000358,Servicemembers,Closed,20160112,20160510
+11,62735871,"Bayview Loan Servicing, LLC, a Deleware Limited Liability Company",15 SM 000364,Servicemembers,Closed,20150121,20150622
+12,63269581,"Bayview Loan Servicing, LLC, a Deleware Limited Liability Company",11 MISC 451310,Servicemembers,Open,20110727,20110727
+13,76954984,"Bayview Loan Servicing, LLC, a Deleware Limited Liability Company",10 MISC 441841,Servicemembers,Closed,20101019,20110420
+14,53408649,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 346412,Servicemembers,Closed,20070430,20070703
+15,54998987,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 338336,Servicemembers,Closed,20070112,20150211
+16,57005118,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 348673,Servicemembers,Closed,20070601,20150211
+17,60355700,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 348270,Servicemembers,Closed,20070524,20070807
+18,60384743,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 348271,Servicemembers,Closed,20070524,20070905
+19,60871438,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 350787,Servicemembers,Closed,20070626,20070912
+20,60933966,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 350810,Servicemembers,Closed,20070626,20080326
+21,61024355,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 351056,Servicemembers,Closed,20070629,20080325
+22,61948275,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 339242,Servicemembers,Closed,20070123,20150211
+23,61966876,"Bayview Loan Servicing, LLC, a Delaware Limite etc",06 MISC 337201,Servicemembers,Closed,20061222,20070403
+24,62329186,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 368155,Servicemembers,Closed,20071231,20080417
+25,76885378,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 342320,Servicemembers,Closed,20070302,20070508
+26,77055088,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 345445,Servicemembers,Closed,20070417,20150211
+27,77055189,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 345443,Servicemembers,Closed,20070417,20150211
+28,78366225,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 343482,Servicemembers,Closed,20070319,20071010
+29,78369488,"Bayview Loan Servicing, LLC, a Delaware Limite etc",07 MISC 343483,Servicemembers,Closed,20070319,20150211
+30,53488889,"Bayview Loan Servicing, LLC, a Delaware Limited",07 MISC 346725,Servicemembers,Closed,20070504,20070724
+31,61030201,"Bayview Loan Servicing, LLC, a Delaware Limited",06 MISC 335295,Servicemembers,Closed,20061129,20150211
+32,61163266,"Bayview Loan Servicing, LLC, a Delaware Limited",06 MISC 321457,Servicemembers,Closed,20060405,20090625
+33,61608101,"Bayview Loan Servicing, LLC, a Delaware Limited",06 MISC 325992,Servicemembers,Closed,20060710,20090917
+34,61655162,"Bayview Loan Servicing, LLC, a Delaware Limited",06 MISC 326030,Servicemembers,Closed,20060711,20060928
+35,61739167,"Bayview Loan Servicing, LLC, a Delaware Limited",07 MISC 339545,Servicemembers,Closed,20070126,20150211
+36,61800786,"Bayview Loan Servicing, LLC, a Delaware Limited",07 MISC 339556,Servicemembers,Closed,20070126,20070410
+37,70540800,"Bayview Loan Servicing, LLC, a Delaware Limited",06 MISC 328367,Servicemembers,Closed,20060821,20090917
+38,76152024,"Bayview Loan Servicing, LLC, a Delaware Limited",06 MISC 328315,Servicemembers,Closed,20060821,20090917
+39,76839636,"Bayview Loan Servicing, LLC, a Delaware Limited",07 MISC 342012,Servicemembers,Closed,20070228,20150211
+40,76907859,"Bayview Loan Servicing, LLC, a Delaware Limited",07 MISC 343791,Servicemembers,Closed,20070322,20150211
+41,54003060,"Bayview Loan Servicing, LLC.a Delaware Limited",05 MISC 309752,Servicemembers,Closed,20050524,20071231
+42,54028516,"Bayview Loan Servicing, LLC, etc.",05 MISC 309871,Servicemembers,Closed,20050527,20071231
+43,56168508,"Bayview Loan Servicing, LLC, etc.",05 MISC 306599,Servicemembers,Closed,20050216,20051108
+44,56169109,"Bayview Loan Servicing, LLC, etc.",05 MISC 306600,Servicemembers,Closed,20050216,20051108
+45,56241281,"Bayview Loan Servicing, LLC, etc.",05 MISC 306962,Servicemembers,Closed,20050225,20050510
+46,56242073,"Bayview Loan Servicing, LLC, etc.",05 MISC 306961,Servicemembers,Closed,20050225,20071231
+47,56747678,"Bayview Loan Servicing, LLC, etc.",05 MISC 307410,Servicemembers,Closed,20050310,20071231
+48,57614884,"Bayview Loan Servicing, LLC, etc.",05 MISC 309680,Servicemembers,Closed,20050523,20071231
+49,57978130,"Bayview Loan Servicing, LLC, etc.",05 MISC 315718,Servicemembers,Closed,20051114,20060404
+0,59065712,"Bayview Loan Servicing, LLC, etc.",05 MISC 313077,Servicemembers,Closed,20050902,20081210
+1,59678571,"Bayview Loan Servicing, LLC, etc.",05 MISC 311009,Servicemembers,Closed,20050705,20081210
+2,59687792,"Bayview Loan Servicing, LLC, etc.",05 MISC 311041,Servicemembers,Closed,20050705,20060517
+3,60517880,"Bayview Loan Servicing, LLC, etc.",05 MISC 307454,Servicemembers,Closed,20050314,20071231
+4,60601027,"Bayview Loan Servicing, LLC, etc.",06 MISC 334431,Servicemembers,Closed,20061116,20070206
+5,60739334,"Bayview Loan Servicing, LLC, etc.",05 MISC 308320,Servicemembers,Closed,20050407,20071231
+6,61916844,"Bayview Loan Servicing, LLC, etc.",05 MISC 312103,Servicemembers,Closed,20050808,20081210
+7,63432269,"Bayview Loan Servicing, LLC, etc.",05 MISC 308678,Servicemembers,Closed,20050415,20050706
+8,63433237,"Bayview Loan Servicing, LLC, etc.",05 MISC 308647,Servicemembers,Closed,20050415,20050706
+9,63516023,"Bayview Loan Servicing, LLC, etc.",05 MISC 309057,Servicemembers,Closed,20050429,20071231
+10,63643000,"Bayview Loan Servicing, LLC, etc.",05 MISC 309366,Servicemembers,Closed,20050512,20050916
+11,76876810,"Bayview Loan Servicing, LLC, etc.",08 MISC 375145,Servicemembers,Closed,20080307,20150211
+12,54045461,"Bayview Loan Servicing, LLC FOR Wachovia Bank",05 MISC 309996,Servicemembers,Closed,20050602,20071231
+13,54047218,"Bayview Loan Servicing, LLC FOR Wachovia Bank",05 MISC 309995,Servicemembers,Closed,20050602,20071231
+14,54312896,"Bayview Loan Servicing, LLC ect.",05 MISC 310470,Servicemembers,Closed,20050616,20071231
+15,54563527,"Bayview Loans Servicing, LLC",15 SM 007020,Servicemembers,Closed,20150821,20160302
+16,55201659,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company (Subst.Pltf)",12 MISC 470259,Servicemembers,Open,20120830,20120830
+17,55253946,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company (Subst.Pltf)",12 MISC 471304,Servicemembers,Closed,20120920,20130910
+18,63409283,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Company (Subst.Pltf)",12 MISC 473574,Servicemembers,Closed,20121107,20130619
+19,55434922,"Bayview Loan Servicing, LLC a Delaware Limited Liability Company",12 MISC 471264,Servicemembers,Closed,20120919,20130326
+20,65007166,"Bayview Loan Servicing, LLC a Delaware Limited Liability Company",16 SM 010581,Servicemembers,Open,20161101,20161101
+21,66027196,"Bayview Loan Servicing, LLC a Delaware Limited Liability Company",16 SM 008960,Servicemembers,Open,20160915,20160915
+22,66124590,"Bayview Loan Servicing, LLC a Delaware Limited Liability Company",16 SM 008393,Servicemembers,Open,20160824,20160824
+23,81817780,"Bayview Loan Servicing, LLC a Delaware Limited Liability Company",17 SM 002863,Servicemembers,Closed,20170330,20171005
+24,55831351,"Bayview Loan Servicing, LLC a Delware Limited etc",05 MISC 306110,Servicemembers,Closed,20050201,20071231
+25,76262106,"Bayview Loan Servicing, LLC a Delware Limited etc",05 MISC 312815,Servicemembers,Closed,20050826,20081210
+26,56207812,"Bayview Loan Servicing, LLC etc",05 MISC 306251,Servicemembers,Closed,20050208,20050425
+27,60609017,"Bayview Loan Servicing, LLC etc",06 MISC 334490,Servicemembers,Closed,20061116,20070411
+28,60610231,"Bayview Loan Servicing, LLC etc",05 MISC 308228,Servicemembers,Closed,20050404,20051208
+29,60832705,"Bayview Loan Servicing, LLC etc",05 MISC 308399,Servicemembers,Closed,20050411,20050628
+30,60895852,"Bayview Loan Servicing, LLC etc",06 MISC 322655,Servicemembers,Closed,20060501,20090625
+31,60933497,"Bayview Loan Servicing, LLC etc",06 MISC 322666,Servicemembers,Closed,20060501,20060629
+32,61314345,"Bayview Loan Servicing, LLC etc",07 MISC 361613,Servicemembers,Closed,20071019,20080311
+33,62049997,"Bayview Loan Servicing, LLC etc",06 MISC 329896,Servicemembers,Closed,20060915,20090917
+34,76000088,"Bayview Loan Servicing, LLC etc",06 MISC 327950,Servicemembers,Closed,20060815,20090917
+35,78187987,"Bayview Loan Servicing, LLC etc",08 MISC 374038,Servicemembers,Closed,20080227,20080916
+36,57006937,"Bayview Loan Servicing,LLC, etc.",07 MISC 348677,Servicemembers,Closed,20070601,20080212
+37,57009781,"Bayview Loan Servicing,LLC etc.",07 MISC 348700,Servicemembers,Closed,20070601,20150211
+38,58091289,"Bayview Loan Servicing, LLC A Deleware Limited etc",05 MISC 314759,Servicemembers,Closed,20051019,20081210
+39,60501879,"Bayview Loan Servicing, LLC A Deleware Limited etc",06 MISC 318998,Servicemembers,Closed,20060213,20090326
+40,60536341,"Bayview Loan Servicing, LLC A Deleware Limited etc",06 MISC 319002,Servicemembers,Closed,20060213,20060418
+41,58099613,"Bayview Loan Servicing LLC, A Delaware Limited Liability Company",12 MISC 463658,Servicemembers,Closed,20120427,20130130
+42,58379691,"Bayview Loan Servicing, LLC a Deleware Limited Co.",05 MISC 312498,Servicemembers,Closed,20050816,20051116
+43,58992969,"Bayview Loan Servicing, LLC, A Deleware, etc.",05 MISC 312985,Servicemembers,Closed,20050831,20081210
+44,61354400,"Bayview Loan Servicing, LLC, A Deleware, etc.",06 MISC 332711,Servicemembers,Closed,20061026,20070124
+45,76940358,"Bayview Loan Servicing, LLC, A Deleware, etc.",06 MISC 332173,Servicemembers,Closed,20061019,20070420
+46,59252076,Bayview Loan Servicing LLC (Subst.Pltf),10 MISC 420716,Servicemembers,Open,20100120,20100120
+47,60325126,"Bayview Loan Servicing LLC, etc",05 MISC 307060,Servicemembers,Closed,20050228,20071231
+48,60432327,"Bayview Loan Servicing LLC, a Delaware Limited etc",06 MISC 333956,Servicemembers,Closed,20061110,20070410
+49,61758597,"Bayview Loan Servicing LLC, a Delaware Limited etc",05 MISC 311977,Servicemembers,Closed,20050803,20081210
+0,60539590,"Bayview Loan Servicing, LLC, as Trustee,",07 MISC 348186,Servicemembers,Closed,20070523,20150211
+1,60594249,"Bayview Loan Servicing,LLC, a Delaware Limited etc",07 MISC 348876,Servicemembers,Closed,20070605,20071002
+2,60715806,"Bayview Loan Servicing, LLC, a Delaware Limited et",06 MISC 322393,Servicemembers,Closed,20060426,20090625
+3,60762768,"Bayview Loan Servicing , LLC etc.",06 MISC 334498,Servicemembers,Closed,20061116,20150211
+4,60798355,"Bayview Loan Servicing, LLC. a Delaware etc.",06 MISC 334880,Servicemembers,Closed,20061122,20070228
+5,60932520,"Bayview Loan Servicing, LLC,a Delware Limited etc",06 MISC 336512,Servicemembers,Closed,20061214,20150211
+6,61067975,"Bayview Loan Servicing LLC, etc.",05 MISC 309797,Servicemembers,Closed,20050525,20050817
+7,61072625,"Bayview Loan Servicing, LLC, a Delaware Limitedetc",06 MISC 322369,Servicemembers,Closed,20060425,20090625
+8,61220219,"Bayview Loan Servicing, LLC, a Delaware LTD",05 MISC 308680,Servicemembers,Closed,20050419,20071231
+9,61251592,"Bayview Loan Servicing , LLC, a Delaware etc.",07 MISC 349547,Servicemembers,Closed,20070612,20071030
+10,61527897,"Bayview Loan Servicing, LLC A Delaware LLC",06 MISC 325760,Servicemembers,Closed,20060630,20061019
+11,62827559,"Bayview Loan Servicing, LLC A Delaware LLC",06 MISC 325441,Servicemembers,Closed,20060622,20060918
+12,61533494,"Bayview Loan Servicing, a Delaware Limited etc.",06 MISC 326246,Servicemembers,Closed,20060713,20060929
+13,61585104,"Bayview Loan Servicing, LLC, a Deleware Etc.",07 MISC 351430,Servicemembers,Closed,20070705,20080128
+14,63034423,"Bayview Loan Servicing, LLC, a Deleware Etc.",06 MISC 317593,Servicemembers,Closed,20060109,20090326
+15,63036682,"Bayview Loan Servicing, LLC, a Deleware Etc.",06 MISC 317595,Servicemembers,Closed,20060109,20060411
+16,61700545,"Bayview Loan Servicing, LLC, a Deleware Limited",05 MISC 315209,Servicemembers,Closed,20051031,20081210
+17,61861821,Bayview Loan Servicing. LLC,11H79SP000994,Housing Court Summary Process,Closed,20110314,20110314
+18,61956179,"Bayview Loan Servicing, LLC,A Delaware Limited etc",08 MISC 370791,Servicemembers,Closed,20080124,20150211
+19,61959161,"Bayview Loan Servicing, LLC a Deleware, etc.",05 MISC 313459,Servicemembers,Closed,20050914,20051128
+20,62237478,"Bayview Loan Servicing, LLC, a Delware Limited etc",07 MISC 341146,Servicemembers,Closed,20070215,20150211
+21,62427196,"Bayview Loan Servicing, LLC, a Delaware LLC etc.",06 MISC 331464,Servicemembers,Closed,20061010,20150211
+22,62450120,"Bayview Loan Servicing, LLC, a Delaware LLC, etc.",06 MISC 331493,Servicemembers,Closed,20061010,20070110
+23,62483107,"Bayview Loan Servicing LLC, A Delaware etc",06 MISC 330192,Servicemembers,Closed,20060920,20061219
+24,76936729,"Bayview Loan Servicing LLC, A Delaware etc",06 MISC 332276,Servicemembers,Closed,20061019,20070209
+25,62831383,"Bayview Loan Servicing, LLC a Delaware LLC,",06 MISC 325440,Servicemembers,Closed,20060622,20060921
+26,62993326,"Bayview Loan Servicing, LLC a Delaware, etc.",06 MISC 317449,Servicemembers,Closed,20060104,20090326
+27,65528897,"Bayview Loan Servicing, LLC, a Delaware Limited Liability Corporation",16 SM 009643,Servicemembers,Open,20161004,20161004
+28,65990904,"Bayview Loan Servicing , LLC",16H85SP002270,Housing Court Summary Process,Closed,20160620,20160629
+29,66769518,"Bayview Loan Servicing, LLC.",1585CV01262,Real Property,Closed,20150731,20160829
+30,76525579,"Bayview Loan Servicing, LLC.",1673CV00403,Equitable Remedies,Reopened,20160422,20161019
+31,66882227,Bayview Loan Servicing LLC as assignee of Silver Hill Financial,0979CV00736,Contract / Business Cases,Closed,20090731,20101220
+32,76072036,"Bayview Loan Servicing, LLC, a Delaware LLC,",06 MISC 328143,Servicemembers,Closed,20060817,20090917
+33,76128040,"Bayview Loan Servicing,LLC, a Delaware Limited, et",09 MISC 399865,Servicemembers,Closed,20090504,20100113
+34,76936609,"Bayview Loan Servicing, LLC a Deleware Limited,etc",06 MISC 332281,Servicemembers,Closed,20061019,20150211
+35,77063868,"Bayview Loan Servicing, a Delaware Limited",07 MISC 346066,Servicemembers,Closed,20070425,20070703
+36,77079009,"Bayview Loan Servicing, LLC a Delaware Limited",07 MISC 342952,Servicemembers,Closed,20070312,20070813
+37,77338955,"Bayview Loan Servicing, LLC as servicer for the Bank of New York Mellon",1788SU000021,Summary Process,Disposed (Statistical Purposes),20170919,20171003
+38,83686498,"Community Loan Servicing, LLC f/k/a Bayview Loan Servicing, LLC",2081CV01299,Equitable Remedies,Open,20200604,20200604
+39,87995463,"The Bank of New York Mellon fka The Bank of New as Trustee for the Certicateholders CWALT, Inc., Alternative Loan Trust 2005-11CB, Mortgage Pass- Through Certificates, Series 2005-11CB c/o Bayview Loan Servicing, LLC",1913SU000280,Summary Process,Disposed (Statistical Purposes),20190909,20190913

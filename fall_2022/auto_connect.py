@@ -47,6 +47,13 @@ def query_company_name(name):
 
 #with open("./data/debt_collector_query_result/wells_fargo.csv", "w") as f:
 
-query_company_name("Wells Fargo")
+with open("./data/debt_collector_list/debt_collector_list_cleaned.csv") as f:
+  n = 516
+  counter = 1
+  for company_name in f:
+    name = company_name.strip("\n")
+    query_company_name(name)
+    print(f"Finished querying ({counter}/{n}): {name}")
+    counter += 1
 
 #conn = engine.connect()

@@ -1,0 +1,598 @@
+,post_id,party_name,case_number,case_type,case_status,file_date,status_date
+0,1067539,Child & Family Services Inc.,1333SC003323,Small Claims,Disposed (Statistical Purposes),20131011,20140320
+1,1073837,Child & Family Services Inc.,1333SC003325,Small Claims,Disposed (Statistical Purposes),20131011,20140618
+2,1077075,Child & Family Services Inc.,1333SC003326,Small Claims,Disposed (Statistical Purposes),20131011,20131023
+3,1080247,Child & Family Services Inc.,1333SC003327,Small Claims,Disposed (Statistical Purposes),20131011,20131205
+4,1087121,Child & Family Services Inc.,1333SC003329,Small Claims,Disposed (Statistical Purposes),20131011,20131223
+5,1089427,Child & Family Services Inc.,1333SC003330,Small Claims,Disposed (Statistical Purposes),20131011,20131204
+6,1091375,Child & Family Services Inc.,1333SC003331,Small Claims,Disposed (Statistical Purposes),20131011,20131219
+7,1092892,Child & Family Services Inc.,1333SC003332,Small Claims,Disposed (Statistical Purposes),20131011,20131219
+8,1110457,Child & Family Services Inc.,1333SC003333,Small Claims,Disposed (Statistical Purposes),20131011,20131219
+9,1113145,Child & Family Services Inc.,1333SC003334,Small Claims,Disposed (Statistical Purposes),20131011,20131219
+10,1115122,Child & Family Services Inc.,1333SC003335,Small Claims,Disposed (Statistical Purposes),20131011,20131023
+11,1124131,Child & Family Services Inc.,1333SC003338,Small Claims,Disposed (Statistical Purposes),20131011,20131023
+12,3388950,Child & Family Services Inc.,1333SC003957,Small Claims,Disposed (Statistical Purposes),20131203,20140220
+13,3398132,Child & Family Services Inc.,1333SC003963,Small Claims,Closed,20131203,20140227
+14,3403385,Child & Family Services Inc.,1333SC003966,Small Claims,Closed,20131203,20140326
+15,3410454,Child & Family Services Inc.,1333SC003968,Small Claims,Disposed (Statistical Purposes),20131203,20140220
+16,3412566,Child & Family Services Inc.,1333SC003969,Small Claims,Disposed (Statistical Purposes),20131203,20140220
+17,3414877,Child & Family Services Inc.,1333SC003970,Small Claims,Disposed (Statistical Purposes),20131203,20140220
+18,28515119,Child & Family Services Inc.,1533SC003550,Small Claims,Disposed (Statistical Purposes),20151125,20160217
+19,28516208,Child & Family Services Inc.,1533SC003552,Small Claims,Disposed (Statistical Purposes),20151125,20160219
+20,30642012,Child & Family Services Inc.,1533SC001939,Small Claims,Disposed (Statistical Purposes),20150615,20150731
+21,30688465,Child & Family Services Inc.,1533SC001940,Small Claims,Disposed (Statistical Purposes),20150615,20150731
+22,30689487,Child & Family Services Inc.,1533SC001941,Small Claims,Disposed (Statistical Purposes),20150615,20150731
+23,30691591,Child & Family Services Inc.,1533SC001934,Small Claims,Closed,20150615,20150716
+24,30697119,Child & Family Services Inc.,1533SC001938,Small Claims,Disposed (Statistical Purposes),20150615,20150731
+25,30699924,Child & Family Services Inc.,1533SC001936,Small Claims,Disposed (Statistical Purposes),20150615,20150729
+26,30704268,Child & Family Services Inc.,1533SC001935,Small Claims,Disposed (Statistical Purposes),20150615,20150730
+27,31862150,Child & Family Services Inc.,1533SC000324,Small Claims,Disposed (Statistical Purposes),20150202,20150422
+28,31868261,Child & Family Services Inc.,1533SC000331,Small Claims,Disposed (Statistical Purposes),20150202,20150422
+29,31872775,Child & Family Services Inc.,1533SC000326,Small Claims,Disposed (Statistical Purposes),20150202,20150513
+30,31875359,Child & Family Services Inc.,1533SC000332,Small Claims,Disposed (Statistical Purposes),20150202,20150422
+31,31877754,Child & Family Services Inc.,1533SC000317,Small Claims,Disposed (Statistical Purposes),20150202,20150224
+32,31883717,Child & Family Services Inc.,1533SC000323,Small Claims,Disposed (Statistical Purposes),20150202,20150430
+33,31884975,Child & Family Services Inc.,1533SC000325,Small Claims,Disposed (Statistical Purposes),20150202,20150513
+34,31886454,Child & Family Services Inc.,1533SC000328,Small Claims,Disposed (Statistical Purposes),20150202,20150423
+35,31895867,Child & Family Services Inc.,1533SC000333,Small Claims,Disposed (Statistical Purposes),20150202,20150422
+36,31916369,Child & Family Services Inc.,1533SC000322,Small Claims,Closed,20150202,20150422
+37,31917558,Child & Family Services Inc.,1533SC000330,Small Claims,Closed,20150202,20150422
+38,31919720,Child & Family Services Inc.,1533SC000321,Small Claims,Disposed (Statistical Purposes),20150202,20150422
+39,31924647,Child & Family Services Inc.,1533SC000329,Small Claims,Disposed (Statistical Purposes),20150202,20150423
+40,31925335,Child & Family Services Inc.,1533SC000310,Small Claims,Disposed (Statistical Purposes),20150202,20150224
+41,31928059,Child & Family Services Inc.,1533SC000327,Small Claims,Disposed (Statistical Purposes),20150202,20150422
+42,32093259,Child & Family Services Inc.,1533SC002826,Small Claims,Closed,20150826,20151029
+43,32094381,Child & Family Services Inc.,1533SC002829,Small Claims,Disposed (Statistical Purposes),20150826,20151022
+44,32099739,Child & Family Services Inc.,1533SC002823,Small Claims,Disposed (Statistical Purposes),20150826,20151021
+45,32104546,Child & Family Services Inc.,1533SC002822,Small Claims,Closed,20150826,20150826
+46,32106139,Child & Family Services Inc.,1533SC002824,Small Claims,Disposed (Statistical Purposes),20150826,20151023
+47,32107831,Child & Family Services Inc.,1533SC002820,Small Claims,Disposed (Statistical Purposes),20150826,20151022
+48,32125035,Child & Family Services Inc.,1533SC002825,Small Claims,Disposed (Statistical Purposes),20150826,20151023
+49,32127591,Child & Family Services Inc.,1533SC002827,Small Claims,Closed,20150826,20150826
+0,32129638,Child & Family Services Inc.,1533SC002828,Small Claims,Disposed (Statistical Purposes),20150826,20151021
+1,32132398,Child & Family Services Inc.,1533SC002821,Small Claims,Disposed (Statistical Purposes),20150826,20151021
+2,33977511,Child & Family Services Inc.,1633SC000631,Small Claims,Pending,20160316,20160316
+3,33979563,Child & Family Services Inc.,1633SC000630,Small Claims,Pending,20160316,20160316
+4,33983691,Child & Family Services Inc.,1633SC000629,Small Claims,Pending,20160316,20160316
+5,33984463,Child & Family Services Inc.,1633SC000634,Small Claims,Pending,20160316,20160316
+6,33990420,Child & Family Services Inc.,1633SC000635,Small Claims,Pending,20160316,20160316
+7,33994773,Child & Family Services Inc.,1633SC000636,Small Claims,Pending,20160316,20160316
+8,33996300,Child & Family Services Inc.,1633SC000632,Small Claims,Pending,20160316,20160316
+9,33997227,Child & Family Services Inc.,1633SC000633,Small Claims,Disposed (Statistical Purposes),20160316,20160328
+10,33999244,Child & Family Services Inc.,1633SC000628,Small Claims,Pending,20160316,20160316
+11,34000124,Child & Family Services Inc.,1633SC000637,Small Claims,Pending,20160316,20160316
+12,34024254,Child & Family Services Inc.,1633SC000580,Small Claims,Pending,20160315,20160315
+13,34032746,Child & Family Services Inc.,1633SC000579,Small Claims,Pending,20160315,20160315
+14,50947018,Child & Family Services Inc.,1233SC001073,Small Claims,Disposed (Statistical Purposes),20120405,20120621
+15,50950269,Child & Family Services Inc.,1233SC001071,Small Claims,Disposed (Statistical Purposes),20120405,20120607
+16,50950443,Child & Family Services Inc.,1233SC001075,Small Claims,Disposed (Statistical Purposes),20120405,20120530
+17,50950693,Child & Family Services Inc.,1233SC001072,Small Claims,Disposed (Statistical Purposes),20120405,20120607
+18,50957148,Child & Family Services Inc.,1233SC001076,Small Claims,Disposed (Statistical Purposes),20120405,20120607
+19,50959251,Child & Family Services Inc.,1233SC001074,Small Claims,Disposed (Statistical Purposes),20120405,20120423
+20,52229002,Child & Family Services Inc.,1433SC002374,Small Claims,Disposed (Statistical Purposes),20140620,20140917
+21,52229895,Child & Family Services Inc.,1433SC002376,Small Claims,Disposed (Statistical Purposes),20140620,20140702
+22,52230584,Child & Family Services Inc.,1433SC002372,Small Claims,Disposed (Statistical Purposes),20140620,20140917
+23,52230914,Child & Family Services Inc.,1433SC002373,Small Claims,Disposed (Statistical Purposes),20140620,20140918
+24,52234632,Child & Family Services Inc.,1433SC002375,Small Claims,Disposed (Statistical Purposes),20140620,20140917
+25,54575001,Child & Family Services Inc.,1533SC000338,Small Claims,Disposed (Statistical Purposes),20150203,20150227
+26,54577414,Child & Family Services Inc.,1533SC000341,Small Claims,Disposed (Statistical Purposes),20150203,20150423
+27,54579487,Child & Family Services Inc.,1533SC000337,Small Claims,Disposed (Statistical Purposes),20150203,20150423
+28,54581213,Child & Family Services Inc.,1533SC000340,Small Claims,Disposed (Statistical Purposes),20150203,20150423
+29,54581665,Child & Family Services Inc.,1533SC000339,Small Claims,Disposed (Statistical Purposes),20150203,20150423
+30,54582352,Child & Family Services Inc.,1533SC000334,Small Claims,Disposed (Statistical Purposes),20150203,20150423
+31,54582867,Child & Family Services Inc.,1533SC000342,Small Claims,Disposed (Statistical Purposes),20150203,20150706
+32,54584218,Child & Family Services Inc.,1533SC000335,Small Claims,Disposed (Statistical Purposes),20150203,20150423
+33,54585747,Child & Family Services Inc.,1533SC000336,Small Claims,Disposed (Statistical Purposes),20150203,20150423
+34,54996916,Child & Family Services Inc.,1433SC000570,Small Claims,Disposed (Statistical Purposes),20140224,20140528
+35,54999687,Child & Family Services Inc.,1433SC000577,Small Claims,Disposed (Statistical Purposes),20140224,20140528
+36,55004627,Child & Family Services Inc.,1433SC000572,Small Claims,Disposed (Statistical Purposes),20140224,20140528
+37,55046499,Child & Family Services Inc.,1433SC000573,Small Claims,Disposed (Statistical Purposes),20140224,20140528
+38,55071035,Child & Family Services Inc.,1433SC000569,Small Claims,Disposed (Statistical Purposes),20140224,20140528
+39,55088411,Child & Family Services Inc.,1433SC000571,Small Claims,Disposed (Statistical Purposes),20140224,20140529
+40,55096844,Child & Family Services Inc.,1433SC000578,Small Claims,Disposed (Statistical Purposes),20140224,20140528
+41,55268696,Child & Family Services Inc.,1433SC000575,Small Claims,Disposed (Statistical Purposes),20140224,20140528
+42,55281561,Child & Family Services Inc.,1433SC000576,Small Claims,Disposed (Statistical Purposes),20140224,20140529
+43,55283078,Child & Family Services Inc.,1433SC000574,Small Claims,Disposed (Statistical Purposes),20140224,20140528
+44,56866407,Child & Family Services Inc.,1033SC001056,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+45,59427729,Child & Family Services Inc.,1033SC003652,Small Claims,Disposed (Statistical Purposes),20101223,20110201
+46,59430264,Child & Family Services Inc.,1033SC003656,Small Claims,Disposed (Statistical Purposes),20101223,20110302
+47,59925609,Child & Family Services Inc.,1233SC000568,Small Claims,Disposed (Statistical Purposes),20120221,20120309
+48,59926416,Child & Family Services Inc.,1233SC000570,Small Claims,Disposed (Statistical Purposes),20120221,20120402
+49,59926525,Child & Family Services Inc.,1233SC000578,Small Claims,Disposed (Statistical Purposes),20120221,20120326
+0,59927199,Child & Family Services Inc.,1233SC000576,Small Claims,Disposed (Statistical Purposes),20120221,20120402
+1,59927373,Child & Family Services Inc.,1233SC000580,Small Claims,Disposed (Statistical Purposes),20120221,20120402
+2,59928326,Child & Family Services Inc.,1233SC000569,Small Claims,Disposed (Statistical Purposes),20120221,20120402
+3,59928569,Child & Family Services Inc.,1233SC000581,Small Claims,Disposed (Statistical Purposes),20120221,20120402
+4,59928681,Child & Family Services Inc.,1233SC000577,Small Claims,Disposed (Statistical Purposes),20120221,20120405
+5,59929437,Child & Family Services Inc.,1233SC000579,Small Claims,Disposed (Statistical Purposes),20120221,20120326
+6,59931083,Child & Family Services Inc.,1233SC000575,Small Claims,Disposed (Statistical Purposes),20120221,20120402
+7,59933661,Child & Family Services Inc.,1233SC000654,Small Claims,Disposed (Statistical Purposes),20120222,20120420
+8,59933992,Child & Family Services Inc.,1233SC000587,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+9,59935486,Child & Family Services Inc.,1233SC000611,Small Claims,Disposed (Statistical Purposes),20120222,20120510
+10,59935817,Child & Family Services Inc.,1233SC000596,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+11,59936197,Child & Family Services Inc.,1233SC000650,Small Claims,Disposed (Statistical Purposes),20120222,20120420
+12,59936699,Child & Family Services Inc.,1233SC000651,Small Claims,Disposed (Statistical Purposes),20120222,20120420
+13,59936850,Child & Family Services Inc.,1233SC000603,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+14,59936986,Child & Family Services Inc.,1233SC000607,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+15,59937053,Child & Family Services Inc.,1233SC000602,Small Claims,Disposed (Statistical Purposes),20120222,20120328
+16,59937343,Child & Family Services Inc.,1233SC000599,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+17,59937406,Child & Family Services Inc.,1233SC000613,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+18,59937526,Child & Family Services Inc.,1233SC000645,Small Claims,Disposed (Statistical Purposes),20120222,20120420
+19,59937892,Child & Family Services Inc.,1233SC000592,Small Claims,Disposed (Statistical Purposes),20120222,20120510
+20,59937978,Child & Family Services Inc.,1233SC000591,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+21,59938247,Child & Family Services Inc.,1233SC000605,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+22,59938374,Child & Family Services Inc.,1233SC000597,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+23,59938678,Child & Family Services Inc.,1233SC000609,Small Claims,Disposed (Statistical Purposes),20120222,20120306
+24,59938962,Child & Family Services Inc.,1233SC000616,Small Claims,Disposed (Statistical Purposes),20120222,20120328
+25,59939082,Child & Family Services Inc.,1233SC000612,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+26,59939195,Child & Family Services Inc.,1233SC000589,Small Claims,Disposed (Statistical Purposes),20120222,20120405
+27,59939305,Child & Family Services Inc.,1233SC000610,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+28,59939400,Child & Family Services Inc.,1233SC000606,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+29,59939494,Child & Family Services Inc.,1233SC000648,Small Claims,Disposed (Statistical Purposes),20120222,20120420
+30,59939973,Child & Family Services Inc.,1233SC000598,Small Claims,Disposed (Statistical Purposes),20120222,20120307
+31,59940153,Child & Family Services Inc.,1233SC000594,Small Claims,Disposed (Statistical Purposes),20120222,20120312
+32,59940269,Child & Family Services Inc.,1233SC000590,Small Claims,Disposed (Statistical Purposes),20120222,20120328
+33,59940319,Child & Family Services Inc.,1233SC000600,Small Claims,Disposed (Statistical Purposes),20120222,20120306
+34,59940550,Child & Family Services Inc.,1233SC000649,Small Claims,Disposed (Statistical Purposes),20120222,20120402
+35,59940600,Child & Family Services Inc.,1233SC000647,Small Claims,Disposed (Statistical Purposes),20120222,20120426
+36,59940693,Child & Family Services Inc.,1233SC000614,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+37,59940767,Child & Family Services Inc.,1233SC000593,Small Claims,Disposed (Statistical Purposes),20120222,20120328
+38,59940870,Child & Family Services Inc.,1233SC000646,Small Claims,Disposed (Statistical Purposes),20120222,20120420
+39,59940945,Child & Family Services Inc.,1233SC000615,Small Claims,Disposed (Statistical Purposes),20120222,20120328
+40,59941132,Child & Family Services Inc.,1233SC000608,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+41,59941319,Child & Family Services Inc.,1233SC000595,Small Claims,Disposed (Statistical Purposes),20120222,20120328
+42,59941412,Child & Family Services Inc.,1233SC000601,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+43,59941855,Child & Family Services Inc.,1233SC000652,Small Claims,Disposed (Statistical Purposes),20120222,20120420
+44,59942064,Child & Family Services Inc.,1233SC000604,Small Claims,Disposed (Statistical Purposes),20120222,20120404
+45,59942157,Child & Family Services Inc.,1233SC000653,Small Claims,Disposed (Statistical Purposes),20120222,20120425
+46,67809263,Child & Family Services Inc.,1333SC001528,Small Claims,Disposed (Statistical Purposes),20130507,20130529
+47,67812091,Child & Family Services Inc.,1333SC001521,Small Claims,Disposed (Statistical Purposes),20130507,20130621
+48,67816064,Child & Family Services Inc.,1333SC001531,Small Claims,Disposed (Statistical Purposes),20130507,20130529
+49,67820796,Child & Family Services Inc.,1333SC001515,Small Claims,Disposed (Statistical Purposes),20130507,20130621
+0,67823808,Child & Family Services Inc.,1333SC001516,Small Claims,Disposed (Statistical Purposes),20130507,20130628
+1,67834249,Child & Family Services Inc.,1333SC001514,Small Claims,Disposed (Statistical Purposes),20130507,20130621
+2,68279930,Child & Family Services Inc.,1333SC000326,Small Claims,Disposed (Statistical Purposes),20130124,20130227
+3,68281283,Child & Family Services Inc.,1333SC000324,Small Claims,Disposed (Statistical Purposes),20130124,20130227
+4,68284686,Child & Family Services Inc.,1333SC000323,Small Claims,Disposed (Statistical Purposes),20130124,20130227
+5,68292658,Child & Family Services Inc.,1333SC000325,Small Claims,Disposed (Statistical Purposes),20130124,20130227
+6,68303633,Child & Family Services Inc.,1333SC000320,Small Claims,Disposed (Statistical Purposes),20130124,20130227
+7,68313680,Child & Family Services Inc.,1333SC000322,Small Claims,Disposed (Statistical Purposes),20130124,20130823
+8,68314687,Child & Family Services Inc.,1333SC000321,Small Claims,Disposed (Statistical Purposes),20130124,20130306
+9,68337805,Child & Family Services Inc.,1333SC000328,Small Claims,Disposed (Statistical Purposes),20130124,20130227
+10,68358026,Child & Family Services Inc.,1333SC000331,Small Claims,Disposed (Statistical Purposes),20130124,20130227
+11,68365574,Child & Family Services Inc.,1333SC000329,Small Claims,Disposed (Statistical Purposes),20130124,20130306
+12,68373638,Child & Family Services Inc.,1333SC000327,Small Claims,Disposed (Statistical Purposes),20130124,20130227
+13,68375734,Child & Family Services Inc.,1333SC000330,Small Claims,Disposed (Statistical Purposes),20130124,20130307
+14,77280012,Child & Family Services Inc.,1733SC000770,Small Claims,Disposed (Statistical Purposes),20170309,20170504
+15,77402870,Child & Family Services Inc.,1733SC001928,Small Claims,Disposed (Statistical Purposes),20170810,20170913
+16,77404131,Child & Family Services Inc.,1733SC001927,Small Claims,Disposed (Statistical Purposes),20170810,20170913
+17,79349486,Child & Family Services Inc.,1733SC002788,Small Claims,Disposed (Statistical Purposes),20171121,20180111
+18,79349938,Child & Family Services Inc.,1733SC002784,Small Claims,Disposed (Statistical Purposes),20171121,20180110
+19,79350897,Child & Family Services Inc.,1733SC002786,Small Claims,Disposed (Statistical Purposes),20171121,20180110
+20,82971730,Child & Family Services Inc.,2133SC002441,Small Claims,Open,20211015,20211015
+21,82976471,Child & Family Services Inc.,2133SC002439,Small Claims,Open,20211015,20211015
+22,82978756,Child & Family Services Inc.,2133SC002442,Small Claims,Open,20211015,20211015
+23,82981582,Child & Family Services Inc.,2133SC000753,Small Claims,Open,20210406,20210406
+24,82981610,Child & Family Services Inc.,2133SC002447,Small Claims,Open,20211015,20211015
+25,82981843,Child & Family Services Inc.,2133SC000774,Small Claims,Open,20210406,20210406
+26,82982350,Child & Family Services Inc.,2133SC000761,Small Claims,Open,20210406,20210406
+27,82982375,Child & Family Services Inc.,2133SC000749,Small Claims,Open,20210406,20210406
+28,82982827,Child & Family Services Inc.,2133SC000762,Small Claims,Open,20210406,20210406
+29,82983111,Child & Family Services Inc.,2133SC000764,Small Claims,Open,20210406,20210406
+30,82983236,Child & Family Services Inc.,2133SC000772,Small Claims,Open,20210406,20210406
+31,82983375,Child & Family Services Inc.,2133SC002440,Small Claims,Open,20211015,20211015
+32,82985511,Child & Family Services Inc.,2133SC000784,Small Claims,Open,20210406,20210406
+33,82986125,Child & Family Services Inc.,2133SC000747,Small Claims,Open,20210406,20210406
+34,82986382,Child & Family Services Inc.,2133SC000765,Small Claims,Open,20210406,20210406
+35,82987107,Child & Family Services Inc.,2133SC000763,Small Claims,Open,20210406,20210406
+36,82987259,Child & Family Services Inc.,2133SC000790,Small Claims,Open,20210406,20210406
+37,82987577,Child & Family Services Inc.,2133SC000792,Small Claims,Open,20210406,20210406
+38,82987826,Child & Family Services Inc.,2133SC000773,Small Claims,Open,20210406,20210406
+39,82988029,Child & Family Services Inc.,2133SC000775,Small Claims,Open,20210406,20210406
+40,82988250,Child & Family Services Inc.,2133SC000785,Small Claims,Open,20210406,20210406
+41,82988447,Child & Family Services Inc.,2133SC000771,Small Claims,Open,20210406,20210406
+42,82990816,Child & Family Services Inc.,2133SC000759,Small Claims,Open,20210406,20210406
+43,82991968,Child & Family Services Inc.,2133SC000756,Small Claims,Open,20210406,20210406
+44,82992162,Child & Family Services Inc.,2133SC000793,Small Claims,Open,20210406,20210406
+45,82992782,Child & Family Services Inc.,2133SC000789,Small Claims,Disposed (Statistical Purposes),20210406,20210624
+46,82992930,Child & Family Services Inc.,2133SC000760,Small Claims,Open,20210406,20210406
+47,82993269,Child & Family Services Inc.,2133SC000787,Small Claims,Open,20210406,20210406
+48,82993514,Child & Family Services Inc.,2133SC000782,Small Claims,Open,20210406,20210406
+49,82993823,Child & Family Services Inc.,2133SC000791,Small Claims,Open,20210406,20210406
+0,82994320,Child & Family Services Inc.,2133SC000767,Small Claims,Open,20210406,20210406
+1,82994685,Child & Family Services Inc.,2133SC000770,Small Claims,Open,20210406,20210406
+2,83000160,Child & Family Services Inc.,2133SC000788,Small Claims,Open,20210406,20210406
+3,83000540,Child & Family Services Inc.,2133SC000750,Small Claims,Open,20210406,20210406
+4,83001172,Child & Family Services Inc.,2133SC000769,Small Claims,Open,20210406,20210406
+5,83002765,Child & Family Services Inc.,2133SC000768,Small Claims,Open,20210406,20210406
+6,83002872,Child & Family Services Inc.,2133SC000779,Small Claims,Open,20210406,20210406
+7,83003035,Child & Family Services Inc.,2133SC000786,Small Claims,Open,20210406,20210406
+8,83003204,Child & Family Services Inc.,2133SC000758,Small Claims,Disposed (Statistical Purposes),20210406,20210512
+9,83004422,Child & Family Services Inc.,2133SC000748,Small Claims,Open,20210406,20210406
+10,83005145,Child & Family Services Inc.,2133SC000780,Small Claims,Open,20210406,20210406
+11,83005357,Child & Family Services Inc.,2133SC000746,Small Claims,Open,20210406,20210406
+12,83005576,Child & Family Services Inc.,2133SC000781,Small Claims,Open,20210406,20210406
+13,83005820,Child & Family Services Inc.,2133SC000766,Small Claims,Disposed (Statistical Purposes),20210406,20210428
+14,83006077,Child & Family Services Inc.,2133SC000752,Small Claims,Open,20210406,20210406
+15,83006802,Child & Family Services Inc.,2133SC000757,Small Claims,Open,20210406,20210406
+16,83007472,Child & Family Services Inc.,2133SC000783,Small Claims,Disposed (Statistical Purposes),20210406,20210429
+17,83011004,Child & Family Services Inc.,2133SC000800,Small Claims,Open,20210406,20210406
+18,83011516,Child & Family Services Inc.,2133SC000802,Small Claims,Disposed (Statistical Purposes),20210406,20210429
+19,83011764,Child & Family Services Inc.,2133SC000798,Small Claims,Open,20210406,20210406
+20,83012405,Child & Family Services Inc.,2133SC000808,Small Claims,Open,20210406,20210406
+21,83012775,Child & Family Services Inc.,2133SC000806,Small Claims,Open,20210406,20210406
+22,83013020,Child & Family Services Inc.,2133SC000795,Small Claims,Open,20210406,20210406
+23,83013079,Child & Family Services Inc.,2133SC000799,Small Claims,Open,20210406,20210406
+24,83013247,Child & Family Services Inc.,2133SC000796,Small Claims,Open,20210406,20210406
+25,83013505,Child & Family Services Inc.,2133SC000794,Small Claims,Open,20210406,20210406
+26,83013616,Child & Family Services Inc.,2133SC000801,Small Claims,Open,20210406,20210406
+27,83013750,Child & Family Services Inc.,2133SC000797,Small Claims,Open,20210406,20210406
+28,83015128,Child & Family Services Inc.,2133SC000804,Small Claims,Open,20210406,20210406
+29,83016340,Child & Family Services Inc.,2133SC000805,Small Claims,Open,20210406,20210406
+30,83018458,Child & Family Services Inc.,2133SC000807,Small Claims,Open,20210406,20210406
+31,83018641,Child & Family Services Inc.,2133SC000803,Small Claims,Disposed (Statistical Purposes),20210406,20210514
+32,83185086,Child & Family Services Inc.,2133SC002713,Small Claims,Open,20211104,20211104
+33,83185939,Child & Family Services Inc.,2133SC002706,Small Claims,Open,20211104,20211104
+34,83186566,Child & Family Services Inc.,2133SC002711,Small Claims,Closed,20211104,20211222
+35,83186886,Child & Family Services Inc.,2133SC002707,Small Claims,Disposed (Statistical Purposes),20211104,20211130
+36,83187945,Child & Family Services Inc.,2133SC002712,Small Claims,Open,20211104,20211104
+37,83188062,Child & Family Services Inc.,2133SC002708,Small Claims,Open,20211104,20211104
+38,83188775,Child & Family Services Inc.,2133SC002716,Small Claims,Open,20211104,20211104
+39,83188898,Child & Family Services Inc.,2133SC002715,Small Claims,Open,20211104,20211104
+40,83189960,Child & Family Services Inc.,2133SC002709,Small Claims,Open,20211104,20211104
+41,83190192,Child & Family Services Inc.,2133SC002710,Small Claims,Open,20211104,20211104
+42,83190382,Child & Family Services Inc.,2133SC002714,Small Claims,Open,20211104,20211104
+43,86058557,Child & Family Services Inc.,1833SC000724,Small Claims,Disposed (Statistical Purposes),20180316,20180502
+44,86062300,Child & Family Services Inc.,1833SC000725,Small Claims,Disposed (Statistical Purposes),20180316,20180330
+45,1905446,"SDB Accounting & Tax Services, Inc.",1457SC000050,Small Claims,Disposed (Statistical Purposes),20140121,20140623
+46,3395923,"Child & Family Services, Inc.",1333SC003962,Small Claims,Disposed (Statistical Purposes),20131203,20140220
+47,26474661,"Child & Family Services, Inc.",0533SC002548,Small Claims,Disposed (Statistical Purposes),20050620,20050712
+48,32165132,"Child & Family Services, Inc.",0633CV000533,Civil,Disposed (Statistical Purposes),20060414,20070307
+49,34980033,"Child & Family Services, Inc.",0533SC004176,Small Claims,Disposed (Statistical Purposes),20051014,20060125
+0,35595626,"Child & Family Services, Inc.",0633CV001771,Civil,Disposed (Statistical Purposes),20061219,20070424
+1,36686959,"Child & Family Services, Inc.",0833SC004581,Small Claims,Disposed (Statistical Purposes),20081031,20090114
+2,36689421,"Child & Family Services, Inc.",0833SC004585,Small Claims,Disposed (Statistical Purposes),20081031,20090114
+3,36695644,"Child & Family Services, Inc.",0833SC004586,Small Claims,Disposed (Statistical Purposes),20081031,20081112
+4,36697986,"Child & Family Services, Inc.",0833SC004582,Small Claims,Disposed (Statistical Purposes),20081031,20090114
+5,36702860,"Child & Family Services, Inc.",0833SC004583,Small Claims,Disposed (Statistical Purposes),20081031,20090114
+6,36706522,"Child & Family Services, Inc.",0833SC004584,Small Claims,Disposed (Statistical Purposes),20081031,20081128
+7,45651453,"Child & Family Services, Inc.",0533SC004174,Small Claims,Disposed (Statistical Purposes),20051014,20051128
+8,51336239,"Child & Family Services, Inc.",0833SC001294,Small Claims,Disposed (Statistical Purposes),20080319,20080428
+9,52174763,"Child & Family Services, Inc.",0633SC001668,Small Claims,Disposed (Statistical Purposes),20060425,20060731
+10,54071572,"Child & Family Services, Inc.",0833SC002268,Small Claims,Disposed (Statistical Purposes),20080529,20080711
+11,54072074,"Child & Family Services, Inc.",0833SC002272,Small Claims,Disposed (Statistical Purposes),20080529,20080610
+12,54073099,"Child & Family Services, Inc.",0833SC002277,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+13,54073835,"Child & Family Services, Inc.",0833SC002285,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+14,54074228,"Child & Family Services, Inc.",0833SC002283,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+15,54075140,"Child & Family Services, Inc.",0833SC002271,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+16,54075360,"Child & Family Services, Inc.",0833SC002284,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+17,54075629,"Child & Family Services, Inc.",0833SC002273,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+18,54076977,"Child & Family Services, Inc.",0833SC002269,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+19,54077493,"Child & Family Services, Inc.",0833SC002275,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+20,54078532,"Child & Family Services, Inc.",0833SC002286,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+21,54078700,"Child & Family Services, Inc.",0833SC002270,Small Claims,Disposed (Statistical Purposes),20080529,20080711
+22,54078999,"Child & Family Services, Inc.",0833SC002276,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+23,54079981,"Child & Family Services, Inc.",0833SC002282,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+24,54080327,"Child & Family Services, Inc.",0833SC002279,Small Claims,Disposed (Statistical Purposes),20080529,20081001
+25,54081143,"Child & Family Services, Inc.",0833SC002278,Small Claims,Disposed (Statistical Purposes),20080529,20080610
+26,54081468,"Child & Family Services, Inc.",0833SC002274,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+27,54082458,"Child & Family Services, Inc.",0833SC002266,Small Claims,Disposed (Statistical Purposes),20080529,20080731
+28,54082780,"Child & Family Services, Inc.",0833SC002287,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+29,54083890,"Child & Family Services, Inc.",0833SC002267,Small Claims,Disposed (Statistical Purposes),20080529,20080728
+30,54084014,"Child & Family Services, Inc.",0833SC002281,Small Claims,Disposed (Statistical Purposes),20080529,20080623
+31,54088033,"Child & Family Services, Inc.",0833SC002259,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+32,54088985,"Child & Family Services, Inc.",0833SC002248,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+33,54089228,"Child & Family Services, Inc.",0833SC002260,Small Claims,Disposed (Statistical Purposes),20080530,20080917
+34,54089593,"Child & Family Services, Inc.",0833SC002247,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+35,54089903,"Child & Family Services, Inc.",0833SC002236,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+36,54090121,"Child & Family Services, Inc.",0833SC002253,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+37,54090436,"Child & Family Services, Inc.",0833SC002265,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+38,54090816,"Child & Family Services, Inc.",0833SC002217,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+39,54091218,"Child & Family Services, Inc.",0833SC002215,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+40,54091349,"Child & Family Services, Inc.",0833SC002280,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+41,54091703,"Child & Family Services, Inc.",0833SC002257,Small Claims,Disposed (Statistical Purposes),20080530,20080701
+42,54091910,"Child & Family Services, Inc.",0833SC002241,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+43,54091998,"Child & Family Services, Inc.",0833SC002264,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+44,54092141,"Child & Family Services, Inc.",0833SC002240,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+45,54092311,"Child & Family Services, Inc.",0833SC002221,Small Claims,Disposed (Statistical Purposes),20080530,20080624
+46,54093082,"Child & Family Services, Inc.",0833SC002250,Small Claims,Disposed (Statistical Purposes),20080530,20080610
+47,54093342,"Child & Family Services, Inc.",0833SC002245,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+48,54093601,"Child & Family Services, Inc.",0833SC002263,Small Claims,Disposed (Statistical Purposes),20080530,20080711
+49,54093720,"Child & Family Services, Inc.",0833SC002239,Small Claims,Disposed (Statistical Purposes),20080530,20080623
+0,54093825,"Child & Family Services, Inc.",0833SC002235,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+1,54093901,"Child & Family Services, Inc.",0833SC002246,Small Claims,Disposed (Statistical Purposes),20080530,20080623
+2,54094483,"Child & Family Services, Inc.",0833SC002262,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+3,54094675,"Child & Family Services, Inc.",0833SC002234,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+4,54094922,"Child & Family Services, Inc.",0833SC002222,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+5,54095763,"Child & Family Services, Inc.",0833SC002237,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+6,54096124,"Child & Family Services, Inc.",0833SC002242,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+7,54096423,"Child & Family Services, Inc.",0833SC002218,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+8,54096534,"Child & Family Services, Inc.",0833SC002214,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+9,54096776,"Child & Family Services, Inc.",0833SC002255,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+10,54097408,"Child & Family Services, Inc.",0833SC002213,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+11,54097733,"Child & Family Services, Inc.",0833SC002220,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+12,54098165,"Child & Family Services, Inc.",0833SC002238,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+13,54098409,"Child & Family Services, Inc.",0833SC002249,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+14,54098800,"Child & Family Services, Inc.",0833SC002244,Small Claims,Disposed (Statistical Purposes),20080530,20080606
+15,54098959,"Child & Family Services, Inc.",0833SC002243,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+16,54099585,"Child & Family Services, Inc.",0833SC002252,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+17,54099840,"Child & Family Services, Inc.",0833SC002256,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+18,54100400,"Child & Family Services, Inc.",0833SC002216,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+19,54100592,"Child & Family Services, Inc.",0833SC002219,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+20,54100888,"Child & Family Services, Inc.",0833SC002254,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+21,54101067,"Child & Family Services, Inc.",0833SC002261,Small Claims,Disposed (Statistical Purposes),20080530,20080728
+22,54761913,"Child & Family Services, Inc.",0533SC004770,Small Claims,Disposed (Statistical Purposes),20051123,20051213
+23,57956400,"Child & Family Services, Inc.",0633SC002970,Small Claims,Closed,20060712,20060828
+24,57956906,"Child & Family Services, Inc.",0633SC002981,Small Claims,Closed,20060712,20060915
+25,57957192,"Child & Family Services, Inc.",0633SC002926,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+26,57957409,"Child & Family Services, Inc.",0633SC002952,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+27,57957586,"Child & Family Services, Inc.",0633SC002959,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+28,57958063,"Child & Family Services, Inc.",0633SC002936,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+29,57958455,"Child & Family Services, Inc.",0633SC002963,Small Claims,Closed,20060712,20060828
+30,57958637,"Child & Family Services, Inc.",0633SC002968,Small Claims,Closed,20060712,20060828
+31,57959349,"Child & Family Services, Inc.",0633SC002978,Small Claims,Closed,20060712,20060828
+32,57959591,"Child & Family Services, Inc.",0633SC002935,Small Claims,Disposed (Statistical Purposes),20060712,20060915
+33,57959665,"Child & Family Services, Inc.",0633SC002973,Small Claims,Closed,20060712,20060828
+34,57960672,"Child & Family Services, Inc.",0633SC002976,Small Claims,Closed,20060712,20060718
+35,57961135,"Child & Family Services, Inc.",0633SC002939,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+36,57961537,"Child & Family Services, Inc.",0633SC002974,Small Claims,Closed,20060712,20060828
+37,57961885,"Child & Family Services, Inc.",0633SC002966,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+38,57962551,"Child & Family Services, Inc.",0633SC002958,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+39,57963193,"Child & Family Services, Inc.",0633SC002944,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+40,57963695,"Child & Family Services, Inc.",0633SC002933,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+41,57964728,"Child & Family Services, Inc.",0633SC002946,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+42,57964968,"Child & Family Services, Inc.",0633SC002972,Small Claims,Closed,20060712,20060825
+43,57965233,"Child & Family Services, Inc.",0633SC002949,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+44,57965647,"Child & Family Services, Inc.",0633SC002977,Small Claims,Closed,20060712,20060828
+45,57966042,"Child & Family Services, Inc.",0633SC002938,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+46,57966164,"Child & Family Services, Inc.",0633SC002927,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+47,57966519,"Child & Family Services, Inc.",0633SC002956,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+48,57966817,"Child & Family Services, Inc.",0633SC002964,Small Claims,Closed,20060712,20060815
+49,57967062,"Child & Family Services, Inc.",0633SC002967,Small Claims,Closed,20060712,20060828
+0,57967365,"Child & Family Services, Inc.",0633SC002953,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+1,57968281,"Child & Family Services, Inc.",0633SC002940,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+2,57969482,"Child & Family Services, Inc.",0633SC002971,Small Claims,Closed,20060712,20060915
+3,57969765,"Child & Family Services, Inc.",0633SC002951,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+4,57970395,"Child & Family Services, Inc.",0633SC002983,Small Claims,Closed,20060712,20060828
+5,57970921,"Child & Family Services, Inc.",0633SC002941,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+6,57971780,"Child & Family Services, Inc.",0633SC002934,Small Claims,Disposed (Statistical Purposes),20060712,20060801
+7,57973049,"Child & Family Services, Inc.",0633SC002950,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+8,57973543,"Child & Family Services, Inc.",0633SC002957,Small Claims,Disposed (Statistical Purposes),20060712,20060915
+9,57975232,"Child & Family Services, Inc.",0633SC002947,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+10,57975857,"Child & Family Services, Inc.",0633SC002948,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+11,57976911,"Child & Family Services, Inc.",0633SC002979,Small Claims,Closed,20060712,20060828
+12,57977514,"Child & Family Services, Inc.",0633SC002961,Small Claims,Closed,20060712,20060828
+13,57977985,"Child & Family Services, Inc.",0633SC002929,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+14,57978247,"Child & Family Services, Inc.",0633SC002954,Small Claims,Disposed (Statistical Purposes),20060712,20060725
+15,57980379,"Child & Family Services, Inc.",0633SC002942,Small Claims,Disposed (Statistical Purposes),20060712,20060925
+16,57981153,"Child & Family Services, Inc.",0633SC002982,Small Claims,Closed,20060712,20060828
+17,57981695,"Child & Family Services, Inc.",0633SC002943,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+18,57982416,"Child & Family Services, Inc.",0633SC002932,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+19,57983651,"Child & Family Services, Inc.",0633SC002962,Small Claims,Closed,20060712,20060828
+20,57984215,"Child & Family Services, Inc.",0633SC002937,Small Claims,Disposed (Statistical Purposes),20060712,20060724
+21,59428617,"Child & Family Services, Inc.",1033SC003655,Small Claims,Disposed (Statistical Purposes),20101223,20110201
+22,59429051,"Child & Family Services, Inc.",1033SC003650,Small Claims,Disposed (Statistical Purposes),20101223,20110201
+23,59432647,"Child & Family Services, Inc.",1033SC003653,Small Claims,Disposed (Statistical Purposes),20101223,20110209
+24,59433730,"Child & Family Services, Inc.",1033SC003651,Small Claims,Disposed (Statistical Purposes),20101223,20110201
+25,59441341,"Child & Family Services, Inc.",1033SC003654,Small Claims,Disposed (Statistical Purposes),20101223,20110201
+26,59934243,"Child & Family Services, Inc.",1233SC000588,Small Claims,Disposed (Statistical Purposes),20120222,20120328
+27,62632441,"Child & Family Services, Inc.",1033SC003293,Small Claims,Disposed (Statistical Purposes),20101118,20101206
+28,67831981,"Child & Family Services, Inc.",1333SC001524,Small Claims,Closed,20130507,20130628
+29,67843872,"Child & Family Services, Inc.",1333SC001520,Small Claims,Disposed (Statistical Purposes),20130507,20130619
+30,77177534,"Child & Family Services, Inc.",0633SC002965,Small Claims,Closed,20060712,20060828
+31,77177777,"Child & Family Services, Inc.",0633SC002931,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+32,77177992,"Child & Family Services, Inc.",0633SC002969,Small Claims,Closed,20060712,20060828
+33,77178053,"Child & Family Services, Inc.",0633SC002930,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+34,77178334,"Child & Family Services, Inc.",0633SC002960,Small Claims,Closed,20060712,20060828
+35,77178435,"Child & Family Services, Inc.",0633SC002955,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+36,77178569,"Child & Family Services, Inc.",0633SC002975,Small Claims,Closed,20060712,20060915
+37,77178627,"Child & Family Services, Inc.",0633SC002980,Small Claims,Closed,20060712,20060828
+38,77178732,"Child & Family Services, Inc.",0633SC002928,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+39,77178815,"Child & Family Services, Inc.",0633SC002945,Small Claims,Disposed (Statistical Purposes),20060712,20060828
+40,77182441,"Child & Family Services, Inc.",0633SC002987,Small Claims,Closed,20060712,20060828
+41,77182707,"Child & Family Services, Inc.",0633SC002984,Small Claims,Closed,20060712,20060828
+42,77182813,"Child & Family Services, Inc.",0633SC002986,Small Claims,Closed,20060712,20060828
+43,77182975,"Child & Family Services, Inc.",0633SC002985,Small Claims,Closed,20060712,20060720
+44,77401590,"Child & Family Services, Inc.",1733SC001915,Small Claims,Closed,20170810,20171018
+45,77401785,"Child & Family Services, Inc.",1733SC001926,Small Claims,Disposed (Statistical Purposes),20170810,20170913
+46,77403136,"Child & Family Services, Inc.",1733SC001914,Small Claims,Disposed (Statistical Purposes),20170810,20170913
+47,77404084,"Child & Family Services, Inc.",1733SC001912,Small Claims,Disposed (Statistical Purposes),20170810,20170920
+48,77404563,"Child & Family Services, Inc.",1733SC001913,Small Claims,Disposed (Statistical Purposes),20170810,20170913
+49,79348030,"Child & Family Services, Inc.",1733SC002789,Small Claims,Disposed (Statistical Purposes),20171121,20180110
+0,79348933,"Child & Family Services, Inc.",1733SC002787,Small Claims,Closed,20171121,20180118
+1,79788737,"Child & Family Services, Inc.",1633SC002949,Small Claims,Disposed (Statistical Purposes),20161123,20170302
+2,79790601,"Child & Family Services, Inc.",1633SC002948,Small Claims,Disposed (Statistical Purposes),20161123,20170201
+3,79790870,"Child & Family Services, Inc.",1633SC002946,Small Claims,Disposed (Statistical Purposes),20161123,20170207
+4,79791424,"Child & Family Services, Inc.",1633SC002943,Small Claims,Disposed (Statistical Purposes),20161123,20170201
+5,79792894,"Child & Family Services, Inc.",1633SC002944,Small Claims,Disposed (Statistical Purposes),20161123,20170201
+6,79794112,"Child & Family Services, Inc.",1633SC002947,Small Claims,Disposed (Statistical Purposes),20161123,20170201
+7,79795836,"Child & Family Services, Inc.",1633SC002945,Small Claims,Disposed (Statistical Purposes),20161123,20170201
+8,79796577,"Child & Family Services, Inc.",1633SC002950,Small Claims,Disposed (Statistical Purposes),20161123,20170517
+9,15565749,"Osgood Painting & Contracting Services, LLC",1236CV000104,Civil,Disposed (Statistical Purposes),20120206,20120322
+10,5425369,"Groundwater & Environmental Services, Inc.",1448SC000249,Small Claims,Disposed (Statistical Purposes),20140320,20140520
+11,13421797,"Groundwater & Environmental Services, Inc.",1248SC000747,Small Claims,Disposed (Statistical Purposes),20120820,20121113
+12,5953076,Dryserv Cleaning & Restoration Services,1425SC000021,Small Claims,Disposed (Statistical Purposes),20140113,20140224
+13,6358622,"Vineyard Engineering & Environmental Services, Inc.",1253SC001542,Small Claims,Disposed (Statistical Purposes),20121129,20130322
+14,75090584,"Vineyard Engineering & Environmental Services, Inc.",1653SC000860,Small Claims,Disposed (Statistical Purposes),20160825,20161114
+15,7320838,Childrens Speech & Language Services,1247SC000484,Small Claims,Disposed (Statistical Purposes),20120725,20130129
+16,9814610,Unifund CCR Partners Assignee of AT&T Universe Card Services of Cincinna,1352SP000167,Supplementary Process,Disposed (Statistical Purposes),20130716,20130826
+17,11980806,Children'S Speech & Language Services,1147SC000026,Small Claims,Disposed (Statistical Purposes),20110119,20110322
+18,16985321,Children'S Speech & Language Services,1147SC000247,Small Claims,Disposed (Statistical Purposes),20110505,20110621
+19,21050156,Children'S Speech & Language Services,0547SC000115,Small Claims,Disposed (Statistical Purposes),20050217,20050329
+20,24079972,Children'S Speech & Language Services,0947SC000554,Small Claims,Disposed (Statistical Purposes),20090806,20090929
+21,24115052,Children'S Speech & Language Services,0947SC000555,Small Claims,Disposed (Statistical Purposes),20090806,20090921
+22,28192757,Children'S Speech & Language Services,0847SC000779,Small Claims,Disposed (Statistical Purposes),20081030,20081217
+23,13490102,Vineyard Engineering & Environmental Services Inc.,1153SC000541,Small Claims,Disposed (Statistical Purposes),20110506,20111005
+24,13507387,"Vineyard Engineering & Environmental Services, Inc",1153SC000542,Small Claims,Disposed (Statistical Purposes),20110506,20111006
+25,13568384,"Baystate Audio & Media Services, Llc",1067CV000489,Civil,Disposed (Statistical Purposes),20100618,20100915
+26,47061128,"Baystate Audio & Media Services, Llc",0857CV000055,Civil,Disposed (Statistical Purposes),20080115,20080310
+27,47783384,"Baystate Audio & Media Services, Llc",1139CV000099,Civil,Disposed (Statistical Purposes),20110328,20110809
+28,69709636,"Baystate Audio & Media Services, Llc",1101CV000676,Civil,Closed,20110329,20110329
+29,16805158,Kennedy Carpet & Restoration Services,1158SC000394,Small Claims,Disposed (Statistical Purposes),20110412,20110602
+30,19798448,Dorchester Medical & Rehabilitation Services,0507SC000837,Small Claims,Disposed (Statistical Purposes),20050429,20050919
+31,19798954,Dorchester Medical & Rehabilitation Services,0507SC000832,Small Claims,Disposed (Statistical Purposes),20050429,20050902
+32,19800693,Dorchester Medical & Rehabilitation Services,0507SC000840,Small Claims,Disposed (Statistical Purposes),20050429,20050902
+33,19801290,Dorchester Medical & Rehabilitation Services,0507SC000836,Small Claims,Disposed (Statistical Purposes),20050429,20050902
+34,19801722,Dorchester Medical & Rehabilitation Services,0507SC000841,Small Claims,Disposed (Statistical Purposes),20050429,20050919
+35,19802218,Dorchester Medical & Rehabilitation Services,0507SC000830,Small Claims,Disposed (Statistical Purposes),20050429,20050902
+36,19817177,Dorchester Medical & Rehabilitation Services,0507SC000873,Small Claims,Disposed (Statistical Purposes),20050506,20050920
+37,19817949,Dorchester Medical & Rehabilitation Services,0507SC000875,Small Claims,Disposed (Statistical Purposes),20050506,20050920
+38,19819495,Dorchester Medical & Rehabilitation Services,0507SC000871,Small Claims,Disposed (Statistical Purposes),20050506,20050920
+39,25699325,"New England Pool & Spa Services, Inc.",0854CV001049,Civil,Disposed (Statistical Purposes),20080801,20081209
+40,25440948,"Donaroma'S Nursery & Landscape Services, Inc.",0635SC000372,Small Claims,Disposed (Statistical Purposes),20060703,20060801
+41,26716328,"Robert D Gaudet & Sons Cleaning Services, Inc",0716CV000181,Civil,Disposed (Statistical Purposes),20070329,20071002
+42,30699184,Child & Family Services Inc,1533SC001937,Small Claims,Disposed (Statistical Purposes),20150615,20150730
+43,56839702,Child & Family Services Inc,1033SC001054,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+44,56840733,Child & Family Services Inc,1033SC001050,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+45,56842967,Child & Family Services Inc,1033SC001049,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+46,56843485,Child & Family Services Inc,1033SC001048,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+47,56846871,Child & Family Services Inc,1033SC001040,Small Claims,Disposed (Statistical Purposes),20100414,20100728
+48,56849849,Child & Family Services Inc,1033SC001043,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+49,56853325,Child & Family Services Inc,1033SC001041,Small Claims,Disposed (Statistical Purposes),20100414,20100520
+0,56854828,Child & Family Services Inc,1033SC001042,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+1,56856283,Child & Family Services Inc,1033SC001047,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+2,56856863,Child & Family Services Inc,1033SC001053,Small Claims,Disposed (Statistical Purposes),20100414,20100520
+3,56857858,Child & Family Services Inc,1033SC001038,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+4,56862779,Child & Family Services Inc,1033SC001051,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+5,56864584,Child & Family Services Inc,1033SC001044,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+6,56865918,Child & Family Services Inc,1033SC001046,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+7,56866791,Child & Family Services Inc,1033SC001052,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+8,56867770,Child & Family Services Inc,1033SC001055,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+9,56868894,Child & Family Services Inc,1033SC001039,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+10,56869521,Child & Family Services Inc,1033SC001045,Small Claims,Disposed (Statistical Purposes),20100414,20100519
+11,57467447,Child & Family Services Inc,1033SC003294,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+12,57470841,Child & Family Services Inc,1033SC003284,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+13,57472417,Child & Family Services Inc,1033SC003270,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+14,57473602,Child & Family Services Inc,1033SC003283,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+15,57480104,Child & Family Services Inc,1033SC003268,Small Claims,Disposed (Statistical Purposes),20101118,20110107
+16,57480876,Child & Family Services Inc,1033SC003280,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+17,57486282,Child & Family Services Inc,1033SC003269,Small Claims,Disposed (Statistical Purposes),20101118,20110302
+18,57491123,Child & Family Services Inc,1033SC003279,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+19,57501812,Child & Family Services Inc,1033SC003292,Small Claims,Disposed (Statistical Purposes),20101118,20110209
+20,57507637,Child & Family Services Inc,1033SC003281,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+21,57513851,Child & Family Services Inc,1033SC003278,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+22,57518960,Child & Family Services Inc,1033SC003296,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+23,57526745,Child & Family Services Inc,1033SC003295,Small Claims,Disposed (Statistical Purposes),20101118,20110309
+24,57535259,Child & Family Services Inc,1033SC003298,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+25,59430019,Child & Family Services Inc,1033SC003657,Small Claims,Disposed (Statistical Purposes),20101223,20110201
+26,59437437,Child & Family Services Inc,1033SC003658,Small Claims,Disposed (Statistical Purposes),20101223,20110201
+27,59439575,Child & Family Services Inc,1033SC003649,Small Claims,Disposed (Statistical Purposes),20101223,20110201
+28,62626954,Child & Family Services Inc,1033SC003290,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+29,62629667,Child & Family Services Inc,1033SC003297,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+30,62633489,Child & Family Services Inc,1033SC003289,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+31,62635533,Child & Family Services Inc,1033SC003291,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+32,63248892,Child & Family Services Inc,1133SC001154,Small Claims,Disposed (Statistical Purposes),20110429,20110503
+33,31101698,"Robert D. Gaudet & Sons Cleaning Services, Inc.",0618CV001685,Civil,Disposed (Statistical Purposes),20061213,20070503
+34,66841713,"Robert D. Gaudet & Sons Cleaning Services, Inc.",0701CV005175,Civil,Closed,20070921,20070921
+35,34928174,"ATouch of Class Landscaping Cleaining & Painting Services, Inc.",1536CV000183,Civil,Disposed (Statistical Purposes),20150311,20150610
+36,37582272,Bay State Audio & Media Services,0767SC001431,Small Claims,Disposed (Statistical Purposes),20071127,20080226
+37,37741787,"Pdc Glass & Metal Services, Inc.",0931CV000611,Civil,Disposed (Statistical Purposes),20090324,20090513
+38,39213221,"Richard W. Guerard d/b/a Guerard Consulting & Investigative Services, LLC",1567SC000199,Small Claims,Disposed (Statistical Purposes),20150318,20151006
+39,41089543,Ameripride Linen & Apparel Services,0662SC005167,Small Claims,Disposed (Statistical Purposes),20061215,20070308
+40,59329580,Ameripride Linen & Apparel Services,0562SC003399,Small Claims,Disposed (Statistical Purposes),20050831,20051013
+41,42118898,"City of Worcester, Dept of Health & Human Services",08H85CV000142,Housing Court Civil,Active,20080222,20080222
+42,42175526,"City of Worcester, Dept of Health & Human Services",08H85CV000165,Housing Court Civil,Active,20080228,20080228
+43,42177370,"City of Worcester, Dept of Health & Human Services",08H85CV000166,Housing Court Civil,Active,20080228,20080228
+44,42214054,"City of Worcester, Dept of Health & Human Services",08H85CV000242,Housing Court Civil,Active,20080326,20080326
+45,42222519,"City of Worcester, Dept of Health & Human Services",08H85CV000243,Housing Court Civil,Active,20080326,20080326
+46,42234887,"City of Worcester, Dept of Health & Human Services",08H85CV000236,Housing Court Civil,Active,20080324,20080324
+47,42236923,"City of Worcester, Dept of Health & Human Services",08H85CV000237,Housing Court Civil,Active,20080324,20080324
+48,42237331,"City of Worcester, Dept of Health & Human Services",08H85CV000234,Housing Court Civil,Active,20080320,20080320
+49,42240080,"City of Worcester, Dept of Health & Human Services",08H85CV000235,Housing Court Civil,Active,20080324,20080324
+0,42268125,"City of Worcester, Dept of Health & Human Services",08H85CV000244,Housing Court Civil,Active,20080326,20080326
+1,44120927,"City of Worcester, Dept of Health & Human Services",08H85CV000285,Housing Court Civil,Active,20080411,20080411
+2,44121418,"City of Worcester, Dept of Health & Human Services",08H85CV000288,Housing Court Civil,Active,20080411,20080411
+3,44123576,"City of Worcester, Dept of Health & Human Services",08H85CV000281,Housing Court Civil,Active,20080411,20080411
+4,44127156,"City of Worcester, Dept of Health & Human Services",08H85CV000284,Housing Court Civil,Active,20080411,20080411
+5,44128243,"City of Worcester, Dept of Health & Human Services",08H85CV000283,Housing Court Civil,Active,20080411,20080411
+6,44130152,"City of Worcester, Dept of Health & Human Services",08H85CV000282,Housing Court Civil,Active,20080411,20080411
+7,44168318,"City of Worcester, Dept of Health & Human Services",08H85CV000319,Housing Court Civil,Closed,20080424,20080514
+8,44171311,"City of Worcester, Dept of Health & Human Services",08H85CV000309,Housing Court Civil,Active,20080422,20080422
+9,44172580,"City of Worcester, Dept of Health & Human Services",08H85CV000311,Housing Court Civil,Active,20080422,20080422
+10,44173601,"City of Worcester, Dept of Health & Human Services",08H85CV000308,Housing Court Civil,Active,20080422,20080422
+11,44174298,"City of Worcester, Dept of Health & Human Services",08H85CV000320,Housing Court Civil,Active,20080424,20080424
+12,44182020,"City of Worcester, Dept of Health & Human Services",08H85CV000312,Housing Court Civil,Active,20080422,20080422
+13,44183672,"City of Worcester, Dept of Health & Human Services",08H85CV000307,Housing Court Civil,Active,20080422,20080422
+14,44190495,"City of Worcester, Dept of Health & Human Services",08H85CV000328,Housing Court Civil,Active,20080502,20080502
+15,44198342,"City of Worcester, Dept of Health & Human Services",08H85CV000336,Housing Court Civil,Active,20080506,20080506
+16,44207833,"City of Worcester, Dept of Health & Human Services",08H85CV000359,Housing Court Civil,Active,20080516,20080516
+17,44225337,"City of Worcester, Dept of Health & Human Services",08H85CV000363,Housing Court Civil,Active,20080520,20080520
+18,44226659,"City of Worcester, Dept of Health & Human Services",08H85CV000367,Housing Court Civil,Active,20080520,20080520
+19,44266767,"City of Worcester, Dept of Health & Human Services",08H85CV000378,Housing Court Civil,Active,20080527,20080527
+20,44270452,"City of Worcester, Dept of Health & Human Services",08H85CV000379,Housing Court Civil,Active,20080527,20080527
+21,44293311,"City of Worcester, Dept of Health & Human Services",08H85CV000386,Housing Court Civil,Active,20080528,20080528
+22,44309842,"City of Worcester, Dept of Health & Human Services",08H85CV000397,Housing Court Civil,Active,20080602,20080602
+23,44318915,"City of Worcester, Dept of Health & Human Services",08H85CV000459,Housing Court Civil,Active,20080624,20080624
+24,44319214,"City of Worcester, Dept of Health & Human Services",08H85CV000461,Housing Court Civil,Active,20080624,20080624
+25,44319631,"City of Worcester, Dept of Health & Human Services",08H85CV000472,Housing Court Civil,Active,20080626,20080626
+26,44321041,"City of Worcester, Dept of Health & Human Services",08H85CV000462,Housing Court Civil,Active,20080624,20080624
+27,44323528,"City of Worcester, Dept of Health & Human Services",08H85CV000463,Housing Court Civil,Active,20080624,20080624
+28,44651420,"City of Worcester, Dept of Health & Human Services",08H85CV000818,Housing Court Civil,Active,20081017,20081017
+29,58496923,"City of Worcester, Dept of Health & Human Services",08H85CV000411,Housing Court Civil,Active,20080610,20080610
+30,58517444,"City of Worcester, Dept of Health & Human Services",08H85CV000412,Housing Court Civil,Active,20080610,20080610
+31,58528264,"City of Worcester, Dept of Health & Human Services",08H85CV000413,Housing Court Civil,Active,20080610,20080610
+32,58660254,"City of Worcester, Dept of Health & Human Services",08H85CV000435,Housing Court Civil,Active,20080617,20080617
+33,59862326,"City of Worcester, Dept of Health & Human Services",08H85CV000201,Housing Court Civil,Active,20080312,20080312
+34,59862385,"City of Worcester, Dept of Health & Human Services",08H85CV000203,Housing Court Civil,Active,20080312,20080312
+35,59862441,"City of Worcester, Dept of Health & Human Services",08H85CV000200,Housing Court Civil,Active,20080312,20080312
+36,59862469,"City of Worcester, Dept of Health & Human Services",08H85CV000202,Housing Court Civil,Active,20080312,20080312
+37,59862587,"City of Worcester, Dept of Health & Human Services",08H85CV000204,Housing Court Civil,Active,20080312,20080312
+38,61671949,"City of Worcester, Dept of Health & Human Services",08H85CV000430,Housing Court Civil,Active,20080616,20080616
+39,61678700,"City of Worcester, Dept of Health & Human Services",08H85CV000426,Housing Court Civil,Active,20080616,20080616
+40,61679595,"City of Worcester, Dept of Health & Human Services",08H85CV000425,Housing Court Civil,Active,20080616,20080616
+41,62154704,"City of Worcester, Dept of Health & Human Services",08H85CV000429,Housing Court Civil,Active,20080616,20080616
+42,62157011,"City of Worcester, Dept of Health & Human Services",08H85CV000428,Housing Court Civil,Active,20080616,20080616
+43,70529849,"City of Worcester, Dept of Health & Human Services",08H85CV000219,Housing Court Civil,Active,20080317,20080317
+44,42135267,"City of Worc., Dept. of Health & Human Services",08H85CV000154,Housing Court Civil,Active,20080226,20080226
+45,42192184,"City of Worc., Dept. of Health & Human Services",08H85CV000189,Housing Court Civil,Active,20080306,20080306
+46,42203946,"City of Worc., Dept. of Health & Human Services",08H85CV000181,Housing Court Civil,Active,20080305,20080305
+47,42176107,"City of Worc., Dept. of Hlth & Human Services",08H85CV000160,Housing Court Civil,Active,20080228,20080228
+48,42181003,"City of Worc., Dept. of Hlth & Human Services",08H85CV000163,Housing Court Civil,Active,20080228,20080228
+49,42208430,"City of Worc, Dept. of Health & Human Services",08H85CV000188,Housing Court Civil,Active,20080306,20080306
+0,43416335,Baystate Audio & Media Services Llc,0857SP000252,Supplementary Process,Disposed (Statistical Purposes),20080702,20080708
+1,45978081,Charles E. Bangs Dba A&B Excavation Services,0625CV000467,Civil,Disposed (Statistical Purposes),20060505,20060707
+2,47189462,"Education Consulting, Advocacy & Legal Services,",0913CV000098,Civil,Disposed (Statistical Purposes),20090113,20090330
+3,48226197,"A Touch of Class Landscaping, Cleaning & Painting Services, Inc",1540SP000040,Supplementary Process,Disposed (Statistical Purposes),20151019,20151203
+4,82207047,"A Touch of Class Landscaping, Cleaning & Painting Services, Inc",1940CV000046,Civil,Suspended- COVID 19-Extend-Notices sent,20191007,20200522
+5,51063525,Child & Family Services,0823SC003056,Small Claims,Disposed (Statistical Purposes),20080722,20081222
+6,51064312,Child & Family Services,0823SC003064,Small Claims,Disposed (Statistical Purposes),20080722,20080929
+7,51066141,Child & Family Services,0823SC003061,Small Claims,Disposed (Statistical Purposes),20080722,20080929
+8,51066360,Child & Family Services,0823SC003063,Small Claims,Disposed (Statistical Purposes),20080722,20080918
+9,51067389,Child & Family Services,0823SC003059,Small Claims,Disposed (Statistical Purposes),20080722,20080929
+10,51067582,Child & Family Services,0823SC003052,Small Claims,Disposed (Statistical Purposes),20080722,20080929
+11,51068211,Child & Family Services,0823SC003054,Small Claims,Disposed (Statistical Purposes),20080722,20080923
+12,51068622,Child & Family Services,0823SC003062,Small Claims,Disposed (Statistical Purposes),20080722,20080929
+13,51068906,Child & Family Services,0823SC003065,Small Claims,Disposed (Statistical Purposes),20080722,20080929
+14,51070694,Child & Family Services,0823SC003053,Small Claims,Disposed (Statistical Purposes),20080722,20090326
+15,51074226,Child & Family Services,0823SC003055,Small Claims,Disposed (Statistical Purposes),20080722,20080929
+16,51147886,Child & Family Services,0823SC003060,Small Claims,Disposed (Statistical Purposes),20080725,20080929
+17,51202474,Child & Family Services,0823SC003266,Small Claims,Disposed (Statistical Purposes),20080730,20081003
+18,51206465,Child & Family Services,0823SC003265,Small Claims,Disposed (Statistical Purposes),20080730,20081003
+19,61761503,Child & Family Services,0823SC001671,Small Claims,Disposed (Statistical Purposes),20080417,20080620
+20,85928950,Child & Family Services,1833SC002936,Small Claims,Disposed (Statistical Purposes),20181102,20181219
+21,85929256,Child & Family Services,1833SC002942,Small Claims,Disposed (Statistical Purposes),20181102,20181219
+22,85929390,Child & Family Services,1833SC002938,Small Claims,Disposed (Statistical Purposes),20181102,20181218
+23,85929719,Child & Family Services,1833SC002939,Small Claims,Disposed (Statistical Purposes),20181102,20181217
+24,85930395,Child & Family Services,1833SC002941,Small Claims,Disposed (Statistical Purposes),20181102,20181219
+25,85931389,Child & Family Services,1833SC002940,Small Claims,Disposed (Statistical Purposes),20181102,20181219
+26,85931566,Child & Family Services,1833SC002937,Small Claims,Disposed (Statistical Purposes),20181102,20181219
+27,55616723,Robert D Gaudet & Sons Cleaning Services Inc,0750CV001401,Civil,Disposed (Statistical Purposes),20070813,20071108
+28,56028326,Vineyard Engineering & Environmental Services,0953SC000772,Small Claims,Disposed (Statistical Purposes),20090414,20090901
+29,61681543,City of Worcester Dept of Health & Human Services,08H85CV000427,Housing Court Civil,Active,20080616,20080616
+30,62630676,"Chld & Family Services, Inc.",1033SC003288,Small Claims,Disposed (Statistical Purposes),20101118,20110125
+31,64938541,"Springfield Medical & Rehab Services, P.C.",1623SC001714,Small Claims,Pending,20160803,20160803
+32,64949043,"Springfield Medical & Rehab Services, P.C.",1623SC001712,Small Claims,Pending,20160803,20160803
+33,67457858,Standard & Poors Financial Services LLC,1384CV01557,Actions Involving the State/Municipality,Closed,20130426,20150121
+34,72808465,Beverage Body & Trailer Services Inc,0577CV00289,Contract / Business Cases,Closed,20050218,20050607
+35,74608187,Gardner & Lynch Electrical Services LLC,1484CV02962,Contract / Business Cases,Closed,20140918,20150608
+36,75186047,"Remediation & Environmental Management Services, Inc.",1581CV00675,Contract / Business Cases,Open,20150219,20150219
+37,76243422,Dhl Danzas Air & Ocean Services,0656CV000097,Civil,Disposed (Statistical Purposes),20060117,20060424
+38,77809238,"A Touch of Class Landscaping, Cleaning & Painting Services, Inc.",1840CV000096,Civil,Disposed (Statistical Purposes),20180924,20190220
+39,87937915,"A Touch of Class Landscaping, Cleaning & Painting Services, Inc.",1740CV000047,Civil,Disposed (Statistical Purposes),20170424,20180117
+40,79353220,"Child & Family Services, INC",1733SC002785,Small Claims,Disposed (Statistical Purposes),20171121,20180111
+41,81420000,Scheer Landscape & Estate Services,2089SC000256,Small Claims,Disposed (Statistical Purposes),20200601,20201030
+42,84652690,"R.R Donnelley & Sons Company a/k/a Donnelley Logistics Services Worldwide, Inc d/b/a DLS Worldwide",2082CV00911,Contract / Business Cases,Closed,20200925,20210415
+43,85184198,Edward Krasner doing business as Concrete Contractor & Subcontractor Services,1984CV02065,Administrative Civil Actions,Open,20190627,20190627
+44,86034753,"A Touch of Class Landscaping, Cleaning, & Painting Services, Inc.",1822SC000589,Small Claims,Disposed (Statistical Purposes),20181004,20181130
+45,86034918,"A Touch of Class Landscaping, Cleaning, & Painting Services, Inc.",1822SC000590,Small Claims,Disposed (Statistical Purposes),20181004,20190115
+46,86066996,Dora & Mark's Cleaning Services,1951SC000006,Small Claims,Disposed (Statistical Purposes),20190103,20190225

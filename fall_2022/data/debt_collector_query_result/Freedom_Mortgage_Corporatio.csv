@@ -1,0 +1,404 @@
+,post_id,party_name,case_number,case_type,case_status,file_date,status_date
+0,932819,Freedom Mortgage Corporation,1143SU000026,Summary Process,Disposed (Statistical Purposes),20110923,20110922
+1,1469241,Freedom Mortgage Corporation,1318SU000151,Summary Process,Disposed (Statistical Purposes),20130826,20130912
+2,4208043,Freedom Mortgage Corporation,13 MISC 478462,Servicemembers,Open,20130705,20130705
+3,4250597,Freedom Mortgage Corporation,14 MISC 481477,Servicemembers,Closed,20140203,20140331
+4,4624303,Freedom Mortgage Corporation,14 MISC 485543,Miscellaneous,Open,20140812,20140812
+5,5067252,Freedom Mortgage Corporation,14 MISC 484264,Servicemembers,Closed,20140616,20150108
+6,8081880,Freedom Mortgage Corporation,1220SU000016,Summary Process,Disposed (Statistical Purposes),20120618,20120622
+7,11346445,Freedom Mortgage Corporation,1211SU000383,Summary Process,Disposed (Statistical Purposes),20121022,20121102
+8,11742449,Freedom Mortgage Corporation,13 MISC 480669,Servicemembers,Open,20131122,20131122
+9,14123375,Freedom Mortgage Corporation,14H83SP00036TA,Housing Court Summary Process,Active,20140106,20140106
+10,14194345,Freedom Mortgage Corporation,12 MISC 473212,Servicemembers,Closed,20121026,20130410
+11,14194909,Freedom Mortgage Corporation,12 MISC 473213,Servicemembers,Closed,20121026,20130405
+12,14251473,Freedom Mortgage Corporation,12 MISC 474116,Servicemembers,Closed,20121123,20130418
+13,14441729,Freedom Mortgage Corporation,13 MISC 477241,Servicemembers,Closed,20130312,20130610
+14,14444641,Freedom Mortgage Corporation,13 MISC 477243,Servicemembers,Closed,20130312,20130607
+15,14453333,Freedom Mortgage Corporation,13 MISC 477249,Servicemembers,Closed,20130313,20130606
+16,14688953,Freedom Mortgage Corporation,14H83SP00782PL,Housing Court Summary Process,Active,20140214,20140214
+17,14756994,Freedom Mortgage Corporation,12H79SP002461,Housing Court Summary Process,Active,20120626,20120626
+18,15044456,Freedom Mortgage Corporation,14H83SP01451PL,Housing Court Summary Process,Active,20140331,20140331
+19,15211193,Freedom Mortgage Corporation,13 MISC 477464,Servicemembers,Closed,20130401,20130612
+20,15676898,Freedom Mortgage Corporation,12 MISC 457524,Servicemembers,Closed,20120103,20120403
+21,15688372,Freedom Mortgage Corporation,1323SU000100,Summary Process,Disposed (Statistical Purposes),20131125,20131202
+22,15736618,Freedom Mortgage Corporation,12 MISC 458037,Servicemembers,Closed,20120113,20120419
+23,15916300,Freedom Mortgage Corporation,13 MISC 478116,Servicemembers,Open,20130605,20130605
+24,16089187,Freedom Mortgage Corporation,13 MISC 478205,Servicemembers,Closed,20130613,20130730
+25,16294673,Freedom Mortgage Corporation,13 MISC 478283,Servicemembers,Closed,20130621,20130806
+26,36514002,Freedom Mortgage Corporation,1623SU000090,Summary Process,Disposed (Statistical Purposes),20160321,20160325
+27,39141181,Freedom Mortgage Corporation,16H77SP000105,Housing Court Summary Process,Closed,20160108,20160126
+28,41831100,Freedom Mortgage Corporation,15 SM 006142,Servicemembers,Open,20150727,20150727
+29,41831905,Freedom Mortgage Corporation,15 SM 006144,Servicemembers,Closed,20150727,20151014
+30,49465341,Freedom Mortgage Corporation,11 MISC 449993,Servicemembers,Closed,20110701,20110922
+31,49532266,Freedom Mortgage Corporation,11 MISC 450064,Servicemembers,Closed,20110705,20110930
+32,49583722,Freedom Mortgage Corporation,12 MISC 460331,Servicemembers,Closed,20120301,20120726
+33,49637943,Freedom Mortgage Corporation,14H85SP005184,Housing Court Summary Process,Active,20141209,20141209
+34,49669823,Freedom Mortgage Corporation,11 MISC 450445,Servicemembers,Closed,20110712,20111019
+35,49813351,Freedom Mortgage Corporation,13H79SP005065,Housing Court Summary Process,Active,20131203,20131203
+36,49873504,Freedom Mortgage Corporation,13 MISC 480790,Servicemembers,Closed,20131206,20140528
+37,49876542,Freedom Mortgage Corporation,13 MISC 480803,Servicemembers,Closed,20131206,20140203
+38,49927104,Freedom Mortgage Corporation,06 MISC 330890,Servicemembers,Closed,20060929,20090917
+39,50105653,Freedom Mortgage Corporation,14 MISC 481694,Servicemembers,Closed,20140218,20140414
+40,50398760,Freedom Mortgage Corporation,12 MISC 461061,Servicemembers,Closed,20120315,20120606
+41,50442264,Freedom Mortgage Corporation,12 MISC 461196,Servicemembers,Closed,20120319,20120608
+42,50442919,Freedom Mortgage Corporation,12 MISC 461204,Servicemembers,Open,20120319,20120319
+43,50514678,Freedom Mortgage Corporation,12 MISC 461619,Servicemembers,Closed,20120326,20120621
+44,50524791,Freedom Mortgage Corporation,12 MISC 461712,Servicemembers,Closed,20120327,20120730
+45,50552290,Freedom Mortgage Corporation,12 MISC 461739,Servicemembers,Closed,20120327,20120703
+46,50569141,Freedom Mortgage Corporation,12 MISC 461910,Servicemembers,Open,20120329,20120329
+47,50600393,Freedom Mortgage Corporation,14 MISC 482244,Servicemembers,Closed,20140313,20140516
+48,50718966,Freedom Mortgage Corporation,14 MISC 482286,Servicemembers,Open,20140317,20140317
+49,50758539,Freedom Mortgage Corporation,14 MISC 482417,Servicemembers,Closed,20140321,20140515
+0,50822584,Freedom Mortgage Corporation,12 MISC 463218,Servicemembers,Closed,20120419,20120928
+1,50830047,Freedom Mortgage Corporation,11 MISC 448624,Servicemembers,Closed,20110518,20110915
+2,50906686,Freedom Mortgage Corporation,12 MISC 463429,Servicemembers,Open,20120424,20120424
+3,50913831,Freedom Mortgage Corporation,11 MISC 448862,Servicemembers,Closed,20110527,20110916
+4,51173384,Freedom Mortgage Corporation,15 SM 005426,Servicemembers,Closed,20150703,20151127
+5,51174265,Freedom Mortgage Corporation,15 SM 005428,Servicemembers,Closed,20150703,20151113
+6,51316651,Freedom Mortgage Corporation,10 MISC 428582,Servicemembers,Closed,20100428,20100921
+7,51486535,Freedom Mortgage Corporation,1381CV00217,Real Property,Open,20130117,20130521
+8,51542769,Freedom Mortgage Corporation,14 MISC 487359,Servicemembers,Closed,20141020,20150519
+9,51542846,Freedom Mortgage Corporation,14 MISC 487349,Servicemembers,Open,20141020,20141020
+10,51656332,Freedom Mortgage Corporation,06 MISC 337382,Servicemembers,Closed,20061227,20070212
+11,51661825,Freedom Mortgage Corporation,14 MISC 487615,Servicemembers,Closed,20141027,20150407
+12,51662378,Freedom Mortgage Corporation,15 SM 005632,Servicemembers,Open,20150713,20150713
+13,51735927,Freedom Mortgage Corporation,15 SM 005807,Servicemembers,Open,20150716,20150716
+14,51741380,Freedom Mortgage Corporation,14 MISC 487733,Servicemembers,Closed,20141030,20150317
+15,51753779,Freedom Mortgage Corporation,15 SM 005940,Servicemembers,Closed,20150720,20151006
+16,51904636,Freedom Mortgage Corporation,14 MISC 484216,Servicemembers,Open,20140612,20140612
+17,51935146,Freedom Mortgage Corporation,10 MISC 441373,Servicemembers,Open,20101007,20101007
+18,52259751,Freedom Mortgage Corporation,12 MISC 459889,Servicemembers,Closed,20120222,20120515
+19,52281467,Freedom Mortgage Corporation,12 MISC 459945,Servicemembers,Closed,20120223,20120522
+20,52303091,Freedom Mortgage Corporation,12 MISC 460027,Servicemembers,Closed,20120224,20120629
+21,52456127,Freedom Mortgage Corporation,13 MISC 477951,Servicemembers,Closed,20130516,20130702
+22,53052942,Freedom Mortgage Corporation,15 SM 010856,Servicemembers,Closed,20151208,20160517
+23,53138155,Freedom Mortgage Corporation,15 SM 011217,Servicemembers,Closed,20151217,20160524
+24,53315299,Freedom Mortgage Corporation,15 SM 011713,Servicemembers,Open,20151230,20151230
+25,53317367,Freedom Mortgage Corporation,15 SM 011714,Servicemembers,Open,20151230,20151230
+26,54430505,Freedom Mortgage Corporation,12 MISC 468504,Servicemembers,Closed,20120801,20130213
+27,54485992,Freedom Mortgage Corporation,14 MISC 487964,Servicemembers,Closed,20141107,20150414
+28,54648670,Freedom Mortgage Corporation,14 MISC 484515,Servicemembers,Closed,20140630,20141027
+29,54688239,Freedom Mortgage Corporation,14 MISC 488393,Servicemembers,Closed,20141125,20150507
+30,54694841,Freedom Mortgage Corporation,15 SM 007098,Servicemembers,Closed,20150824,20160524
+31,54702183,Freedom Mortgage Corporation,15 SM 007097,Servicemembers,Closed,20150824,20151020
+32,54933058,Freedom Mortgage Corporation,15 SM 007232,Servicemembers,Closed,20150827,20151026
+33,54944307,Freedom Mortgage Corporation,15 SM 007723,Servicemembers,Closed,20150910,20151117
+34,54980671,Freedom Mortgage Corporation,10 MISC 443237,Servicemembers,Closed,20101122,20110503
+35,55183595,Freedom Mortgage Corporation,14H83SP03389PL,Housing Court Summary Process,Active,20140728,20140728
+36,55208532,Freedom Mortgage Corporation,15 SM 007606,Servicemembers,Closed,20150908,20151102
+37,55346581,Freedom Mortgage Corporation,09 MISC 399432,Servicemembers,Closed,20090427,20090804
+38,55373736,Freedom Mortgage Corporation,15 SM 010138,Servicemembers,Closed,20151117,20160318
+39,55568928,Freedom Mortgage Corporation,12 MISC 473017,Servicemembers,Closed,20121023,20130401
+40,55712743,Freedom Mortgage Corporation,13 MISC 477749,Servicemembers,Closed,20130426,20130618
+41,55752201,Freedom Mortgage Corporation,13 MISC 477328,Servicemembers,Closed,20130320,20130612
+42,55758730,Freedom Mortgage Corporation,11 MISC 451940,Servicemembers,Closed,20110809,20111116
+43,55760878,Freedom Mortgage Corporation,13 MISC 477346,Servicemembers,Closed,20130321,20130612
+44,55794048,Freedom Mortgage Corporation,11 MISC 451896,Miscellaneous,Closed,20110809,20120924
+45,56020330,Freedom Mortgage Corporation,16 SM 000520,Servicemembers,Closed,20160115,20160518
+46,56313633,Freedom Mortgage Corporation,16 SM 003517,Servicemembers,Closed,20160405,20160930
+47,56357861,Freedom Mortgage Corporation,12 MISC 474018,Servicemembers,Closed,20121120,20130422
+48,56462189,Freedom Mortgage Corporation,11 MISC 453014,Servicemembers,Closed,20110902,20111206
+49,56506095,Freedom Mortgage Corporation,12 MISC 474700,Servicemembers,Closed,20121212,20130424
+0,56576580,Freedom Mortgage Corporation,12 MISC 474737,Servicemembers,Closed,20121213,20130422
+1,56703910,Freedom Mortgage Corporation,11 MISC 455668,Servicemembers,Closed,20111108,20111223
+2,56761761,Freedom Mortgage Corporation,12 MISC 473439,Servicemembers,Closed,20121105,20130410
+3,56795288,Freedom Mortgage Corporation,11 MISC 455716,Servicemembers,Closed,20111109,20120217
+4,56935338,Freedom Mortgage Corporation,11 MISC 453858,Servicemembers,Closed,20110926,20111228
+5,56991214,Freedom Mortgage Corporation,11 MISC 453904,Servicemembers,Closed,20110927,20111212
+6,56991542,Freedom Mortgage Corporation,11 MISC 455001,Servicemembers,Closed,20111021,20120125
+7,57011446,Freedom Mortgage Corporation,12 MISC 457641,Servicemembers,Closed,20120105,20130227
+8,57140646,Freedom Mortgage Corporation,12 MISC 457707,Servicemembers,Closed,20120106,20120412
+9,57141266,Freedom Mortgage Corporation,15 SM 000532,Servicemembers,Closed,20150129,20150624
+10,57142888,Freedom Mortgage Corporation,12 MISC 457696,Servicemembers,Closed,20120106,20120403
+11,57200130,Freedom Mortgage Corporation,16 SM 004636,Servicemembers,Open,20160504,20160504
+12,57227782,Freedom Mortgage Corporation,14H85SP004283,Housing Court Summary Process,Closed,20141014,20141024
+13,57229893,Freedom Mortgage Corporation,14H85SP004282,Housing Court Summary Process,Closed,20141014,20141024
+14,57246540,Freedom Mortgage Corporation,14H85SP004284,Housing Court Summary Process,Closed,20141014,20141121
+15,57481206,Freedom Mortgage Corporation,11 MISC 456766,Servicemembers,Closed,20111209,20120511
+16,57643295,Freedom Mortgage Corporation,12H83SP01010TA,Housing Court Summary Process,Active,20120306,20120306
+17,57652291,Freedom Mortgage Corporation,12 MISC 458685,Servicemembers,Closed,20120127,20120511
+18,57704690,Freedom Mortgage Corporation,14 MISC 485063,Servicemembers,Open,20140725,20140725
+19,57733277,Freedom Mortgage Corporation,11 MISC 448895,Servicemembers,Closed,20110531,20110919
+20,57787010,Freedom Mortgage Corporation,11 MISC 448934,Servicemembers,Closed,20110601,20110916
+21,57813289,Freedom Mortgage Corporation,15 SM 001629,Servicemembers,Closed,20150306,20150724
+22,57873903,Freedom Mortgage Corporation,12 MISC 457838,Servicemembers,Closed,20120110,20120412
+23,57885236,Freedom Mortgage Corporation,12 MISC 457836,Servicemembers,Closed,20120110,20120413
+24,57921772,Freedom Mortgage Corporation,12 MISC 459463,Servicemembers,Closed,20120214,20120518
+25,58041565,Freedom Mortgage Corporation,15 SM 000832,Servicemembers,Open,20150211,20150211
+26,58051043,Freedom Mortgage Corporation,15 SM 000830,Servicemembers,Open,20150211,20150211
+27,58060134,Freedom Mortgage Corporation,14 MISC 483562,Servicemembers,Closed,20140508,20141121
+28,58120399,Freedom Mortgage Corporation,12 MISC 463690,Servicemembers,Closed,20120427,20121011
+29,58173955,Freedom Mortgage Corporation,12 MISC 459550,Servicemembers,Closed,20120215,20120518
+30,58229439,Freedom Mortgage Corporation,15 SM 006903,Servicemembers,Closed,20150818,20151116
+31,58262461,Freedom Mortgage Corporation,12 MISC 464604,Servicemembers,Closed,20120514,20130516
+32,58281525,Freedom Mortgage Corporation,12 MISC 459610,Servicemembers,Closed,20120216,20120511
+33,58327301,Freedom Mortgage Corporation,14 MISC 483911,Servicemembers,Closed,20140523,20140717
+34,58418865,Freedom Mortgage Corporation,15 SM 002583,Servicemembers,Closed,20150331,20150811
+35,58456592,Freedom Mortgage Corporation,12 MISC 467122,Servicemembers,Open,20120628,20120628
+36,58669060,Freedom Mortgage Corporation,12 MISC 463989,Servicemembers,Closed,20120503,20121012
+37,58671449,Freedom Mortgage Corporation,14H85SP000487,Housing Court Summary Process,Closed,20140204,20140623
+38,58760190,Freedom Mortgage Corporation,12 MISC 472761,Servicemembers,Closed,20121017,20130327
+39,58778876,Freedom Mortgage Corporation,14 MISC 486716,Servicemembers,Closed,20140926,20141230
+40,58805640,Freedom Mortgage Corporation,12 MISC 464047,Servicemembers,Closed,20120504,20120911
+41,58849502,Freedom Mortgage Corporation,12 MISC 464053,Servicemembers,Closed,20120504,20121011
+42,58864252,Freedom Mortgage Corporation,12 MISC 465293,Servicemembers,Closed,20120524,20121121
+43,59088894,Freedom Mortgage Corporation,12 MISC 465599,Servicemembers,Closed,20120531,20121126
+44,59090672,Freedom Mortgage Corporation,12 MISC 465589,Servicemembers,Closed,20120531,20121119
+45,59135869,Freedom Mortgage Corporation,16 SM 004716,Servicemembers,Open,20160505,20160505
+46,59555847,Freedom Mortgage Corporation,15 SM 001151,Servicemembers,Closed,20150218,20150714
+47,59567642,Freedom Mortgage Corporation,12 MISC 475063,Servicemembers,Closed,20121221,20130423
+48,59581525,Freedom Mortgage Corporation,12 MISC 475059,Servicemembers,Open,20121221,20121221
+49,59777125,Freedom Mortgage Corporation,15 SM 004632,Servicemembers,Closed,20150604,20150914
+0,59856803,Freedom Mortgage Corporation,12 MISC 465972,Servicemembers,Closed,20120608,20121203
+1,59891423,Freedom Mortgage Corporation,12 MISC 466178,Servicemembers,Open,20120613,20120613
+2,59911887,Freedom Mortgage Corporation,12 MISC 466212,Servicemembers,Closed,20120614,20130111
+3,59977516,Freedom Mortgage Corporation,12 MISC 466614,Servicemembers,Closed,20120620,20130107
+4,60185689,Freedom Mortgage Corporation,10 MISC 431684,Servicemembers,Closed,20100609,20101020
+5,60270546,Freedom Mortgage Corporation,10 MISC 443832,Servicemembers,Closed,20101214,20110510
+6,60309307,Freedom Mortgage Corporation,10 MISC 431895,Servicemembers,Closed,20100611,20101020
+7,60312822,Freedom Mortgage Corporation,10 MISC 442878,Servicemembers,Closed,20101112,20110426
+8,60329451,Freedom Mortgage Corporation,12 MISC 470673,Servicemembers,Closed,20120907,20130405
+9,60367152,Freedom Mortgage Corporation,10 MISC 431416,Servicemembers,Closed,20100607,20101013
+10,60400334,Freedom Mortgage Corporation,16 SM 001583,Servicemembers,Closed,20160217,20160613
+11,60473309,Freedom Mortgage Corporation,06 MISC 333567,Servicemembers,Closed,20061107,20150211
+12,60530496,Freedom Mortgage Corporation,12 MISC 471438,Servicemembers,Closed,20120921,20130618
+13,60546125,Freedom Mortgage Corporation,10 MISC 432233,Servicemembers,Closed,20100616,20101214
+14,60589550,Freedom Mortgage Corporation,09 MISC 407084,Servicemembers,Closed,20090722,20100106
+15,60620857,Freedom Mortgage Corporation,11 MISC 449779,Servicemembers,Closed,20110628,20110922
+16,60733939,Freedom Mortgage Corporation,12 MISC 473076,Servicemembers,Closed,20121024,20130401
+17,60791758,Freedom Mortgage Corporation,11H83SP04547PL,Housing Court Summary Process,Active,20111024,20111024
+18,60796220,Freedom Mortgage Corporation,11 MISC 447059,Servicemembers,Closed,20110405,20110914
+19,60800422,Freedom Mortgage Corporation,10 MISC 432417,Servicemembers,Closed,20100618,20101026
+20,60861082,Freedom Mortgage Corporation,11 MISC 453492,Servicemembers,Closed,20110916,20161118
+21,60917106,Freedom Mortgage Corporation,12 MISC 472221,Servicemembers,Closed,20121009,20130325
+22,60934422,Freedom Mortgage Corporation,09 MISC 406942,Servicemembers,Closed,20090721,20091216
+23,61112407,Freedom Mortgage Corporation,10 MISC 434301,Servicemembers,Closed,20100715,20101102
+24,61125939,Freedom Mortgage Corporation,11 MISC 449492,Servicemembers,Closed,20110622,20110922
+25,61148750,Freedom Mortgage Corporation,10 MISC 421064,Servicemembers,Closed,20100125,20101109
+26,61284937,Freedom Mortgage Corporation,15H83SP02734BR,Housing Court Summary Process,Active,20150622,20150622
+27,61480096,Freedom Mortgage Corporation,09 MISC 395903,Servicemembers,Closed,20090309,20091030
+28,61505346,Freedom Mortgage Corporation,15 SM 002414,Servicemembers,Open,20150327,20150327
+29,61516338,Freedom Mortgage Corporation,16 MISC 000679,Miscellaneous,Open,20161109,20161109
+30,61624469,Freedom Mortgage Corporation,09 MISC 397562,Servicemembers,Closed,20090331,20090929
+31,61803868,Freedom Mortgage Corporation,15 SM 005910,Servicemembers,Closed,20150717,20151007
+32,61814549,Freedom Mortgage Corporation,10 MISC 436963,Servicemembers,Closed,20100813,20101207
+33,61830335,Freedom Mortgage Corporation,12 MISC 465127,Servicemembers,Closed,20120522,20121116
+34,61878317,Freedom Mortgage Corporation,07 MISC 337921,Servicemembers,Closed,20070108,20070226
+35,61908854,Freedom Mortgage Corporation,12 MISC 464127,Servicemembers,Closed,20120507,20121012
+36,61912733,Freedom Mortgage Corporation,10 MISC 435656,Servicemembers,Closed,20100730,20101117
+37,61912811,Freedom Mortgage Corporation,10 MISC 426130,Servicemembers,Closed,20100330,20100817
+38,61962743,Freedom Mortgage Corporation,09 MISC 409472,Servicemembers,Closed,20090818,20100219
+39,62127591,Freedom Mortgage Corporation,12 MISC 461395,Servicemembers,Closed,20120321,20120629
+40,62181916,Freedom Mortgage Corporation,12 MISC 466817,Servicemembers,Closed,20120622,20161118
+41,62209338,Freedom Mortgage Corporation,10 MISC 435797,Servicemembers,Closed,20100803,20101123
+42,62244632,Freedom Mortgage Corporation,12 MISC 467246,Servicemembers,Closed,20120702,20130116
+43,62314539,Freedom Mortgage Corporation,10 MISC 435914,Servicemembers,Closed,20100804,20101117
+44,62335622,Freedom Mortgage Corporation,09 MISC 400289,Servicemembers,Closed,20090507,20091021
+45,62343409,Freedom Mortgage Corporation,09 MISC 400290,Servicemembers,Closed,20090507,20091021
+46,62361041,Freedom Mortgage Corporation,10 MISC 437399,Servicemembers,Closed,20100818,20161118
+47,62387118,Freedom Mortgage Corporation,12 MISC 467295,Servicemembers,Closed,20120703,20130115
+48,62393499,Freedom Mortgage Corporation,12 MISC 464859,Servicemembers,Closed,20120517,20121126
+49,62394531,Freedom Mortgage Corporation,12 MISC 466306,Servicemembers,Closed,20120615,20121213
+0,62469927,Freedom Mortgage Corporation,09 MISC 401163,Servicemembers,Closed,20090518,20091105
+1,62666431,Freedom Mortgage Corporation,12 MISC 457963,Servicemembers,Open,20120112,20120112
+2,62754965,Freedom Mortgage Corporation,15 SM 001075,Servicemembers,Open,20150217,20150217
+3,62834724,Freedom Mortgage Corporation,15H83SP01881PL,Housing Court Summary Process,Active,20150504,20150504
+4,62878313,Freedom Mortgage Corporation,15 SM 002365,Servicemembers,Closed,20150326,20150811
+5,62897093,Freedom Mortgage Corporation,14 MISC 482722,Servicemembers,Closed,20140403,20140711
+6,62942009,Freedom Mortgage Corporation,11 MISC 449260,Servicemembers,Closed,20110615,20110920
+7,62987421,Freedom Mortgage Corporation,15 SM 000469,Servicemembers,Closed,20150123,20150708
+8,62991548,Freedom Mortgage Corporation,11 MISC 449352,Servicemembers,Closed,20110617,20110921
+9,63076508,Freedom Mortgage Corporation,14 MISC 485969,Servicemembers,Closed,20140828,20141114
+10,63334582,Freedom Mortgage Corporation,10 MISC 442669,Servicemembers,Closed,20101109,20110426
+11,63340504,Freedom Mortgage Corporation,10 MISC 442678,Servicemembers,Closed,20101109,20110426
+12,63379706,Freedom Mortgage Corporation,11 MISC 457118,Servicemembers,Closed,20111220,20120315
+13,63413408,Freedom Mortgage Corporation,12 MISC 473570,Servicemembers,Closed,20121107,20130410
+14,63427889,Freedom Mortgage Corporation,11 MISC 457333,Servicemembers,Closed,20111223,20130508
+15,63427988,Freedom Mortgage Corporation,11 MISC 457322,Servicemembers,Closed,20111223,20130508
+16,63434258,Freedom Mortgage Corporation,11 MISC 457405,Servicemembers,Closed,20111228,20120412
+17,63438458,Freedom Mortgage Corporation,11 MISC 457402,Servicemembers,Closed,20111228,20120412
+18,63614069,Freedom Mortgage Corporation,14 MISC 486055,Servicemembers,Closed,20140903,20141216
+19,63624920,Freedom Mortgage Corporation,14 MISC 486058,Servicemembers,Open,20140903,20140903
+20,65228712,Freedom Mortgage Corporation,1683CV00826,Equitable Remedies,Open,20160824,20160824
+21,65329869,Freedom Mortgage Corporation,16 SM 008925,Servicemembers,Open,20160914,20160914
+22,65360399,Freedom Mortgage Corporation,16 SM 010284,Servicemembers,Open,20161024,20161024
+23,65382679,Freedom Mortgage Corporation,16 SM 009731,Servicemembers,Closed,20161007,20161104
+24,65475449,Freedom Mortgage Corporation,16 SM 009663,Servicemembers,Open,20161005,20161005
+25,65506085,Freedom Mortgage Corporation,16 SM 010232,Servicemembers,Open,20161021,20161021
+26,65530467,Freedom Mortgage Corporation,16 SM 009641,Servicemembers,Open,20161004,20161004
+27,65600874,Freedom Mortgage Corporation,16 SM 009600,Servicemembers,Open,20161003,20161003
+28,65634456,Freedom Mortgage Corporation,16 SM 009601,Servicemembers,Open,20161003,20161003
+29,65645289,Freedom Mortgage Corporation,16 SM 008242,Servicemembers,Open,20160818,20160818
+30,65785524,Freedom Mortgage Corporation,16 SM 008603,Servicemembers,Open,20160831,20160831
+31,66455602,Freedom Mortgage Corporation,16 SM 007890,Servicemembers,Open,20160808,20160808
+32,68191440,Freedom Mortgage Corporation,0877CV00768,Torts,Closed,20080415,20081211
+33,70521535,Freedom Mortgage Corporation,12 MISC 462306,Servicemembers,Closed,20120405,20161118
+34,70631345,Freedom Mortgage Corporation,14 MISC 488987,Servicemembers,Closed,20141222,20150519
+35,70638880,Freedom Mortgage Corporation,14 MISC 489024,Servicemembers,Closed,20141223,20150706
+36,70849289,Freedom Mortgage Corporation,12 MISC 459211,Servicemembers,Closed,20120208,20120521
+37,71778225,Freedom Mortgage Corporation,1379CV00135,Equitable Remedies,Closed,20130220,20130424
+38,72944597,Freedom Mortgage Corporation,13H77SP000709,Housing Court Summary Process,Closed,20130225,20130405
+39,74885147,Freedom Mortgage Corporation,1685CV00235,Equitable Remedies,Open,20160216,20160216
+40,75350486,Freedom Mortgage Corporation,0981CV04739,Real Property,Closed,20091207,20100930
+41,75922094,Freedom Mortgage Corporation,10 MISC 439777,Servicemembers,Closed,20100915,20110322
+42,76090651,Freedom Mortgage Corporation,09 MISC 398194,Servicemembers,Closed,20090408,20150211
+43,76179332,Freedom Mortgage Corporation,09 MISC 398294,Servicemembers,Closed,20090409,20091006
+44,76262468,Freedom Mortgage Corporation,12 MISC 464379,Servicemembers,Closed,20120510,20130130
+45,76344251,Freedom Mortgage Corporation,0983CV01156,Real Property,Closed,20090916,20091202
+46,76810055,Freedom Mortgage Corporation,09 MISC 401366,Servicemembers,Closed,20090520,20100112
+47,76844882,Freedom Mortgage Corporation,09 MISC 402135,Servicemembers,Closed,20090521,20091103
+48,76888916,Freedom Mortgage Corporation,10 MISC 430175,Servicemembers,Closed,20100519,20101005
+49,76947676,Freedom Mortgage Corporation,09 MISC 413304,Servicemembers,Closed,20091005,20100217
+0,77083286,Freedom Mortgage Corporation,09 MISC 402128,Servicemembers,Closed,20090529,20091103
+1,77642959,Freedom Mortgage Corporation,17 SM 005467,Servicemembers,Closed,20170619,20170814
+2,78333895,Freedom Mortgage Corporation,10 MISC 429899,Servicemembers,Closed,20100517,20101005
+3,78438365,Freedom Mortgage Corporation,09 MISC 404498,Servicemembers,Closed,20090624,20091124
+4,78958420,Freedom Mortgage Corporation,09 MISC 404028,Servicemembers,Closed,20090619,20091124
+5,81357134,Freedom Mortgage Corporation,17 SM 006829,Servicemembers,Closed,20170816,20180213
+6,81451753,Freedom Mortgage Corporation,17 SM 007149,Servicemembers,Closed,20170828,20180718
+7,81505021,Freedom Mortgage Corporation,17 SM 007607,Servicemembers,Closed,20170918,20180502
+8,81539310,Freedom Mortgage Corporation,17 SM 009095,Servicemembers,Closed,20171120,20180410
+9,81779517,Freedom Mortgage Corporation,17 SM 003117,Servicemembers,Open,20170405,20170405
+10,81837766,Freedom Mortgage Corporation,17 SM 003062,Servicemembers,Open,20170405,20170405
+11,81858243,Freedom Mortgage Corporation,17 SM 007446,Servicemembers,Closed,20170911,20180301
+12,82019980,Freedom Mortgage Corporation,17 SM 009760,Servicemembers,Closed,20171219,20180409
+13,82047791,Freedom Mortgage Corporation,17 SM 009725,Servicemembers,Closed,20171218,20190426
+14,82131133,Freedom Mortgage Corporation,17 SM 009364,Servicemembers,Closed,20171201,20180404
+15,82131409,Freedom Mortgage Corporation,17 SM 009327,Servicemembers,Closed,20171130,20180305
+16,82218296,Freedom Mortgage Corporation,17H79SP003815,Housing Court Summary Process,Closed,20170828,20170828
+17,82276505,Freedom Mortgage Corporation,17 SM 008957,Servicemembers,Closed,20171113,20180504
+18,82282647,Freedom Mortgage Corporation,17 SM 003009,Servicemembers,Closed,20170403,20171003
+19,82653944,Freedom Mortgage Corporation,18 SM 000709,Servicemembers,Closed,20180202,20180822
+20,82693793,Freedom Mortgage Corporation,17 SM 004402,Servicemembers,Closed,20170512,20180323
+21,82698856,Freedom Mortgage Corporation,18 MISC 000087,Miscellaneous,Closed,20180205,20180426
+22,82738798,Freedom Mortgage Corporation,17 SM 009943,Servicemembers,Closed,20171226,20180502
+23,82920003,Freedom Mortgage Corporation,16 SM 011510,Servicemembers,Closed,20161202,20170901
+24,83017101,Freedom Mortgage Corporation,16 SM 011612,Servicemembers,Open,20161206,20161206
+25,83069590,Freedom Mortgage Corporation,19 SM 002625,Servicemembers,Closed,20190528,20190716
+26,83090899,Freedom Mortgage Corporation,19 SM 002685,Servicemembers,Closed,20190530,20190718
+27,83103048,Freedom Mortgage Corporation,19 SM 002740,Servicemembers,Closed,20190604,20190725
+28,83109206,Freedom Mortgage Corporation,19 SM 002741,Servicemembers,Closed,20190604,20190725
+29,83128852,Freedom Mortgage Corporation,19 SM 002778,Servicemembers,Closed,20190606,20190725
+30,83154892,Freedom Mortgage Corporation,19 SM 002793,Servicemembers,Closed,20190607,20200207
+31,83178339,Freedom Mortgage Corporation,17 SM 001088,Servicemembers,Closed,20170206,20170912
+32,83203618,Freedom Mortgage Corporation,19 SM 002880,Servicemembers,Closed,20190613,20190919
+33,83213113,Freedom Mortgage Corporation,17 SM 001243,Servicemembers,Closed,20170213,20170920
+34,83222650,Freedom Mortgage Corporation,19 SM 002909,Servicemembers,Closed,20190617,20190806
+35,83225863,Freedom Mortgage Corporation,19 SM 002932,Servicemembers,Closed,20190618,20190806
+36,83228874,Freedom Mortgage Corporation,19 SM 002910,Servicemembers,Closed,20190617,20190905
+37,83234158,Freedom Mortgage Corporation,19 SM 002939,Servicemembers,Closed,20190619,20190916
+38,83282278,Freedom Mortgage Corporation,19 SM 003047,Servicemembers,Closed,20190626,20190828
+39,83523909,Freedom Mortgage Corporation,17 SM 005516,Servicemembers,Closed,20170621,20170720
+40,83654628,Freedom Mortgage Corporation,17 SM 005729,Servicemembers,Closed,20170628,20180130
+41,83753712,Freedom Mortgage Corporation,17 SM 005159,Servicemembers,Reopened,20170607,20180404
+42,83779301,Freedom Mortgage Corporation,19 SM 002536,Servicemembers,Closed,20190520,20191008
+43,83807022,Freedom Mortgage Corporation,19 SM 002568,Servicemembers,Open,20190522,20190522
+44,83873538,Freedom Mortgage Corporation,20 SM 000012,Servicemembers,Open,20200102,20200102
+45,83876627,Freedom Mortgage Corporation,20 SM 000011,Servicemembers,Closed,20200102,20210219
+46,83886632,Freedom Mortgage Corporation,19 SM 004068,Servicemembers,Closed,20190906,20191022
+47,83892777,Freedom Mortgage Corporation,19 SM 004117,Servicemembers,Open,20190910,20190910
+48,83904493,Freedom Mortgage Corporation,20 SM 000067,Servicemembers,Open,20200107,20200107
+49,83914547,Freedom Mortgage Corporation,20 SM 000124,Servicemembers,Closed,20200109,20210624
+0,83924298,Freedom Mortgage Corporation,19 SM 004167,Servicemembers,Closed,20190913,20191030
+1,83927006,Freedom Mortgage Corporation,19 SM 004168,Servicemembers,Closed,20190913,20191112
+2,83929910,Freedom Mortgage Corporation,20 SM 000126,Servicemembers,Closed,20200109,20200109
+3,83932263,Freedom Mortgage Corporation,17 SM 006287,Servicemembers,Closed,20170724,20180322
+4,83934996,Freedom Mortgage Corporation,19 SM 004183,Servicemembers,Closed,20190916,20200825
+5,83938793,Freedom Mortgage Corporation,20 SM 000167,Servicemembers,Closed,20200113,20200207
+6,83939866,Freedom Mortgage Corporation,20 SM 000200,Servicemembers,Closed,20200114,20201130
+7,83946306,Freedom Mortgage Corporation,20 SM 000163,Servicemembers,Closed,20200113,20201103
+8,83950316,Freedom Mortgage Corporation,20 SM 000323,Servicemembers,Open,20200121,20200121
+9,83957804,Freedom Mortgage Corporation,20 SM 000316,Servicemembers,Open,20200121,20200121
+10,83967982,Freedom Mortgage Corporation,19 SM 004474,Servicemembers,Closed,20190926,20191127
+11,83970928,Freedom Mortgage Corporation,20 SM 000388,Servicemembers,Closed,20200123,20200312
+12,83980437,Freedom Mortgage Corporation,19 SM 004663,Servicemembers,Closed,20191004,20200128
+13,83987176,Freedom Mortgage Corporation,19 SM 004486,Servicemembers,Closed,20190926,20200818
+14,83988641,Freedom Mortgage Corporation,19 SM 004612,Servicemembers,Closed,20191003,20210614
+15,83996490,Freedom Mortgage Corporation,20 SM 000469,Servicemembers,Closed,20200128,20210901
+16,83996635,Freedom Mortgage Corporation,20 SM 000645,Servicemembers,Open,20200204,20200204
+17,84002418,Freedom Mortgage Corporation,20 SM 000443,Servicemembers,Closed,20200127,20201222
+18,84021232,Freedom Mortgage Corporation,20 SM 000689,Servicemembers,Closed,20200206,20200923
+19,84024507,Freedom Mortgage Corporation,20 SM 000527,Servicemembers,Closed,20200130,20200818
+20,84025993,Freedom Mortgage Corporation,19 SM 004600,Servicemembers,Closed,20191002,20210615
+21,84026988,Freedom Mortgage Corporation,19 SM 004867,Servicemembers,Closed,20191015,20200106
+22,84039778,Freedom Mortgage Corporation,20 SM 000732,Servicemembers,Open,20200210,20200210
+23,84042574,Freedom Mortgage Corporation,20 SM 000766,Servicemembers,Closed,20200211,20201002
+24,84045577,Freedom Mortgage Corporation,20 SM 000733,Servicemembers,Open,20200210,20200210
+25,84051887,Freedom Mortgage Corporation,19 SM 004915,Servicemembers,Closed,20191017,20200108
+26,84052605,Freedom Mortgage Corporation,19 SM 004914,Servicemembers,Open,20191017,20191017
+27,84064971,Freedom Mortgage Corporation,20 SM 000786,Servicemembers,Closed,20200212,20201019
+28,84068009,Freedom Mortgage Corporation,19 SM 004998,Servicemembers,Closed,20191021,20200825
+29,84076696,Freedom Mortgage Corporation,19 SM 005011,Servicemembers,Closed,20191022,20191210
+30,84079815,Freedom Mortgage Corporation,19 SM 004999,Servicemembers,Closed,20191021,20191212
+31,84106197,Freedom Mortgage Corporation,19 SM 005067,Servicemembers,Closed,20191025,20191205
+32,84116707,Freedom Mortgage Corporation,19 SM 005110,Servicemembers,Closed,20191028,20200220
+33,84120974,Freedom Mortgage Corporation,19 SM 005112,Servicemembers,Closed,20191028,20200227
+34,84130443,Freedom Mortgage Corporation,17 SM 006343,Servicemembers,Closed,20170725,20180330
+35,84138367,Freedom Mortgage Corporation,19 SM 005157,Servicemembers,Closed,20191030,20200130
+36,84139194,Freedom Mortgage Corporation,19 SM 005498,Servicemembers,Closed,20191113,20200313
+37,84155656,Freedom Mortgage Corporation,19 SM 005532,Servicemembers,Closed,20191114,20200130
+38,84215562,Freedom Mortgage Corporation,17 SM 005000,Servicemembers,Closed,20170601,20180122
+39,84377417,Freedom Mortgage Corporation,2081CV00049,Contract / Business Cases,Open,20200107,20200107
+40,84544766,Freedom Mortgage Corporation,2082CV00372,Contract / Business Cases,Open,20200407,20200407
+41,86637066,Freedom Mortgage Corporation,18 SM 007623,Servicemembers,Closed,20181206,20190822
+42,86646795,Freedom Mortgage Corporation,18 SM 007611,Servicemembers,Closed,20181205,20190328
+43,86662462,Freedom Mortgage Corporation,18 SM 007765,Servicemembers,Closed,20181212,20190321
+44,86669299,Freedom Mortgage Corporation,18 SM 007625,Servicemembers,Closed,20181206,20190508
+45,86698782,Freedom Mortgage Corporation,18 SM 007660,Servicemembers,Closed,20181207,20190322
+46,86705691,Freedom Mortgage Corporation,18 SM 007661,Servicemembers,Closed,20181207,20190814
+47,86718653,Freedom Mortgage Corporation,1823SU000064,Summary Process,Disposed (Statistical Purposes),20180312,20180329
+48,86736024,Freedom Mortgage Corporation,19 SM 000009,Servicemembers,Closed,20190102,20190417
+49,86740878,Freedom Mortgage Corporation,18 SM 007847,Servicemembers,Closed,20181214,20190107
+0,86755143,Freedom Mortgage Corporation,18 SM 007692,Servicemembers,Open,20181210,20181210
+1,86765265,Freedom Mortgage Corporation,18 SM 007729,Servicemembers,Closed,20181211,20190408
+2,86780232,Freedom Mortgage Corporation,18 SM 007727,Servicemembers,Closed,20181211,20190320
+3,86781302,Freedom Mortgage Corporation,19 SM 000053,Servicemembers,Closed,20190104,20191011
+4,86783636,Freedom Mortgage Corporation,19 SM 000052,Servicemembers,Closed,20190104,20190219
+5,86784048,Freedom Mortgage Corporation,19 SM 000064,Servicemembers,Closed,20190104,20190807
+6,86803229,Freedom Mortgage Corporation,19 SM 000054,Servicemembers,Closed,20190104,20190417
+7,86809282,Freedom Mortgage Corporation,19 SM 000065,Servicemembers,Closed,20190104,20190402
+8,86835516,Freedom Mortgage Corporation,18 SM 007935,Servicemembers,Closed,20181220,20190628
+9,86850541,Freedom Mortgage Corporation,19 SM 000108,Servicemembers,Closed,20190108,20190403
+10,86856346,Freedom Mortgage Corporation,19 SM 000097,Servicemembers,Closed,20190108,20190516
+11,86875799,Freedom Mortgage Corporation,18 SM 008001,Servicemembers,Closed,20181221,20190729
+12,86879824,Freedom Mortgage Corporation,18 SM 008000,Servicemembers,Closed,20181221,20190402
+13,86913265,Freedom Mortgage Corporation,18 SM 008107,Servicemembers,Closed,20181228,20190122
+14,86917850,Freedom Mortgage Corporation,18 SM 008077,Servicemembers,Closed,20181228,20190408
+15,86921360,Freedom Mortgage Corporation,18 SM 007528,Servicemembers,Closed,20181203,20190729
+16,86931369,Freedom Mortgage Corporation,18 SM 008078,Servicemembers,Closed,20181228,20190402
+17,86955356,Freedom Mortgage Corporation,19 SM 000223,Servicemembers,Closed,20190114,20190411
+18,86955919,Freedom Mortgage Corporation,19 SM 000236,Servicemembers,Closed,20190115,20190508
+19,86962626,Freedom Mortgage Corporation,19 SM 000235,Servicemembers,Closed,20190115,20190502
+20,86964479,Freedom Mortgage Corporation,19 SM 000217,Servicemembers,Closed,20190114,20190726
+21,87075562,Freedom Mortgage Corporation,19 SM 000434,Servicemembers,Closed,20190123,20191003
+22,87103176,Freedom Mortgage Corporation,19 SM 000557,Servicemembers,Closed,20190128,20190521
+23,87118271,Freedom Mortgage Corporation,18 SM 002183,Servicemembers,Closed,20180403,20180706
+24,87139880,Freedom Mortgage Corporation,18 SM 002294,Servicemembers,Closed,20180406,20180808
+25,87195709,Freedom Mortgage Corporation,19 SM 002253,Servicemembers,Closed,20190501,20190618
+26,87196307,Freedom Mortgage Corporation,18 SM 002518,Servicemembers,Closed,20180417,20180629
+27,87199761,Freedom Mortgage Corporation,18 SM 002528,Servicemembers,Closed,20180417,20190228
+28,87199845,Freedom Mortgage Corporation,19 SM 002270,Servicemembers,Closed,20190501,20200220
+29,87204072,Freedom Mortgage Corporation,18 SM 004036,Servicemembers,Closed,20180615,20190107
+30,87239458,Freedom Mortgage Corporation,19 SM 002311,Servicemembers,Closed,20190503,20190605
+31,87245814,Freedom Mortgage Corporation,19 SM 002286,Servicemembers,Closed,20190503,20210728
+32,87274977,Freedom Mortgage Corporation,19 SM 002384,Servicemembers,Closed,20190509,20190716
+33,87340215,Freedom Mortgage Corporation,19 SM 002465,Servicemembers,Closed,20190515,20211021
+34,87345354,Freedom Mortgage Corporation,19 SM 002453,Servicemembers,Closed,20190515,20190716
+35,87664588,Freedom Mortgage Corporation,18 SM 005023,Servicemembers,Closed,20180730,20181219
+36,87666273,Freedom Mortgage Corporation,18 SM 005036,Servicemembers,Closed,20180730,20190401
+37,87706175,Freedom Mortgage Corporation,18 SM 001613,Servicemembers,Closed,20180312,20180418
+38,87773186,Freedom Mortgage Corporation,18 SM 001819,Servicemembers,Closed,20180320,20180702
+39,88453894,Freedom Mortgage Corporation,17 SM 007647,Servicemembers,Closed,20170919,20180320
+40,12277074,Freedom Mortgage Corporation dba Jefferson Home Mortgage and Loan,12H83SP00227TA,Housing Court Summary Process,Active,20120117,20120117
+41,50906847,Freedom Mortgage Corporation dba Jefferson Home Mortgage and Loan,12 MISC 463437,Servicemembers,Open,20120424,20120424
+42,53020027,"Freedom Mortgage Corporation,",15 SM 010535,Servicemembers,Closed,20151130,20160203
+43,54232938,"Freedom Mortgage Corporation,",15 SM 006056,Servicemembers,Closed,20150723,20151127
+44,56460130,"Freedom Mortgage Corporation,",12 MISC 474624,Servicemembers,Closed,20121211,20130417
+45,57205719,"Freedom Mortgage Corporation,",15 SM 002844,Servicemembers,Open,20150408,20150408
+46,76982036,"Freedom Mortgage Corporation,",10 MISC 441929,Servicemembers,Closed,20101021,20110420
+47,56254370,Freedom Mortgage Corporatiom,16 SM 000925,Servicemembers,Closed,20160201,20160603
+48,59868446,New Freedom Mortgage Corporation,05 MISC 313249,Servicemembers,Closed,20050909,20051122
+49,61801402,"Freedom Mortgage Corporation By LoanCare,",11 MISC 451819,Servicemembers,Closed,20110805,20111118
+0,62122200,Freedom Mortgage Corporation DBA Jefferson Mortgage and Loan,12 MISC 462593,Servicemembers,Closed,20120410,20120803
+1,74114825,Freedom Mortgage Corporation Mortgage Electronic Registration Systems Inc as Nominee for,0976CV00084,Real Property,Closed,20090318,20090716
+2,81986838,Freedom Mortgage Corporation (Subst.Pltf),17 SM 009285,Servicemembers,Closed,20171129,20190208
